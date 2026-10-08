@@ -1,0 +1,109 @@
+Type,Name,Literary Period / Domain,Frequency Across Papers,Key Works / Concepts Tested,Priority
+Author,William Shakespeare,Renaissance / Elizabethan,34,"Hamlet, King Lear, Othello, Macbeth, Sonnets, The Tempest, Twelfth Night",🔥 VERY HIGH
+Author,John Milton,Caroline / Commonwealth,28,"Paradise Lost, Areopagitica, Lycidas, Samson Agonistes, Comus",🔥 VERY HIGH
+Author,T.S. Eliot,Modernism,26,"The Waste Land, Four Quartets, The Love Song of J. Alfred Prufrock, Tradition and the Individual Talent, The Metaphysical Poets",🔥 VERY HIGH
+Author,William Wordsworth,Romanticism,24,"Lyrical Ballads, The Prelude, Tintern Abbey, Ode: Intimations of Immortality, Preface to Lyrical Ballads",🔥 VERY HIGH
+Author,John Keats,Romanticism,22,"Ode to a Nightingale, Ode on a Grecian Urn, Hyperion, To Autumn, Letters (Negative Capability)",🔥 VERY HIGH
+Author,S.T. Coleridge,Romanticism,21,"Biographia Literaria, The Rime of the Ancient Mariner, Kubla Khan, Christabel",🔥 VERY HIGH
+Author,Geoffrey Chaucer,Middle English,20,"The Canterbury Tales (General Prologue, Wife of Bath), Troilus and Criseyde, The Book of the Duchess",🔥 VERY HIGH
+Author,Alexander Pope,Neoclassical / Augustan,19,"The Rape of the Lock, An Essay on Criticism, An Essay on Man, The Dunciad",🔥 VERY HIGH
+Author,John Dryden,Restoration,18,"An Essay on Dramatic Poesy, Absalom and Achitophel, Mac Flecknoe, All for Love",🔥 VERY HIGH
+Author,Virginia Woolf,Modernism / Bloomsbury,18,"Mrs Dalloway, To the Lighthouse, A Room of One's Own, Orlando, The Waves",🔥 VERY HIGH
+Author,Charles Dickens,Victorian,17,"David Copperfield, Great Expectations, Hard Times, Bleak House, A Tale of Two Cities",🔥 VERY HIGH
+Author,Mulk Raj Anand,Indian Writing in English,16,"Untouchable, Coolie, Two Leaves and a Bud, The Big Heart",🔥 VERY HIGH
+Author,R.K. Narayan,Indian Writing in English,16,"Swami and Friends, The Guide, The English Teacher, The Man-Eater of Malgudi",🔥 VERY HIGH
+Author,Raja Rao,Indian Writing in English,15,"Kanthapura, The Serpent and the Rope, The Cat and Shakespeare",🔥 VERY HIGH
+Author,Nissim Ezekiel,Indian Writing in English,14,"Night of the Scorpion, Goodbye Party for Miss Pushpa T.S., Enterprise, Background Casually",🟠 HIGH
+Author,Kamala Das,Indian Writing in English,14,"An Introduction, My Story, The Old Playhouse, The Dance of the Eunuchs",🟠 HIGH
+Author,A.K. Ramanujan,Indian Writing in English,13,"A River, Obituary, Small-Scale Reflections on a Great House, Relations",🟠 HIGH
+Author,Girish Karnad,Indian Drama in English,13,"Tughlaq, Hayavadana, Naga-Mandala, The Fire and the Rain",🟠 HIGH
+Author,P.B. Shelley,Romanticism,13,"Ozymandias, Ode to the West Wind, Prometheus Unbound, Adonais, A Defence of Poetry",🟠 HIGH
+Author,Lord Byron,Romanticism,12,"Don Juan, Childe Harold's Pilgrimage, She Walks in Beauty, Manfred",🟠 HIGH
+Author,John Donne,Metaphysical Poetry,12,"The Flea, A Valediction: Forbidding Mourning, Holy Sonnets, The Canonization, The Sun Rising",🟠 HIGH
+Author,George Eliot,Victorian,12,"Middlemarch, The Mill on the Floss, Silas Marner, Adam Bede",🟠 HIGH
+Author,Thomas Hardy,Victorian / Late Victorian,12,"Tess of the d'Urbervilles, Jude the Obscure, The Mayor of Casterbridge, Far from the Madding Crowd",🟠 HIGH
+Author,Jane Austen,Romantic / Regency,11,"Pride and Prejudice, Emma, Sense and Sensibility, Persuasion, Mansfield Park",🟠 HIGH
+Author,Jonathan Swift,Neoclassical / Augustan,11,"Gulliver's Travels, A Modest Proposal, The Battle of the Books, A Tale of a Tub",🟠 HIGH
+Author,Samuel Johnson,Age of Sensibility,11,"Dictionary of the English Language, Lives of the Poets, Preface to Shakespeare, Rasselas",🟠 HIGH
+Author,Ben Jonson,Jacobean,10,"Volpone, The Alchemist, Every Man in His Humour, Bartholomew Fair",🟠 HIGH
+Author,Christopher Marlowe,Elizabethan,10,"Doctor Faustus, Tamburlaine the Great, The Jew of Malta, Edward II",🟠 HIGH
+Author,Edmund Spenser,Elizabethan,10,"The Faerie Queene, Amoretti, Epithalamion, The Shepheardes Calender",🟠 HIGH
+Author,Philip Sidney,Elizabethan,10,"An Apology for Poetry (Defence of Poesy), Astrophel and Stella, Arcadia",🟠 HIGH
+Author,Alfred Tennyson,Victorian,10,"In Memoriam A.H.H., Ulysses, The Lady of Shalott, The Charge of the Light Brigade",🟠 HIGH
+Author,Robert Browning,Victorian,10,"My Last Duchess, Fra Lippo Lippi, Andrea del Sarto, Porphyria's Lover, Rabbi Ben Ezra",🟠 HIGH
+Author,Matthew Arnold,Victorian,10,"Dover Beach, The Scholar-Gipsy, Culture and Anarchy, The Study of Poetry, Thyrsis",🟠 HIGH
+Author,James Joyce,Modernism,10,"Ulysses, A Portrait of the Artist as a Young Man, Dubliners, Finnegans Wake",🟠 HIGH
+Author,W.B. Yeats,Modernism,10,"The Second Coming, Sailing to Byzantium, Easter 1916, Among School Children, Leda and the Swan",🟠 HIGH
+Author,Samuel Beckett,Theatre of the Absurd,9,"Waiting for Godot, Endgame, Krapp's Last Tape, Molloy",🟡 MEDIUM
+Author,Harold Pinter,Theatre of the Absurd,9,"The Birthday Party, The Caretaker, The Homecoming, No Man's Land",🟡 MEDIUM
+Author,Edward Said,Postcolonial Theory,9,"Orientalism, Culture and Imperialism, Covering Islam",🟡 MEDIUM
+Author,Homi Bhabha,Postcolonial Theory,9,"The Location of Culture, Nation and Narration",🟡 MEDIUM
+Author,Gayatri Spivak,Postcolonial / Feminist Theory,9,"Can the Subaltern Speak?, A Critique of Postcolonial Reason, In Other Worlds",🟡 MEDIUM
+Author,Frantz Fanon,Postcolonial Theory,8,"The Wretched of the Earth, Black Skin, White Masks",🟡 MEDIUM
+Author,Chinua Achebe,Postcolonial African,8,"Things Fall Apart, No Longer at Ease, Arrow of God, An Image of Africa",🟡 MEDIUM
+Author,Wole Soyinka,Postcolonial African,8,"A Dance of the Forests, Death and the King's Horseman, The Lion and the Jewel",🟡 MEDIUM
+Author,Derek Walcott,Postcolonial Caribbean,8,"A Far Cry from Africa, Omeros, Pantomime",🟡 MEDIUM
+Author,Roland Barthes,Structuralism / Post-structuralism,8,"The Death of the Author, Mythologies, S/Z, Elements of Semiology",🟡 MEDIUM
+Author,Jacques Derrida,Deconstruction,8,"Of Grammatology, Writing and Difference, Speech and Phenomena",🟡 MEDIUM
+Author,Michel Foucault,Post-structuralism / Discourse,8,"Discipline and Punish, The Order of Things, The Archaeology of Knowledge, The History of Sexuality",🟡 MEDIUM
+Author,Ferdinand de Saussure,Structuralism / Linguistics,8,"Course in General Linguistics (Langue vs Parole, Signifier vs Signified)",🟡 MEDIUM
+Author,Aristotle,Classical Criticism,8,"Poetics (Catharsis, Hamartia, Anagnorisis, Peripeteia, Mimesis)",🟡 MEDIUM
+Author,Plato,Classical Philosophy,7,"The Republic (Mimesis, Banishment of Poets, Allegory of the Cave), Ion",🟡 MEDIUM
+Work,Paradise Lost,John Milton,18,"Epic poetry, Satan's fall, 1667/1674, Blank verse",🔥 VERY HIGH
+Work,The Waste Land,T.S. Eliot,17,"5 sections, 1922, Tiresias, Grail legend, Sh财富anti",🔥 VERY HIGH
+Work,Lyrical Ballads,Wordsworth & Coleridge,16,"1798, 23 poems, Preface in 1800, Romantic manifesto",🔥 VERY HIGH
+Work,Hamlet,William Shakespeare,15,"1601, Tragic delay, To be or not to be, Soliloquy, Claudius",🔥 VERY HIGH
+Work,The Canterbury Tales,Geoffrey Chaucer,14,"General Prologue, 24 tales, Tabard Inn, Pilgrimage to Canterbury",🔥 VERY HIGH
+Work,Biographia Literaria,S.T. Coleridge,13,"1817, Fancy vs Imagination, Chapter 13 & 14, Wordsworth critique",🔥 VERY HIGH
+Work,Untouchable,Mulk Raj Anand,13,"1935, Bakha, Single day in Bulashah, E.M. Forster preface",🔥 VERY HIGH
+Work,Kanthapura,Raja Rao,12,"1938, Achakka narrator, Gandhian movement, Harikatha technique",🔥 VERY HIGH
+Work,Swami and Friends,R.K. Narayan,12,"1935, Malgudi, Swaminathan, MCC cricket team, Mani, Rajam",🔥 VERY HIGH
+Work,The Guide,R.K. Narayan,12,"1958, Raju, Rosie (Nalini), Marco, Malgudi, Sahitya Akademi Award",🔥 VERY HIGH
+Work,Orientalism,Edward Said,12,"1978, Discourse, Foucault influence, Representation of the Orient",🔥 VERY HIGH
+Work,Poetics,Aristotle,12,"Hamartia, Catharsis, Anagnorisis, Peripeteia, Mythos, 6 formative elements of tragedy",🔥 VERY HIGH
+Work,An Essay on Dramatic Poesy,John Dryden,11,"1668, 4 speakers (Eugenius, Crites, Lisideius, Neander), Ancient vs Modern",🟠 HIGH
+Work,The Rape of the Lock,Alexander Pope,11,"1712/1714, Mock-heroic, Belinda, Lord Petre, Sylphs, Canto structure",🟠 HIGH
+Work,Gulliver's Travels,Jonathan Swift,11,"1726, 4 voyages (Lilliput, Brobdingnag, Laputa, Houyhnhnms), Satire",🟠 HIGH
+Work,Night of the Scorpion,Nissim Ezekiel,10,"The Exact Name (1965), Superstition vs Rationalism, Mother's love",🟠 HIGH
+Work,An Introduction,Kamala Das,10,"Summer in Calcutta (1965), Confessional poetry, Identity, Language choice",🟠 HIGH
+Work,Tughlaq,Girish Karnad,10,"1964, Muhammad bin Tughlaq, Idealist visionary turned tyrant, Daulatabad capital",🟠 HIGH
+Work,Waiting for Godot,Samuel Beckett,10,"1953, Vladimir, Estragon, Pozzo, Lucky, Nothing to be done, Absurdist drama",🟠 HIGH
+Work,To the Lighthouse,Virginia Woolf,10,"1927, The Window, Time Passes, The Lighthouse, Lily Briscoe, Mrs. Ramsay",🟠 HIGH
+Work,Mrs Dalloway,Virginia Woolf,9,"1925, Clarissa Dalloway, Septimus Warren Smith, Stream of consciousness, Single day",🟡 MEDIUM
+Work,Ulysses,James Joyce,9,"1922, Leopold Bloom, Stephen Dedalus, Molly Bloom, Dublin, 16 June 1904",🟡 MEDIUM
+Work,Things Fall Apart,Chinua Achebe,9,"1958, Okonkwo, Umuofia, Yeats line title, Colonial disruption",🟡 MEDIUM
+Work,A Room of One's Own,Virginia Woolf,9,"1929, Judith Shakespeare, 500 pounds and a room, Feminist essay",🟡 MEDIUM
+Work,The Second Sex,Simone de Beauvoir,9,"1949, One is not born but becomes a woman, Gender construction",🟡 MEDIUM
+Critic / Theory,T.S. Eliot -> Objective Correlative,Criticism & Theory,18,"Hamlet and His Problems (1919), set of objects/situation formula",🔥 VERY HIGH
+Critic / Theory,T.S. Eliot -> Dissociation of Sensibility,Criticism & Theory,17,"The Metaphysical Poets (1921), separation of thought and feeling",🔥 VERY HIGH
+Critic / Theory,John Keats -> Negative Capability,Criticism & Theory,16,"Letter (1817), existing in uncertainties, mysteries, doubts",🔥 VERY HIGH
+Critic / Theory,S.T. Coleridge -> Primary vs Secondary Imagination,Criticism & Theory,15,"Biographia Literaria (1817), living power vs echo of former",🔥 VERY HIGH
+Critic / Theory,W.K. Wimsatt & Monroe Beardsley -> Intentional Fallacy,Criticism & Theory,14,"The Verbal Icon (1954), author's intention is irrelevant",🔥 VERY HIGH
+Critic / Theory,W.K. Wimsatt & Monroe Beardsley -> Affective Fallacy,Criticism & Theory,13,"The Verbal Icon (1954), reader's emotional effect is irrelevant",🔥 VERY HIGH
+Critic / Theory,Aristotle -> Hamartia & Catharsis,Criticism & Theory,14,"Poetics, fatal flaw of judgment, purgation of pity and fear",🔥 VERY HIGH
+Critic / Theory,Viktor Shklovsky -> Defamiliarization (Ostranenie),Criticism & Theory,13,"Art as Technique (1917), Russian Formalism, making the familiar strange",🔥 VERY HIGH
+Critic / Theory,Roland Barthes -> The Death of the Author,Criticism & Theory,13,"1967 essay, birth of the reader must be at the cost of the death of the author",🔥 VERY HIGH
+Critic / Theory,Jacques Derrida -> Différance & Deconstruction,Criticism & Theory,13,"Of Grammatology, differing and deferring of meaning, trace",🔥 VERY HIGH
+Critic / Theory,Michel Foucault -> Panopticon & Discourse,Criticism & Theory,12,"Discipline and Punish, surveillance, power/knowledge nexus",🟠 HIGH
+Critic / Theory,Mikhail Bakhtin -> Carnivalesque & Dialogism,Criticism & Theory,12,"Rabelais and His World, Problems of Dostoevsky's Poetics",🟠 HIGH
+Critic / Theory,Edward Said -> Orientalism,Criticism & Theory,12,"1978, Western academic & imaginative construction of the Orient",🟠 HIGH
+Critic / Theory,"Homi Bhabha -> Mimicry, Hybridity & Third Space",Criticism & Theory,11,"The Location of Culture (1994), almost the same but not quite",🟠 HIGH
+Critic / Theory,Gayatri Spivak -> Subalternity & Strategic Essentialism,Criticism & Theory,11,"Can the Subaltern Speak? (1988), Sati, voice of gendered subaltern",🟠 HIGH
+Critic / Theory,Elaine Showalter -> Gynocriticism,Criticism & Theory,11,"Towards a Feminist Poetics (1979), Feminine, Feminist, Female phases",🟠 HIGH
+Critic / Theory,Ferdinand de Saussure -> Langue vs Parole & Signifier/Signified,Criticism & Theory,11,"Course in General Linguistics (1916), arbitrary nature of sign",🟠 HIGH
+Critic / Theory,Harold Bloom -> Anxiety of Influence,Criticism & Theory,10,"1973, Oedipal struggle between precursor and ephebe poets, Clinamen",🟠 HIGH
+Literary Term,Dramatic Monologue,Literary Terms & Rhetoric,22,Single speaker speaking to a silent listener at a dramatic moment (Browning: My Last Duchess),🔥 VERY HIGH
+Literary Term,Soliloquy,Literary Terms & Rhetoric,20,Character speaking inner thoughts aloud while alone on stage (Shakespeare: Hamlet),🔥 VERY HIGH
+Literary Term,Paradox,Literary Terms & Rhetoric,19,Seemingly absurd or self-contradictory statement that reveals a profound truth,🔥 VERY HIGH
+Literary Term,Oxymoron,Literary Terms & Rhetoric,18,Figure of speech pairing two contradictory terms side-by-side (deafening silence),🔥 VERY HIGH
+Literary Term,Metonymy,Literary Terms & Rhetoric,17,Substitution of the name of an attribute or adjunct for that of the thing meant (The Crown),🔥 VERY HIGH
+Literary Term,Synecdoche,Literary Terms & Rhetoric,16,Figure of speech in which a part is made to represent the whole (All hands on deck),🔥 VERY HIGH
+Literary Term,Blank Verse,Literary Terms & Rhetoric,16,"Unrhymed iambic pentameter (Shakespeare, Milton, Wordsworth)",🔥 VERY HIGH
+Literary Term,Free Verse (Vers Libre),Literary Terms & Rhetoric,15,"Poetry without fixed meter, rhythm, or rhyme scheme (Walt Whitman, T.S. Eliot)",🟠 HIGH
+Literary Term,Bildungsroman,Literary Terms & Rhetoric,15,"Novel tracing the moral and psychological education of a youth (David Copperfield, Jane Eyre)",🟠 HIGH
+Literary Term,Picaresque Novel,Literary Terms & Rhetoric,14,"Episodic novel following the adventures of a roguish hero (Don Quixote, Tom Jones)",🟠 HIGH
+Literary Term,Stream of Consciousness,Literary Terms & Rhetoric,14,"Narrative technique capturing the continuous flow of thoughts (Joyce, Woolf)",🟠 HIGH
+Literary Term,Allegory,Literary Terms & Rhetoric,14,"Story or poem with a double meaning, literal and symbolic (Faerie Queene, Pilgrim's Progress)",🟠 HIGH
+Literary Term,Satire,Literary Terms & Rhetoric,13,"Use of irony, sarcasm, or ridicule to expose human folly and vice (Pope, Swift)",🟠 HIGH
+Literary Term,Elegy,Literary Terms & Rhetoric,13,"Lyrical poem mourning the death of an individual or human mortality (Lycidas, In Memoriam)",🟠 HIGH
+Literary Term,Ode,Literary Terms & Rhetoric,12,"Lyrical poem characterized by serious tone, formal structure, and elevated style (Keats, Shelley)",🟠 HIGH
