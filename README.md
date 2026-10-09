@@ -9,7 +9,7 @@ Welcome to the comprehensive, source-verified archive for **CUET-PG English (Pap
 * 🌐 **[Live Hosted Web Portal](https://aakashvish17.github.io/cuet-pg-english-laqp01-pyq/)** — Interactive browser portal with search, filters, match tables, and 1-click downloads.
 * 📄 **[Download 5-Page Printable Revision Booklet (PDF)](./CUET_PG_LAQP01_Printable_Booklet.pdf)** — Handcrafted, ready-to-print revision booklet for self-study without screens.
 * 📖 **[32-Section Master PYQ Analysis Report](./LAQP01_COMPLETE_PYQ_ANALYSIS.md)** — Empirical research analyzing recurring authors, works, terms, and the 2-Year Pulse.
-* 🔁 **[Repeated Questions Bank](./LAQP01_REPEATED_QUESTIONS.md)** — Verbatim, near, and conceptual repetitions with verified answers.
+* 🔁 **[Repeated Questions Bank (Web Portal)](./LAQP01_REPEATED_QUESTIONS.html)** — Verbatim, near, and conceptual repetitions with verified answers. ([Raw Markdown](./LAQP01_REPEATED_QUESTIONS.md))
 
 ---
 
