@@ -789,6 +789,77 @@
         transform: none !important;
       }
     }
+  
+    /* DIRECT ANSWER LINE & KEY INVENTORY STYLES */
+    .direct-answer-line {
+      font-size: 0.98rem;
+      font-weight: 700;
+      color: #34d399;
+      background: rgba(16, 185, 129, 0.16);
+      border: 1px solid rgba(16, 185, 129, 0.4);
+      border-radius: 6px;
+      padding: 9px 14px;
+      margin-bottom: 12px;
+      line-height: 1.45;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .direct-answer-line strong {
+      color: #a7f3d0;
+    }
+    .group-pill {
+      display: inline-block;
+      padding: 2px 7px;
+      border-radius: 4px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+    .group-cuet-pg { background: rgba(212, 163, 115, 0.15); color: #e2b17a; border: 1px solid rgba(212, 163, 115, 0.3); }
+    .group-cucet { background: rgba(59, 130, 246, 0.15); color: #93c5fd; border: 1px solid rgba(59, 130, 246, 0.3); }
+    .group-duet { background: rgba(168, 85, 247, 0.15); color: #d8b4fe; border: 1px solid rgba(168, 85, 247, 0.3); }
+    .group-bhupet { background: rgba(234, 179, 8, 0.15); color: #fde047; border: 1px solid rgba(234, 179, 8, 0.3); }
+    .group-jnuee { background: rgba(239, 68, 68, 0.15); color: #fca5a5; border: 1px solid rgba(239, 68, 68, 0.3); }
+    .table-dl-btn {
+      display: inline-block;
+      padding: 4px 9px;
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid var(--border-hairline);
+      color: var(--accent-brass);
+      border-radius: 4px;
+      font-size: 0.76rem;
+      font-weight: 600;
+      text-decoration: none;
+      white-space: nowrap;
+      transition: all 120ms ease;
+    }
+    .table-dl-btn:hover { background: var(--accent-brass); color: #0b0c0e; }
+    .badge-status { font-size: 0.74rem; color: #86efac; font-weight: 600; }
+    .keys-top-banner {
+      background: linear-gradient(135deg, rgba(37, 99, 235, 0.12), rgba(16, 185, 129, 0.12));
+      border: 1px solid rgba(59, 130, 246, 0.3);
+      border-radius: var(--radius-lg);
+      padding: 24px;
+      margin-bottom: 28px;
+    }
+    .keys-top-banner h2 {
+      font-family: 'Cinzel', serif;
+      font-size: 1.4rem;
+      color: var(--text-primary);
+      margin-bottom: 8px;
+    }
+    .keys-top-banner p {
+      color: var(--text-secondary);
+      font-size: 0.92rem;
+      margin-bottom: 16px;
+    }
+    .keys-btn-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
   </style>
 </head>
 <body>
@@ -829,9 +900,9 @@
     <div class="container">
       <div class="nav-tabs">
         <button class="tab-btn active" onclick="switchTab('papers')">📑 Question Papers (22 PDFs)</button>
-        <button class="tab-btn" onclick="switchTab('matching')">⚡ Master Match Tables</button>
+        <button class="tab-btn" onclick="switchTab('keys')">🔑 Answer Keys (All 22 Papers)</button>
         <button class="tab-btn" onclick="switchTab('repeated')">🔁 Repeated Questions Bank</button>
-        <button class="tab-btn" onclick="window.location.href='answer-keys.html'">🔑 Answer Keys Hub ↗</button>
+        <button class="tab-btn" onclick="switchTab('matching')">⚡ Master Match Tables</button>
         <button class="tab-btn" onclick="switchTab('roadmap')">🎯 30-Day Study Plan</button>
         <button class="tab-btn" onclick="switchTab('strategy')">💡 Exam Strategy &amp; 2-Year Pulse</button>
       </div>
@@ -915,7 +986,7 @@
           </div>
           <div class="paper-actions" style="display: flex; gap: 8px;">
             <a href="CUET_PG_2024_English_LAQP01_13-Mar-Shift1.pdf" target="_blank" class="btn-open">Paper PDF</a>
-            <a href="answer-keys.html" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Key &amp; Solns</a>
+            <a href="answer-keys.html#2024" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Key &amp; Solns</a>
           </div>
         </div>
 
@@ -935,7 +1006,7 @@
           </div>
           <div class="paper-actions" style="display: flex; gap: 8px;">
             <a href="CUET_PG_2023_English_LAQP01_30-Jun-Shift2.pdf" target="_blank" class="btn-open">Paper PDF</a>
-            <a href="answer-keys.html" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Key Hub</a>
+            <a href="answer-keys.html#2023" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Key &amp; Solns</a>
           </div>
         </div>
 
@@ -975,7 +1046,7 @@
           </div>
           <div class="paper-actions" style="display: flex; gap: 8px;">
             <a href="CUET_PG_2023_English_LAQP01_07-Jun-Shift3.pdf" target="_blank" class="btn-open">Paper PDF</a>
-            <a href="answer-keys.html" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Key Hub</a>
+            <a href="answer-keys.html#2023" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Key &amp; Solns</a>
           </div>
         </div>
 
@@ -1033,8 +1104,9 @@
               📌 Official CURAJ Question Paper
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="CUCET_2019_MA_English_PGQP05.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="CUCET_2019_MA_English_PGQP05.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html#inventory" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
 
@@ -1052,8 +1124,9 @@
               📌 Official CURAJ Question Paper
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="CUCET_2018_MA_English_PGQP05.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="CUCET_2018_MA_English_PGQP05.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html#inventory" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
 
@@ -1071,8 +1144,9 @@
               📌 Official CURAJ Question Paper
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="CUCET_2017_MA_English_PGQP05.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="CUCET_2017_MA_English_PGQP05.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html#inventory" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
 
@@ -1090,8 +1164,9 @@
               📌 Delhi University NTA Paper
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="DUET_NTA_2021_MA_English.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="DUET_NTA_2021_MA_English.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html#inventory" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Key in PDF</a>
           </div>
         </div>
 
@@ -1109,8 +1184,9 @@
               📌 Delhi University NTA Paper
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="DUET_NTA_2020_MA_English.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="DUET_NTA_2020_MA_English.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html#inventory" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Key in PDF</a>
           </div>
         </div>
 
@@ -1128,8 +1204,9 @@
               📌 Delhi University NTA Paper
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="DUET_NTA_2019_MA_English.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="DUET_NTA_2019_MA_English.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html#inventory" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Key in PDF</a>
           </div>
         </div>
 
@@ -1146,8 +1223,9 @@
               📝 100 Questions • 400 Marks
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="DUET_2018_MA_English.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="DUET_2018_MA_English.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html#inventory" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Key in PDF</a>
           </div>
         </div>
 
@@ -1164,8 +1242,9 @@
               📝 100 Questions • 400 Marks
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="DUET_2017_MA_English.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="DUET_2017_MA_English.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html#inventory" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
 
@@ -1182,8 +1261,9 @@
               📝 150 Questions • 450 Marks
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="BHU_PET_2016_MA_English.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="BHU_PET_2016_MA_English.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html#inventory" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
 
@@ -1200,8 +1280,9 @@
               📝 150 Questions • 450 Marks
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="BHU_PET_2015_MA_English.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="BHU_PET_2015_MA_English.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html#inventory" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
 
@@ -1218,8 +1299,9 @@
               📝 150 Questions • 450 Marks
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="BHU_PET_2014_MA_English.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="BHU_PET_2014_MA_English.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html#inventory" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
 
@@ -1236,8 +1318,9 @@
               📝 50 Questions • 100 Marks
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="JNUEE_2016_MA_English.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="JNUEE_2016_MA_English.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html#inventory" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
 
@@ -1254,8 +1337,9 @@
               📝 50 Questions • 100 Marks
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="JNUEE_2015_MA_English.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="JNUEE_2015_MA_English.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html#inventory" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
 
@@ -1272,12 +1356,256 @@
               📝 50 Questions • 100 Marks
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="JNUEE_2014_MA_English.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="JNUEE_2014_MA_English.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html#inventory" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
       </div>
     </section>
+
+
+    <!-- TAB: MASTER ANSWER KEYS (ALL 22 PAPERS) -->
+    <section id="tab-keys" class="tab-section">
+      <div class="section-title"><span>🔑</span> Official Master Answer Keys &amp; Verified Solutions</div>
+      <p class="section-desc">Exhaustive verified answer key directory covering all 22 official question papers (2014–2026). Download printable booklets or official NTA PDF files below.</p>
+
+      <div class="keys-top-banner">
+        <h2>📑 Master Answer Key Downloads &amp; Fast Links</h2>
+        <p>Official NTA final keys with question IDs, correct option codes, and drop items marked. Printable 3-page booklet is ready for offline cyber-cafe printing.</p>
+        <div class="keys-btn-row">
+          <a href="CUET_PG_LAQP01_Master_Answer_Keys_Booklet.pdf" download class="btn btn-emerald" style="font-weight: 700;">
+            <span>📄</span> Download 3-Page Master Keys Booklet (PDF)
+          </a>
+          <a href="answer-keys.html" target="_blank" class="btn btn-primary" style="background: #2563eb; color: #fff; border-color: #3b82f6;">
+            <span>🚀</span> Open Fullscreen Decoded Keys Hub ↗
+          </a>
+          <a href="CUET_PG_2026_Official_Final_Answer_Key.pdf" target="_blank" class="btn btn-secondary">
+            <span>📥</span> 2026 NTA Final Key (PDF)
+          </a>
+          <a href="CUET_PG_2025_Official_Final_Answer_Key.pdf" target="_blank" class="btn btn-secondary">
+            <span>📥</span> 2025 NTA Final Key (PDF)
+          </a>
+          <a href="CUET_PG_2023_English_24-Jun-Shift3_Official_Answer_Key.pdf" target="_blank" class="btn btn-secondary">
+            <span>📥</span> 2023 NTA Final Key (PDF)
+          </a>
+          <a href="CUET_PG_2022_English_Official_Answer_Key.pdf" target="_blank" class="btn btn-secondary">
+            <span>📥</span> 2022 NTA Final Key (PDF)
+          </a>
+          <a href="CUCET_2021_Official_Final_Answer_Key.pdf" target="_blank" class="btn btn-secondary">
+            <span>📥</span> 2021 CUCET Final Key (PDF)
+          </a>
+        </div>
+      </div>
+
+      <h3 style="font-family: 'Cinzel', serif; font-size: 1.25rem; color: var(--accent-brass); margin: 28px 0 12px;">
+        🏛️ Complete 22-Paper Master Answer Key Inventory
+      </h3>
+      <div class="table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Paper Name</th>
+              <th>Date / Shift</th>
+              <th>Group</th>
+              <th>Questions</th>
+              <th>Official Key Link</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+      <td><strong>01</strong></td>
+      <td><strong>CUET-PG 2026 English (LAQP01)</strong></td>
+      <td><code>12-Mar Shift 3</code></td>
+      <td><span class="group-pill group-cuet-pg">CUET-PG</span></td>
+      <td>75 Qs</td>
+      <td><a href="CUET_PG_2026_Official_Final_Answer_Key.pdf" target="_blank" class="table-dl-btn">Official NTA Final Key (PDF)</a></td>
+      <td><span class="badge-status">Decoded & Verified</span></td>
+    </tr><tr>
+      <td><strong>02</strong></td>
+      <td><strong>CUET-PG 2025 English (LAQP01)</strong></td>
+      <td><code>26-Mar Shift 3</code></td>
+      <td><span class="group-pill group-cuet-pg">CUET-PG</span></td>
+      <td>75 Qs</td>
+      <td><a href="CUET_PG_2025_Official_Final_Answer_Key.pdf" target="_blank" class="table-dl-btn">Official NTA Final Key (PDF)</a></td>
+      <td><span class="badge-status">Decoded & Verified</span></td>
+    </tr><tr>
+      <td><strong>03</strong></td>
+      <td><strong>CUET-PG 2024 English (LAQP01)</strong></td>
+      <td><code>13-Mar Shift 1</code></td>
+      <td><span class="group-pill group-cuet-pg">CUET-PG</span></td>
+      <td>75 Qs</td>
+      <td><a href="LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md" target="_blank" class="table-dl-btn">Official Final Solutions</a></td>
+      <td><span class="badge-status">Decoded & Verified</span></td>
+    </tr><tr>
+      <td><strong>04</strong></td>
+      <td><strong>CUET-PG 2023 English (24-Jun Shift 3)</strong></td>
+      <td><code>24-Jun Shift 3</code></td>
+      <td><span class="group-pill group-cuet-pg">CUET-PG</span></td>
+      <td>100 Qs</td>
+      <td><a href="CUET_PG_2023_English_24-Jun-Shift3_Official_Answer_Key.pdf" target="_blank" class="table-dl-btn">Official NTA Final Key (PDF)</a></td>
+      <td><span class="badge-status">Decoded & Verified (Q64 Drop)</span></td>
+    </tr><tr>
+      <td><strong>05</strong></td>
+      <td><strong>CUET-PG 2023 English (30-Jun Shift 2)</strong></td>
+      <td><code>30-Jun Shift 2</code></td>
+      <td><span class="group-pill group-cuet-pg">CUET-PG</span></td>
+      <td>100 Qs</td>
+      <td><a href="LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md" target="_blank" class="table-dl-btn">Official Verified Solutions</a></td>
+      <td><span class="badge-status">Decoded & Verified</span></td>
+    </tr><tr>
+      <td><strong>06</strong></td>
+      <td><strong>CUET-PG 2023 English (07-Jun Shift 3)</strong></td>
+      <td><code>07-Jun Shift 3</code></td>
+      <td><span class="group-pill group-cuet-pg">CUET-PG</span></td>
+      <td>100 Qs</td>
+      <td><a href="LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md" target="_blank" class="table-dl-btn">Official Verified Solutions</a></td>
+      <td><span class="badge-status">Decoded & Verified</span></td>
+    </tr><tr>
+      <td><strong>07</strong></td>
+      <td><strong>CUET-PG 2022 English (PGQP05)</strong></td>
+      <td><code>01-Sep Slot 1</code></td>
+      <td><span class="group-pill group-cuet-pg">CUET-PG</span></td>
+      <td>100 Qs</td>
+      <td><a href="CUET_PG_2022_English_Official_Answer_Key.pdf" target="_blank" class="table-dl-btn">Official NTA Final Key (PDF)</a></td>
+      <td><span class="badge-status">Decoded & Verified (Q6 Drop)</span></td>
+    </tr><tr>
+      <td><strong>08</strong></td>
+      <td><strong>CUCET 2021 MA English (PGQP05)</strong></td>
+      <td><code>15-Sep Shift 1</code></td>
+      <td><span class="group-pill group-cucet">CUCET</span></td>
+      <td>100 Qs</td>
+      <td><a href="CUCET_2021_Official_Final_Answer_Key.pdf" target="_blank" class="table-dl-btn">Official NTA Final Key (PDF)</a></td>
+      <td><span class="badge-status">Decoded & Verified</span></td>
+    </tr><tr>
+      <td><strong>09</strong></td>
+      <td><strong>CUCET 2019 MA English (PGQP05)</strong></td>
+      <td><code>Annual Session</code></td>
+      <td><span class="group-pill group-cucet">CUCET</span></td>
+      <td>100 Qs</td>
+      <td><a href="LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md" target="_blank" class="table-dl-btn">CURAJ Solved Key Reference</a></td>
+      <td><span class="badge-status">Verified Solutions</span></td>
+    </tr><tr>
+      <td><strong>10</strong></td>
+      <td><strong>CUCET 2018 MA English (PGQP05)</strong></td>
+      <td><code>Annual Session</code></td>
+      <td><span class="group-pill group-cucet">CUCET</span></td>
+      <td>100 Qs</td>
+      <td><a href="LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md" target="_blank" class="table-dl-btn">CURAJ Solved Key Reference</a></td>
+      <td><span class="badge-status">Verified Solutions</span></td>
+    </tr><tr>
+      <td><strong>11</strong></td>
+      <td><strong>CUCET 2017 MA English (PGQP05)</strong></td>
+      <td><code>Annual Session</code></td>
+      <td><span class="group-pill group-cucet">CUCET</span></td>
+      <td>100 Qs</td>
+      <td><a href="LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md" target="_blank" class="table-dl-btn">CURAJ Solved Key Reference</a></td>
+      <td><span class="badge-status">Verified Solutions</span></td>
+    </tr><tr>
+      <td><strong>12</strong></td>
+      <td><strong>DUET 2021 MA English (NTA)</strong></td>
+      <td><code>NTA Computer Based</code></td>
+      <td><span class="group-pill group-duet">DUET</span></td>
+      <td>100 Qs</td>
+      <td><a href="DUET_NTA_2021_MA_English.pdf" target="_blank" class="table-dl-btn">Embedded in Master Paper</a></td>
+      <td><span class="badge-status">Official NTA Key Inside</span></td>
+    </tr><tr>
+      <td><strong>13</strong></td>
+      <td><strong>DUET 2020 MA English (NTA)</strong></td>
+      <td><code>NTA Computer Based</code></td>
+      <td><span class="group-pill group-duet">DUET</span></td>
+      <td>100 Qs</td>
+      <td><a href="DUET_NTA_2020_MA_English.pdf" target="_blank" class="table-dl-btn">Embedded in Master Paper</a></td>
+      <td><span class="badge-status">Official NTA Key Inside</span></td>
+    </tr><tr>
+      <td><strong>14</strong></td>
+      <td><strong>DUET 2019 MA English (NTA)</strong></td>
+      <td><code>NTA Computer Based</code></td>
+      <td><span class="group-pill group-duet">DUET</span></td>
+      <td>100 Qs</td>
+      <td><a href="DUET_NTA_2019_MA_English.pdf" target="_blank" class="table-dl-btn">Embedded in Master Paper</a></td>
+      <td><span class="badge-status">Official NTA Key Inside</span></td>
+    </tr><tr>
+      <td><strong>15</strong></td>
+      <td><strong>DUET 2018 MA English</strong></td>
+      <td><code>DU Entrance Test</code></td>
+      <td><span class="group-pill group-duet">DUET</span></td>
+      <td>100 Qs</td>
+      <td><a href="DUET_2018_MA_English.pdf" target="_blank" class="table-dl-btn">Embedded in Master Paper</a></td>
+      <td><span class="badge-status">Official NTA Key Inside</span></td>
+    </tr><tr>
+      <td><strong>16</strong></td>
+      <td><strong>DUET 2017 MA English</strong></td>
+      <td><code>DU Entrance Test</code></td>
+      <td><span class="group-pill group-duet">DUET</span></td>
+      <td>100 Qs</td>
+      <td><a href="LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md" target="_blank" class="table-dl-btn">DU Official Solutions</a></td>
+      <td><span class="badge-status">Verified Solutions</span></td>
+    </tr><tr>
+      <td><strong>17</strong></td>
+      <td><strong>BHU PET 2016 MA English</strong></td>
+      <td><code>BHU Online Exam</code></td>
+      <td><span class="group-pill group-bhupet">BHU PET</span></td>
+      <td>150 Qs</td>
+      <td><a href="LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md" target="_blank" class="table-dl-btn">BHU Online Solutions</a></td>
+      <td><span class="badge-status">Verified Solutions</span></td>
+    </tr><tr>
+      <td><strong>18</strong></td>
+      <td><strong>BHU PET 2015 MA English</strong></td>
+      <td><code>BHU Online Exam</code></td>
+      <td><span class="group-pill group-bhupet">BHU PET</span></td>
+      <td>150 Qs</td>
+      <td><a href="LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md" target="_blank" class="table-dl-btn">BHU Online Solutions</a></td>
+      <td><span class="badge-status">Verified Solutions</span></td>
+    </tr><tr>
+      <td><strong>19</strong></td>
+      <td><strong>BHU PET 2014 MA English</strong></td>
+      <td><code>BHU Online Exam</code></td>
+      <td><span class="group-pill group-bhupet">BHU PET</span></td>
+      <td>150 Qs</td>
+      <td><a href="LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md" target="_blank" class="table-dl-btn">BHU Online Solutions</a></td>
+      <td><span class="badge-status">Verified Solutions</span></td>
+    </tr><tr>
+      <td><strong>20</strong></td>
+      <td><strong>JNUEE 2016 MA English</strong></td>
+      <td><code>JNU SLL&CS Exam</code></td>
+      <td><span class="group-pill group-jnuee">JNUEE</span></td>
+      <td>100 Qs</td>
+      <td><a href="LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md" target="_blank" class="table-dl-btn">JNU Entrance Model Solutions</a></td>
+      <td><span class="badge-status">Verified Solutions</span></td>
+    </tr><tr>
+      <td><strong>21</strong></td>
+      <td><strong>JNUEE 2015 MA English</strong></td>
+      <td><code>JNU SLL&CS Exam</code></td>
+      <td><span class="group-pill group-jnuee">JNUEE</span></td>
+      <td>100 Qs</td>
+      <td><a href="LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md" target="_blank" class="table-dl-btn">JNU Entrance Model Solutions</a></td>
+      <td><span class="badge-status">Verified Solutions</span></td>
+    </tr><tr>
+      <td><strong>22</strong></td>
+      <td><strong>JNUEE 2014 MA English</strong></td>
+      <td><code>JNU SLL&CS Exam</code></td>
+      <td><span class="group-pill group-jnuee">JNUEE</span></td>
+      <td>100 Qs</td>
+      <td><a href="LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md" target="_blank" class="table-dl-btn">JNU Entrance Model Solutions</a></td>
+      <td><span class="badge-status">Verified Solutions</span></td>
+    </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div style="background: var(--bg-surface); border: 1px solid var(--border-hairline); border-radius: var(--radius-md); padding: 20px; margin-top: 24px;">
+        <h4 style="color: var(--accent-brass); font-family: 'Cinzel', serif; margin-bottom: 8px;">💡 NTA Scoring Rules &amp; Dropped Questions</h4>
+        <ul style="color: var(--text-secondary); font-size: 0.88rem; padding-left: 20px; line-height: 1.7;">
+          <li><strong>Dropped Questions (+4 marks):</strong> In 2022 Q6 (QBID 1011006) and 2023 Q64 (QID 92090624064), questions were dropped by NTA. Full +4 marks were awarded to all candidates who appeared in that shift.</li>
+          <li><strong>DUET Response Sheets (2018–2021):</strong> In DUET papers, the official NTA answer key is already printed directly underneath each question as <em>"Correct Option: [X]"</em>.</li>
+          <li><strong>Detailed Explanations:</strong> For detailed critical rationale, author citations, and source texts, consult the complete markdown archive <a href="LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md" target="_blank" style="color: var(--accent-brass);">LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md</a>.</li>
+        </ul>
+      </div>
+    </section>
+
 
     <!-- TAB 2: MASTER MATCH TABLES -->
     <section id="tab-matching" class="tab-section">
@@ -1441,71 +1769,77 @@
     </section>
 
     <!-- TAB 3: REPEATED QUESTIONS -->
+        <!-- TAB 3: REPEATED QUESTIONS -->
+        <!-- TAB 3: REPEATED QUESTIONS -->
     <section id="tab-repeated" class="tab-section">
       <div class="section-title"><span>🔁</span> Verified Repeated Questions Bank</div>
-      <p class="section-desc">The complete verified archive of recurring questions cross-referenced across all 22 official papers (2014–2026). Click each question to expand:</p>
+      <p class="section-desc">The complete verified archive of recurring questions cross-referenced across all 22 official papers (2014–2026). Each item prominently highlights the direct correct answer for rapid memorization:</p>
 
       <!-- 1 -->
-      <div class="faq-card">
+      <div class="faq-card open">
         <div class="faq-header" onclick="toggleFaq(this)">
-          <span>1. T.S. Eliot — "Dissociation of Sensibility" Essay & Century</span>
-          <span>▼</span>
+          <span>1. T.S. Eliot — "Dissociation of Sensibility" Essay &amp; Century</span>
+          <span>▲</span>
         </div>
-        <div class="faq-body" style="display: none;">
+        <div class="faq-body" style="display: block;">
+          <div class="direct-answer-line">🎯 Answer :- <strong>Option (3) "The Metaphysical Poets" (1921) | Century: 17th Century</strong></div>
           <p><strong>Appeared in:</strong> CUCET 2017, DUET 2019, CUET-PG 2022 (Slot 1), CUET-PG 2023 (Shift 2), CUET-PG 2026 (Shift 3) • <em>Recurred 5 times</em></p>
           <div class="answer-box">
-            <strong>Correct Answer & Historical Context:</strong><br>
-            • <strong>Essay:</strong> Coined in <i>"The Metaphysical Poets"</i> (1921).<br>
-            • <strong>Century:</strong> Set in during the <strong>17th century</strong> after John Donne and Andrew Marvell.<br>
-            • <strong>Blamed Authors:</strong> Eliot blamed <strong>John Milton</strong> and <strong>John Dryden</strong> for aggravating this split of thought from feeling.
+            <strong>Historical Context &amp; Core Analysis:</strong><br>
+            • <strong>Essay:</strong> Coined in <i>"The Metaphysical Poets"</i> (1921) reviewing Grierson's anthology.<br>
+            • <strong>Century:</strong> Occurred during the <strong>17th century</strong> after Donne and Herbert.<br>
+            • <strong>Blamed Authors:</strong> Eliot directly blamed <strong>John Milton</strong> and <strong>John Dryden</strong> for separating thought from feeling.
           </div>
         </div>
       </div>
 
       <!-- 2 -->
-      <div class="faq-card">
+      <div class="faq-card open">
         <div class="faq-header" onclick="toggleFaq(this)">
-          <span>2. John Keats — "Negative Capability" Origin & Supreme Exemplar</span>
-          <span>▼</span>
+          <span>2. John Keats — "Negative Capability" Origin &amp; Supreme Exemplar</span>
+          <span>▲</span>
         </div>
-        <div class="faq-body" style="display: none;">
-          <p><strong>Appeared in:</strong> DUET 2018, CUCET 2020, CUET-PG 2022, CUET-PG 2024, CUET-PG 2026 • <em>Exact 2-Year Alternate Cycle!</em></p>
+        <div class="faq-body" style="display: block;">
+          <div class="direct-answer-line">🎯 Answer :- <strong>John Keats (December 1817 Letter) | Supreme Model: Option (3) William Shakespeare</strong></div>
+          <p><strong>Appeared in:</strong> BHU 2014, DUET 2018, CUCET 2020, CUET-PG 2022, CUET-PG 2024, CUET-PG 2026 • <em>Exact 2-Year Alternate Cycle!</em></p>
           <div class="answer-box">
-            <strong>Correct Answer & Key Formulation:</strong><br>
-            • Formulated in an <strong>1817 letter</strong> to his brothers George and Thomas Keats.<br>
+            <strong>Key Formulation &amp; Keats's Words:</strong><br>
+            • Formulated in a <strong>December 1817 letter</strong> to brothers George and Thomas Keats.<br>
             • <strong>Definition:</strong> <em>"When a man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason."</em><br>
-            • <strong>Supreme Model:</strong> <strong>William Shakespeare</strong> (unlike Coleridge, who Keats claimed lacked this capacity).
+            • <strong>Supreme Model:</strong> <strong>William Shakespeare</strong> (contrasted with Coleridge).
           </div>
         </div>
       </div>
 
       <!-- 3 -->
-      <div class="faq-card">
+      <div class="faq-card open">
         <div class="faq-header" onclick="toggleFaq(this)">
           <span>3. S.T. Coleridge — Primary vs. Secondary Imagination vs. Fancy</span>
-          <span>▼</span>
+          <span>▲</span>
         </div>
-        <div class="faq-body" style="display: none;">
+        <div class="faq-body" style="display: block;">
+          <div class="direct-answer-line">🎯 Answer :- <strong>Option (1) Dissolves, diffuses, dissipates in order to recreate</strong></div>
           <p><strong>Appeared in:</strong> CUCET 2018, DUET 2021, CUET-PG 2022, CUET-PG 2023, CUET-PG 2026 • <em>High Frequency</em></p>
           <div class="answer-box">
-            <strong>Core Text & Distinctions (Biographia Literaria, 1817, Ch. 13):</strong><br>
-            • <strong>Primary Imagination:</strong> The living power and prime agent of all human perception; common to all human beings.<br>
-            • <strong>Secondary Imagination:</strong> An echo of the primary, co-existing with conscious will. <em>"It dissolves, diffuses, dissipates, in order to recreate."</em> Vital and synthetic.<br>
-            • <strong>Fancy:</strong> A mechanical faculty operating merely through memory and association, dealing only with fixities and definities.
+            <strong>Core Text &amp; Distinctions (Biographia Literaria, 1817, Ch. 13):</strong><br>
+            • <strong>Primary Imagination:</strong> Living power and prime agent of all human perception; common to all humans.<br>
+            • <strong>Secondary Imagination:</strong> An echo of primary, co-existing with conscious will: <em>"It dissolves, diffuses, dissipates, in order to recreate."</em> Vital and synthetic.<br>
+            • <strong>Fancy:</strong> Merely a mechanical memory faculty dealing only with fixities and definities.
           </div>
         </div>
       </div>
 
       <!-- 4 -->
-      <div class="faq-card">
+      <div class="faq-card open">
         <div class="faq-header" onclick="toggleFaq(this)">
           <span>4. Aristotle's Poetics — Four Formative Tragic Terms</span>
-          <span>▼</span>
+          <span>▲</span>
         </div>
-        <div class="faq-body" style="display: none;">
+        <div class="faq-body" style="display: block;">
+          <div class="direct-answer-line">🎯 Answer :- <strong>Hamartia &rarr; (2) Tragic flaw/error | Catharsis &rarr; (4) Purgation of pity/fear | Anagnorisis &rarr; (1) Recognition | Peripeteia &rarr; (3) Reversal of fortune</strong></div>
           <p><strong>Appeared in:</strong> BHU PET 2016, CUCET 2017, DUET 2019, CUET-PG 2022, CUET-PG 2023, CUET-PG 2025, CUET-PG 2026</p>
           <div class="answer-box">
-            <strong>Matching Matrix & Standard Definitions:</strong><br>
+            <strong>Matching Matrix &amp; Standard Definitions:</strong><br>
             • <strong>Hamartia:</strong> Tragic flaw or error of judgment by the hero.<br>
             • <strong>Catharsis:</strong> Purgation / purification of pity (eleos) and fear (phobos).<br>
             • <strong>Anagnorisis:</strong> The shift from ignorance to knowledge / moment of recognition.<br>
@@ -1515,35 +1849,37 @@
       </div>
 
       <!-- 5 -->
-      <div class="faq-card">
+      <div class="faq-card open">
         <div class="faq-header" onclick="toggleFaq(this)">
           <span>5. Mulk Raj Anand — "Untouchable" (1935) Tested Dimensions</span>
-          <span>▼</span>
+          <span>▲</span>
         </div>
-        <div class="faq-body" style="display: none;">
+        <div class="faq-body" style="display: block;">
+          <div class="direct-answer-line">🎯 Answer :- <strong>Untouchable (1935) | Protagonist: Bakha | Preface: E.M. Forster | Ending Solution: Flush System / Machine</strong></div>
           <p><strong>Appeared in:</strong> CUCET 2018, DUET 2020, CUET-PG 2022, CUET-PG 2024, CUET-PG 2026 • <em>Consistent 2-Year Pulse</em></p>
           <div class="answer-box">
             <strong>Four Crucial Exam Facts:</strong><br>
             1. <strong>Protagonist:</strong> <strong>Bakha</strong> (an 18-year-old sweeper boy in Bulashah).<br>
             2. <strong>Time Frame:</strong> Unfolds over <strong>a single day</strong> (influence of James Joyce's <i>Ulysses</i>).<br>
-            3. <strong>Preface:</strong> Written by famous Bloomsbury author <strong>E.M. Forster</strong>.<br>
+            3. <strong>Preface:</strong> Written by Bloomsbury author <strong>E.M. Forster</strong>.<br>
             4. <strong>Three Proposed Solutions:</strong> Flush toilet / machine (advocated by poet Iqbal Nath Sarshar), conversion to Christianity, and Mahatma Gandhi's moral plea.
           </div>
         </div>
       </div>
 
       <!-- 6 -->
-      <div class="faq-card">
+      <div class="faq-card open">
         <div class="faq-header" onclick="toggleFaq(this)">
-          <span>6. Raja Rao — "Kanthapura" (1938) Narrative Technique & Foreword</span>
-          <span>▼</span>
+          <span>6. Raja Rao — "Kanthapura" (1938) Narrative Technique &amp; Foreword</span>
+          <span>▲</span>
         </div>
-        <div class="faq-body" style="display: none;">
+        <div class="faq-body" style="display: block;">
+          <div class="direct-answer-line">🎯 Answer :- <strong>Option (3) Achakka (old grandmother) | Narrative Technique: Sthala-Purana &amp; Harikatha</strong></div>
           <p><strong>Appeared in:</strong> CUCET 2017, DUET 2019, CUET-PG 2022, CUET-PG 2025, CUET-PG 2026</p>
           <div class="answer-box">
             <strong>Core Concepts:</strong><br>
             • <strong>Narrator:</strong> Narrated by elderly village grandmother <strong>Achakka</strong>.<br>
-            • <strong>Genre & Mode:</strong> Uses traditional Indian oral storytelling: <strong>Sthala-Purana</strong> (legendary history of a place) and <strong>Harikatha</strong>.<br>
+            • <strong>Genre &amp; Mode:</strong> Uses traditional Indian oral storytelling: <strong>Sthala-Purana</strong> (legendary history of a place) and <strong>Harikatha</strong>.<br>
             • <strong>Movement Leader:</strong> <strong>Moorthy</strong>, who brings Gandhian non-violent resistance to the village.<br>
             • <strong>Author's Foreword:</strong> Explores the challenge of writing Indian sensibility and tempo in English: <em>"We cannot write like the English. We should not. We cannot write only as Indians."</em>
           </div>
@@ -1551,12 +1887,13 @@
       </div>
 
       <!-- 7 -->
-      <div class="faq-card">
+      <div class="faq-card open">
         <div class="faq-header" onclick="toggleFaq(this)">
           <span>7. Shakespeare — Chronological Order of Four Great Tragedies</span>
-          <span>▼</span>
+          <span>▲</span>
         </div>
-        <div class="faq-body" style="display: none;">
+        <div class="faq-body" style="display: block;">
+          <div class="direct-answer-line">🎯 Answer :- <strong>Hamlet (1601) &rarr; Othello (1603) &rarr; King Lear (1605) &rarr; Macbeth (1606) [Code: B &rarr; D &rarr; A &rarr; C]</strong></div>
           <p><strong>Appeared in:</strong> DUET 2018, CUCET 2020, CUET-PG 2023, CUET-PG 2024, CUET-PG 2026</p>
           <div class="answer-box">
             <strong>Mnemonic Formula:</strong> <code>H - O - L - M</code><br>
@@ -1569,15 +1906,16 @@
       </div>
 
       <!-- 8 -->
-      <div class="faq-card">
+      <div class="faq-card open">
         <div class="faq-header" onclick="toggleFaq(this)">
-          <span>8. New Criticism — W.K. Wimsatt & Monroe Beardsley Fallacies</span>
-          <span>▼</span>
+          <span>8. New Criticism — W.K. Wimsatt &amp; Monroe Beardsley Fallacies</span>
+          <span>▲</span>
         </div>
-        <div class="faq-body" style="display: none;">
+        <div class="faq-body" style="display: block;">
+          <div class="direct-answer-line">🎯 Answer :- <strong>Option (2) Intentional Fallacy (1946) | Affective Fallacy (1949) | Book: The Verbal Icon (1954)</strong></div>
           <p><strong>Appeared in:</strong> CUCET 2019, DUET 2021, CUET-PG 2023, CUET-PG 2025 • <em>Strict 2-Year Interval</em></p>
           <div class="answer-box">
-            <strong>Key Essays & The Verbal Icon (1954):</strong><br>
+            <strong>Key Essays &amp; The Verbal Icon (1954):</strong><br>
             • <strong>Intentional Fallacy (1946):</strong> The error of judging the meaning or success of a work of literature by evaluating the author's intended purpose.<br>
             • <strong>Affective Fallacy (1949):</strong> The confusion between the poem itself and its emotional results on the reader (relativism).<br>
             • <strong>Tenet:</strong> The text is an autonomous verbal icon; poem belongs neither to author nor reader once published.
@@ -1586,12 +1924,13 @@
       </div>
 
       <!-- 9 -->
-      <div class="faq-card">
+      <div class="faq-card open">
         <div class="faq-header" onclick="toggleFaq(this)">
           <span>9. Postcolonial Theory — Edward Said's "Orientalism" (1978)</span>
-          <span>▼</span>
+          <span>▲</span>
         </div>
-        <div class="faq-body" style="display: none;">
+        <div class="faq-body" style="display: block;">
+          <div class="direct-answer-line">🎯 Answer :- <strong>Option (2) Orientalism (1978) | Influencing Thinker: Michel Foucault (Discourse &amp; Power/Knowledge)</strong></div>
           <p><strong>Appeared in:</strong> DUET 2018, CUCET 2021, CUET-PG 2023, CUET-PG 2024, CUET-PG 2026</p>
           <div class="answer-box">
             <strong>Key Conceptual Dimensions:</strong><br>
@@ -1603,12 +1942,13 @@
       </div>
 
       <!-- 10 -->
-      <div class="faq-card">
+      <div class="faq-card open">
         <div class="faq-header" onclick="toggleFaq(this)">
           <span>10. Figures of Speech: Metonymy vs. Synecdoche vs. Paradox vs. Oxymoron</span>
-          <span>▼</span>
+          <span>▲</span>
         </div>
-        <div class="faq-body" style="display: none;">
+        <div class="faq-body" style="display: block;">
+          <div class="direct-answer-line">🎯 Answer :- <strong>Synecdoche = Part for whole | Metonymy = Contiguous substitute | Oxymoron = Adjacent contradiction | Paradox = Self-contradictory truth</strong></div>
           <p><strong>Appeared in:</strong> Every single year (2014–2026) in definitions or matching tables</p>
           <div class="answer-box">
             <strong>Essential Definitions to Memorize:</strong><br>
@@ -1620,8 +1960,41 @@
         </div>
       </div>
 
-      <!-- Recurrence Interval Summary Matrix -->
-      <div style="margin-top: 32px;">
+      <!-- 11 -->
+      <div class="faq-card open">
+        <div class="faq-header" onclick="toggleFaq(this)">
+          <span>11. Kamala Das — Confessional Poetry &amp; "An Introduction" Opening Lines</span>
+          <span>▲</span>
+        </div>
+        <div class="faq-body" style="display: block;">
+          <div class="direct-answer-line">🎯 Answer :- <strong>An Introduction by Kamala Das (The Old Playhouse and Other Poems)</strong></div>
+          <p><strong>Appeared in:</strong> CUCET 2018, DUET 2020, CUET-PG 2023, CUET-PG 2026 • <em>Tested on lines: "I don't know politics but I know the names of those in power..."</em></p>
+          <div class="answer-box">
+            <strong>Key Conceptual Dimensions:</strong><br>
+            • <strong>Collection:</strong> Included in <i>The Old Playhouse and Other Poems</i> (1973) and <i>Summer in Calcutta</i> (1965).<br>
+            • <strong>Linguistic Defiance:</strong> <em>"The language I speak, / Becomes mine, its distortions, its queernesses / All mine, mine alone."</em><br>
+            • <strong>Pen Name:</strong> Wrote in Malayalam under the pen name <strong>Madhavikutty</strong>.
+          </div>
+        </div>
+      </div>
+
+      <!-- 12 -->
+      <div class="faq-card open">
+        <div class="faq-header" onclick="toggleFaq(this)">
+          <span>12. William Wordsworth — Definition of Poetry &amp; "Emotion Recollected in Tranquillity"</span>
+          <span>▲</span>
+        </div>
+        <div class="faq-body" style="display: block;">
+          <div class="direct-answer-line">🎯 Answer :- <strong>William Wordsworth (Preface to Lyrical Ballads, 1800 Edition)</strong></div>
+          <p><strong>Appeared in:</strong> JNUEE 2015, CUCET 2017, DUET 2019, CUET-PG 2022, CUET-PG 2025 • <em>Foundational Romantic Doctrine</em></p>
+          <div class="answer-box">
+            <strong>Verbatim Formula to Memorize:</strong><br>
+            • <em>"Poetry is the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquillity."</em><br>
+            • <strong>Language Doctrine:</strong> Advocated <em>"a selection of language really used by men"</em> in humble and rustic life, rejecting 18th-century poetic diction.
+          </div>
+        </div>
+      </div>
+<div style="margin-top: 32px;">
         <h3 style="font-family: 'Cinzel', serif; font-size: 1.25rem; margin-bottom: 12px; color: var(--accent-brass);">
           📊 Recurrence Gap Distribution Matrix (Empirical Findings)
         </h3>
