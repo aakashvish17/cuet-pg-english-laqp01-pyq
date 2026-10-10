@@ -4,133 +4,147 @@ This repository compiles verified repeated questions extracted and cross-referen
 
 ---
 
-## Part 1: Exactly & Nearly Repeated Questions
+## Part 1: High-Yield Repeated Questions Bank (With Direct Answers)
 
 ### 1. T.S. Eliot — "Dissociation of Sensibility"
-* **First Seen:** CUCET 2017 | **Reappeared:** DUET 2019, CUET-PG 2022 (Slot 1), CUET-PG 2023 (Shift 2), CUET-PG 2026 (Shift 3)
-* **Recurrence Intervals:** 2 years (2017 $\to$ 2019), 3 years (2019 $\to$ 2022), 1 year (2022 $\to$ 2023), 3 years (2023 $\to$ 2026)
-* **Question Variations:**
-  1. *CUET-PG 2026:* "The phrase 'Dissociation of Sensibility' was coined by T.S. Eliot in his critical essay titled: (1) Tradition and the Individual Talent (2) Hamlet and His Problems (3) The Metaphysical Poets (4) The Function of Criticism"
-  2. *CUET-PG 2022 / CUCET 2017:* "In which century according to T.S. Eliot did a dissociation of sensibility set in? (1) 16th century (2) 17th century (3) 18th century (4) 19th century"
-* **Correct Answer:** (1) "The Metaphysical Poets" (1921); (2) 17th century (after John Donne and Andrew Marvell; Milton and Dryden are blamed for compounding it).
-* **Topic:** Literary Criticism & Theory | **Priority:** 🔥 VERY HIGH
+* **Trail:** CUCET 2017 -> DUET 2019 -> CUET-PG 2022 (Slot 1) -> CUET-PG 2023 (Shift 2) -> CUET-PG 2026 (Shift 3)
+* **Weightage:** 🔥 High Priority (Reappeared 5 Times)
+* **Exam Variations:**
+  - *CUET-PG 2026:* "The phrase 'Dissociation of Sensibility' was coined by T.S. Eliot in his critical essay titled: (1) Tradition and the Individual Talent (2) Hamlet and His Problems (3) The Metaphysical Poets (4) The Function of Criticism"
+  - *CUET-PG 2022 / CUCET 2017:* "In which century according to T.S. Eliot did a dissociation of sensibility set in? (1) 16th century (2) 17th century (3) 18th century (4) 19th century"
+* **🎯 Answer :-** **Option (3) "The Metaphysical Poets" (1921) | Century: 17th Century**
+* **Explanation & Facts:** Coined in *'The Metaphysical Poets'* (1921). Eliot argued that in Metaphysical poets (Donne, Marvell), thought and emotion were unified (*'they felt their thought as immediately as the odour of a rose'*). During the **17th century**, a split occurred where language grew refined while feeling crude. Eliot blamed **John Milton** and **John Dryden** for aggravating it.
+* **Topic:** Literary Criticism & Theory
 
 ---
 
 ### 2. John Keats — "Negative Capability"
-* **First Seen:** DUET 2018 | **Reappeared:** CUCET 2020, CUET-PG 2022 (Slot 1), CUET-PG 2024 (Shift 1), CUET-PG 2026 (Shift 3)
-* **Recurrence Intervals:** 2 years (2018 $\to$ 2020), 2 years (2020 $\to$ 2022), 2 years (2022 $\to$ 2024), 2 years (2024 $\to$ 2026) — **Consistent 2-Year Pulse!**
-* **Question Variations:**
-  1. *CUET-PG 2026 / 2024:* "Who coined the phrase 'Negative Capability' to describe an author capable of being in uncertainties, mysteries, doubts without any irritable reaching after fact and reason?"
-  2. *DUET 2018 / CUET 2022:* "In his 1817 letter to his brothers, whom did John Keats cite as the supreme exemplar of Negative Capability? (1) John Milton (2) William Wordsworth (3) William Shakespeare (4) S.T. Coleridge"
-* **Correct Answer:** (1) John Keats; (2) William Shakespeare.
-* **Topic:** Romantic Aesthetics & Poetic Theory | **Priority:** 🔥 VERY HIGH
+* **Trail:** DUET 2018 -> CUCET 2020 -> CUET-PG 2022 -> CUET-PG 2024 -> CUET-PG 2026 (Every Alternate Year!)
+* **Weightage:** Clockwork 2-Year Pulse (5 Cycles)
+* **Exam Variations:**
+  - *CUET-PG 2026 / 2024:* "Who coined the phrase 'Negative Capability' to describe an author capable of being in uncertainties, mysteries, doubts without any irritable reaching after fact and reason?"
+  - *DUET 2018 / CUET 2022:* "In his December 1817 letter to his brothers, whom did John Keats cite as the supreme exemplar of Negative Capability? (1) Milton (2) Wordsworth (3) Shakespeare (4) Coleridge"
+* **🎯 Answer :-** **John Keats (December 1817 Letter) | Supreme Model: Option (3) William Shakespeare**
+* **Explanation & Facts:** Formulated in an **1817 letter** to brothers George & Thomas Keats. Defined as the capacity to negate ego and exist within doubts and ambiguities without intellectual grasping. Supreme exemplar: **William Shakespeare**.
+* **Topic:** Romantic Aesthetics
 
 ---
 
 ### 3. S.T. Coleridge — "Fancy vs. Imagination"
-* **First Seen:** CUCET 2018 | **Reappeared:** DUET 2021, CUET-PG 2022 (Slot 1), CUET-PG 2023 (Shift 2), CUET-PG 2026 (Shift 3)
-* **Recurrence Intervals:** 3 years (2018 $\to$ 2021), 1 year (2021 $\to$ 2022), 1 year (2022 $\to$ 2023), 3 years (2023 $\to$ 2026)
-* **Question Text:**
-  * "In *Biographia Literaria* (1817), Coleridge distinguishes between Primary and Secondary Imagination. Secondary Imagination differs from Primary because it:
-    (1) Dissolves, diffuses, dissipates in order to recreate
-    (2) Is the living power and prime agent of all human perception
-    (3) Operates only through memory and mechanical association
-    (4) Belongs exclusively to children"
-* **Correct Answer:** (1) Dissolves, diffuses, dissipates in order to recreate (Primary imagination is the common agent of perception; Fancy is mere aggregation/memory).
-* **Topic:** Romantic Literary Theory | **Priority:** 🔥 VERY HIGH
+* **Trail:** CUCET 2018 -> DUET 2021 -> CUET-PG 2022 -> CUET-PG 2023 -> CUET-PG 2026
+* **Weightage:** Biographia Literaria Ch. 13 (5 Cycles)
+* **Exam Variations:**
+  - "In *Biographia Literaria* (1817), Coleridge distinguishes between Primary and Secondary Imagination. Secondary Imagination differs from Primary because it: (1) Dissolves, diffuses, dissipates in order to recreate (2) Is the living power and prime agent of all human perception (3) Operates only through memory and mechanical association (4) Belongs exclusively to children"
+* **🎯 Answer :-** **Option (1) Dissolves, diffuses, dissipates in order to recreate**
+* **Explanation & Facts:** Chapter 13 of *Biographia Literaria* (1817). **Primary Imagination** is universal human perceptual agency; **Secondary Imagination** co-exists with conscious will to unify and recreate; **Fancy** is merely mechanical memory/aggregation.
+* **Topic:** Romantic Criticism
 
 ---
 
-### 4. Aristotle — *Poetics* Core Terminology (Matching Matrix)
-* **First Seen:** BHU PET 2016 | **Reappeared:** CUCET 2017, DUET 2019, CUET-PG 2022, CUET-PG 2023 (Shift 3), CUET-PG 2025 (Shift 3), CUET-PG 2026 (Shift 3)
-* **Recurrence Intervals:** 1 year, 2 years, 3 years (Appears in almost every exam cycle)
-* **Standard Match List:**
-  * **Hamartia** $\to$ Tragic error in judgment / fatal flaw
-  * **Catharsis** $\to$ Purgation / purification of pity and fear
-  * **Anagnorisis** $\to$ Recognition from ignorance to knowledge
-  * **Peripeteia** $\to$ Sudden reversal of fortune / situation
-* **Topic:** Classical Criticism | **Priority:** 🔥 VERY HIGH
+### 4. Aristotle — "Poetics" Core Tragic Terminology
+* **Trail:** BHU PET 2016 -> CUCET 2017 -> DUET 2019 -> CUET-PG 2022 -> CUET-PG 2023 -> CUET-PG 2025 -> CUET-PG 2026
+* **Weightage:** Top Match Table Item (Nearly Every Year)
+* **Exam Variations:**
+  - List I: (A) Hamartia (B) Catharsis (C) Anagnorisis (D) Peripeteia
+List II: (1) Recognition from ignorance (2) Tragic flaw or error of judgment (3) Sudden reversal of fortune (4) Purgation of pity and fear
+* **🎯 Answer :-** **Hamartia -> (2) Tragic flaw/error | Catharsis -> (4) Purgation of pity/fear | Anagnorisis -> (1) Recognition | Peripeteia -> (3) Reversal of fortune**
+* **Explanation & Facts:** Foundational Aristotelian definitions in tragedy: Hamartia is tragic misjudgment (not deliberate evil); Catharsis cleanses eleos & phobos; Anagnorisis moves from ignorance to knowledge; Peripeteia reverses expectation.
+* **Topic:** Classical Criticism
 
 ---
 
-### 5. Mulk Raj Anand — *Untouchable* (1935)
-* **First Seen:** CUCET 2018 | **Reappeared:** DUET 2020, CUET-PG 2022, CUET-PG 2024, CUET-PG 2026
-* **Recurrence Intervals:** 2 years (2018 $\to$ 2020), 2 years (2020 $\to$ 2022), 2 years (2022 $\to$ 2024), 2 years (2024 $\to$ 2026)
-* **Tested Dimensions:**
-  1. Protagonist: **Bakha** (sweeper boy living in Bulashah).
-  2. Temporal Span: Covers **a single day** in Bakha's life.
-  3. Historical Preface: Written by British novelist **E.M. Forster**.
-  4. Three solutions presented at the end: Machine (flush toilet), Jesus Christ (Christian missionary Hutchinson), Mahatma Gandhi's message.
-* **Topic:** Indian Writing in English | **Priority:** 🔥 VERY HIGH
+### 5. Mulk Raj Anand — "Untouchable" (1935)
+* **Trail:** CUCET 2018 -> DUET 2020 -> CUET-PG 2022 -> CUET-PG 2024 -> CUET-PG 2026
+* **Weightage:** 2-Year Alternate Cycle (5 Cycles)
+* **Exam Variations:**
+  - "Which novel portrays the 18-year-old sweeper boy Bakha across a single day in the town of Bulashah?"
+  - "Who wrote the famous Preface to Mulk Raj Anand's debut novel Untouchable?"
+* **🎯 Answer :-** **Untouchable (1935) | Protagonist: Bakha | Preface: E.M. Forster | Ending Solution: Flush System / Machine**
+* **Explanation & Facts:** Follows Bakha's day in Bulashah cantonment. Compressed into a **single day** under James Joyce's influence. Preface by **E.M. Forster**. Machine/flush system is presented as the modern technical solution to end manual scavenging.
+* **Topic:** Indian Writing in English
 
 ---
 
-### 6. Raja Rao — *Kanthapura* (1938)
-* **First Seen:** CUCET 2017 | **Reappeared:** DUET 2019, CUET-PG 2022, CUET-PG 2025, CUET-PG 2026
-* **Recurrence Intervals:** 2 years, 3 years, 3 years, 1 year
-* **Tested Dimensions:**
-  1. Narrator: **Achakka** (an old Brahmin woman of the village).
-  2. Narrative Technique: Traditional Indian **Sthala-Purana** and **Harikatha** oral narrative mode.
-  3. Leader of movement in the village: **Moorthy** (the local Gandhian figure).
-  4. Famous Author's Foreword: Discusses the difficulty of conveying the spirit of one language (Kannada/Indian) in an alien tongue (English).
-* **Topic:** Indian Writing in English | **Priority:** 🔥 VERY HIGH
+### 6. Raja Rao — "Kanthapura" (1938)
+* **Trail:** CUCET 2017 -> DUET 2019 -> CUET-PG 2022 -> CUET-PG 2025 -> CUET-PG 2026
+* **Weightage:** Oral Narrative Technique (5 Cycles)
+* **Exam Variations:**
+  - "Raja Rao's Kanthapura is narrated by: (1) Moorthy (2) Range Gowda (3) Achakka (4) Bhatta"
+  - "Which traditional narrative mode is adopted by Raja Rao in Kanthapura?"
+* **🎯 Answer :-** **Option (3) Achakka (old grandmother) | Narrative Technique: Sthala-Purana & Harikatha**
+* **Explanation & Facts:** Narrated by grandmother **Achakka** using traditional oral **Sthala-Purana** (place-legend). Local Gandhian leader is **Moorthy**. Landmark Author's Foreword defends Indian English style.
+* **Topic:** Indian Writing in English
 
 ---
 
-### 7. Shakespeare — Tragedies Chronological Sequence
-* **First Seen:** DUET 2018 | **Reappeared:** CUCET 2020, CUET-PG 2023, CUET-PG 2024, CUET-PG 2026
-* **Recurrence Intervals:** 2 years, 3 years, 1 year, 2 years
-* **Tested Question:**
-  * "Arrange the following Great Tragedies of Shakespeare in chronological order of composition/performance:
-    A. King Lear B. Hamlet C. Macbeth D. Othello"
-* **Chronological Formula:**
-  $$\mathbf{H} \to \mathbf{O} \to \mathbf{L} \to \mathbf{M}$$
-  *Hamlet* (c. 1600–01) $\to$ *Othello* (c. 1603–04) $\to$ *King Lear* (c. 1605–06) $\to$ *Macbeth* (c. 1606)
-* **Correct Sequence:** B $\to$ D $\to$ A $\to$ C
-* **Topic:** Elizabethan & Jacobean Drama | **Priority:** 🔥 VERY HIGH
+### 7. Shakespeare — Chronological Order of Tragedies (HOLM)
+* **Trail:** DUET 2018 -> CUCET 2020 -> CUET-PG 2023 -> CUET-PG 2024 -> CUET-PG 2026
+* **Weightage:** Mnemonic: H - O - L - M (5 Cycles)
+* **Exam Variations:**
+  - "Arrange Shakespeare's Four Great Tragedies in chronological order of composition: (A) King Lear (B) Hamlet (C) Macbeth (D) Othello"
+* **🎯 Answer :-** **Hamlet (1601) -> Othello (1603) -> King Lear (1605) -> Macbeth (1606) [Code: B -> D -> A -> C]**
+* **Explanation & Facts:** Formula: <code>H &rarr; O &rarr; L &rarr; M</code>. Hamlet (1600-01), Othello (1603-04), King Lear (1605-06), Macbeth (1606).
+* **Topic:** British Drama
 
 ---
 
-### 8. New Criticism — W.K. Wimsatt & Monroe Beardsley Fallacies
-* **First Seen:** CUCET 2019 | **Reappeared:** DUET 2021, CUET-PG 2023, CUET-PG 2025
-* **Recurrence Intervals:** 2 years (2019 $\to$ 2021), 2 years (2021 $\to$ 2023), 2 years (2023 $\to$ 2025)
-* **Key Distinctions:**
-  * **Intentional Fallacy (1946):** Judging a literary work by evaluating the author's personal intentions.
-  * **Affective Fallacy (1949):** Judging a literary work by the psychological/emotional effect it produces on the reader.
-  * Published together in the book: *The Verbal Icon: Studies in the Meaning of Poetry* (1954).
-* **Topic:** New Criticism / Literary Theory | **Priority:** 🔥 VERY HIGH
+### 8. New Criticism — Wimsatt & Beardsley Fallacies
+* **Trail:** CUCET 2019 -> DUET 2021 -> CUET-PG 2023 -> CUET-PG 2025
+* **Weightage:** The Verbal Icon (4 Cycles)
+* **Exam Variations:**
+  - "The critical mistake of judging a literary work by the author's intended meaning is called: (1) Affective Fallacy (2) Intentional Fallacy (3) Pathetic Fallacy (4) Heresy of Paraphrase"
+* **🎯 Answer :-** **Option (2) Intentional Fallacy (1946) | Affective Fallacy (1949) | Book: The Verbal Icon (1954)**
+* **Explanation & Facts:** **Intentional Fallacy:** Error of evaluating poem by author's psychological intention. **Affective Fallacy:** Error of evaluating poem by emotional effect on reader. Compiled in *The Verbal Icon* (1954).
+* **Topic:** Literary Criticism & Theory
 
 ---
 
-### 9. Postcolonial Foundations — Edward Said's *Orientalism* (1978)
-* **First Seen:** DUET 2018 | **Reappeared:** CUCET 2021, CUET-PG 2023, CUET-PG 2024, CUET-PG 2026
-* **Recurrence Intervals:** 3 years, 2 years, 1 year, 2 years
-* **Tested Concepts:**
-  * Influenced by **Michel Foucault's** concepts of *Discourse* and *Power/Knowledge*.
-  * Argues that "The Orient" was not an objective geographic reality, but a European cultural and political invention/construct.
-  * Key quote: *"The Orient was almost a European invention..."*
-* **Topic:** Postcolonial Theory | **Priority:** 🔥 VERY HIGH
+### 9. Edward Said — "Orientalism" (1978)
+* **Trail:** DUET 2018 -> CUCET 2021 -> CUET-PG 2023 -> CUET-PG 2024 -> CUET-PG 2026
+* **Weightage:** Foundational Postcolonial Text (5 Cycles)
+* **Exam Variations:**
+  - "Which book by Edward Said is considered the foundation of Postcolonial studies? (1) Culture and Imperialism (2) Orientalism (3) Covering Islam (4) The Question of Palestine"
+  - "Edward Said's concept of orientalist discourse was heavily influenced by which French philosopher?"
+* **🎯 Answer :-** **Option (2) Orientalism (1978) | Influencing Thinker: Michel Foucault (Discourse & Power/Knowledge)**
+* **Explanation & Facts:** Published in 1978. Argued that 'The Orient' was an ideological Western construct enabling imperial dominance. Drew on **Michel Foucault's** concepts of discursive formations and power/knowledge.
+* **Topic:** Postcolonial Theory
 
 ---
 
 ### 10. Figures of Speech: Metonymy vs. Synecdoche vs. Paradox vs. Oxymoron
-* **Appearance:** Every single year from 2014 to 2026 across CUET-PG, CUCET, DUET, and BHU PET.
-* **Core Definitions to Memorize:**
-  1. **Oxymoron:** Two contradictory terms joined side-by-side (e.g., *"bittersweet"*, *"deafening silence"*, Milton's *"darkness visible"*).
-  2. **Paradox:** A self-contradictory statement that on closer inspection reveals a deeper truth (e.g., Wordsworth's *"The Child is father of the Man"*).
-  3. **Metonymy:** Replaces the name of a thing with something closely associated with it (e.g., *"The White House issued a statement"* where White House = President/Administration).
-  4. **Synecdoche:** Part represents the whole (e.g., *"All hands on deck"* where hands = sailors; *"Wheels"* for car).
-* **Topic:** Literary Terms & Figures of Speech | **Priority:** 🔥 VERY HIGH
+* **Trail:** Tested in EVERY SINGLE YEAR (2014–2026) across CUET, DUET, BHU, CUCET
+* **Weightage:** 100% Recurrence Guarantee
+* **Exam Variations:**
+  - "Match Figure of Speech with Example:
+A. Synecdoche &rarr; 'All hands on deck'
+B. Metonymy &rarr; 'The pen is mightier than the sword'
+C. Oxymoron &rarr; 'Parting is such sweet sorrow'
+D. Paradox &rarr; 'The child is father of the man'"
+* **🎯 Answer :-** **Synecdoche = Part for whole | Metonymy = Contiguous substitute | Oxymoron = Adjacent contradiction | Paradox = Self-contradictory truth**
+* **Explanation & Facts:** In Match-the-Following questions, knowing even one pair (e.g. Synecdoche or Oxymoron) allows instant elimination of 3 out of 4 options for a guaranteed +4 marks.
+* **Topic:** Figures of Speech
 
 ---
 
-## Part 2: Recurrence Gap Distribution Summary
+### 11. Kamala Das — "An Introduction"
+* **Trail:** BHU PET 2015 -> DUET 2018 -> CUET-PG 2022 -> CUET-PG 2024 -> CUET-PG 2026
+* **Weightage:** Confessional Poetry Anthem (5 Cycles)
+* **Exam Variations:**
+  - "'I am Indian, very brown, born in Malabar, I speak three languages, write in two, dream in one.' These lines open which celebrated poem?"
+* **🎯 Answer :-** **An Introduction by Kamala Das (The Old Playhouse and Other Poems)**
+* **Explanation & Facts:** Landmark Indian English confessional poem asserting multilingual and post-colonial feminist identity. Malabar heritage, linguistic freedom, and patriarchal rebellion.
+* **Topic:** Indian Writing in English
 
-| Recurrence Interval | Frequency in Dataset | Description & Preparation Advice |
-|---|---:|---|
-| **0 Years (Same Year / Different Shift)** | 14 items | Seen in 2023 across June 7, June 24, and June 30 shifts. NTA reused key thematic clusters (Aristotle terms, Romantic chronology, Indian Big Three). |
-| **1 Year (Consecutive Cycle)** | 38 items | Highly common in CUET-PG. Concepts from 2023 immediately reappeared in 2024; concepts from 2025 immediately reappeared in 2026. |
-| **2 Years (Alternate Year Cycle)** | 46 items | **The single most frequent cycle in NTA English examinations.** Keats, Wimsatt, Anand, and Bhabha follow a 2-year cycle almost like clockwork. |
-| **3 Years (Triennial Cycle)** | 29 items | Typical for deeper canonical texts and classical critics (Dryden's *Essay of Dramatic Poesy*, Karnad's *Tughlaq*, Ezekiel's *Scorpion*). |
-| **4+ Years (Long Cycle)** | 18 items | Canonical Middle English (Chaucer's specific pilgrims) and early modern drama (Marlowe, Ben Jonson) that rotate periodically. |
+---
+
+### 12. William Wordsworth — "Preface to Lyrical Ballads" (1800)
+* **Trail:** CUCET 2017 -> DUET 2019 -> CUET-PG 2022 -> CUET-PG 2024 -> CUET-PG 2026
+* **Weightage:** Romantic Poetic Theory (5 Cycles)
+* **Exam Variations:**
+  - "Who famously defined poetry as 'the spontaneous overflow of powerful feelings recollected in tranquility'?"
+* **🎯 Answer :-** **William Wordsworth (Preface to Lyrical Ballads, 1800 Edition)**
+* **Explanation & Facts:** Wordsworth attacked 18th-century poetic diction, advocating 'language really used by men' in humble and rustic life. Opening poem of the 1798 collection was Coleridge's *The Rime of the Ancient Mariner*.
+* **Topic:** Romantic Poetic Theory
+
+---
+
