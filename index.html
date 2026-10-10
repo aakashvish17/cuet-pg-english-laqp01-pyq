@@ -610,6 +610,163 @@
       margin-top: 56px;
     }
 
+    /* ==========================================================================
+       STICKY DRAGGABLE SPOTIFY MUSIC PLAYER (Lo-fi / Study Vibe)
+       ========================================================================== */
+    .spotify-dock-btn {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 1000;
+      background: #121418;
+      color: #1db954;
+      border: 1px solid rgba(29, 185, 84, 0.35);
+      padding: 10px 18px;
+      border-radius: 9999px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.55);
+      transition: transform 160ms var(--ease-out), background-color 160ms var(--ease-out), border-color 160ms var(--ease-out);
+      will-change: transform;
+    }
+    .spotify-dock-btn:hover {
+      background: #181b22;
+      border-color: #1db954;
+      transform: translateY(-2px);
+      box-shadow: 0 14px 32px rgba(29, 185, 84, 0.2);
+    }
+    .spotify-dock-btn:active {
+      transform: scale(0.97);
+    }
+
+    .spotify-widget {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 340px;
+      z-index: 1001;
+      background: rgba(14, 16, 20, 0.95);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 14px;
+      box-shadow: 0 20px 48px -10px rgba(0, 0, 0, 0.75);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      user-select: none;
+      transition: box-shadow 200ms var(--ease-out);
+    }
+    .spotify-widget.dragging {
+      box-shadow: 0 28px 60px -8px rgba(0, 0, 0, 0.9);
+      cursor: grabbing !important;
+    }
+
+    .spotify-header {
+      padding: 8px 14px;
+      background: rgba(255, 255, 255, 0.03);
+      border-bottom: 1px solid var(--border-hairline);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      cursor: grab;
+      touch-action: none;
+    }
+    .spotify-header-title {
+      font-size: 0.76rem;
+      font-weight: 700;
+      color: #f5f2eb;
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+    }
+    .spotify-logo-dot {
+      width: 14px;
+      height: 14px;
+      fill: #1db954;
+      display: inline-block;
+    }
+    .spotify-grip {
+      color: var(--text-tertiary);
+      font-size: 0.85rem;
+    }
+    .spotify-ctrls {
+      display: flex;
+      gap: 4px;
+      align-items: center;
+    }
+    .spotify-ctrl-btn {
+      width: 24px;
+      height: 24px;
+      border-radius: 4px;
+      border: none;
+      background: transparent;
+      color: var(--text-secondary);
+      font-size: 0.8rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background-color 140ms var(--ease-out), color 140ms var(--ease-out);
+    }
+    .spotify-ctrl-btn:hover {
+      background: rgba(255, 255, 255, 0.1);
+      color: var(--text-primary);
+    }
+    .spotify-ctrl-btn:active {
+      transform: scale(0.92);
+    }
+
+    .spotify-playlist-bar {
+      display: flex;
+      gap: 4px;
+      padding: 6px 10px;
+      background: rgba(0, 0, 0, 0.25);
+      border-bottom: 1px solid var(--border-hairline);
+    }
+    .spotify-pill-tab {
+      flex: 1;
+      padding: 4px 6px;
+      background: transparent;
+      border: 1px solid transparent;
+      border-radius: 4px;
+      font-size: 0.7rem;
+      font-weight: 600;
+      color: var(--text-secondary);
+      cursor: pointer;
+      text-align: center;
+      white-space: nowrap;
+      transition: all 140ms var(--ease-out);
+    }
+    .spotify-pill-tab:hover {
+      color: var(--text-primary);
+      background: rgba(255, 255, 255, 0.05);
+    }
+    .spotify-pill-tab.active {
+      background: rgba(29, 185, 84, 0.15);
+      color: #1db954;
+      border-color: rgba(29, 185, 84, 0.3);
+    }
+
+    .spotify-frame-container {
+      width: 100%;
+      height: 152px;
+      background: #000;
+      overflow: hidden;
+    }
+    .spotify-frame-container iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+    }
+
     /* Accessibility: Respect Reduced Motion Preferences */
     @media (prefers-reduced-motion: reduce) {
       *, *::before, *::after {
@@ -647,6 +804,12 @@
         <a href="LAQP01_REPEATED_QUESTIONS.html" class="btn btn-secondary">
           <span>🔁</span> Repeated Questions Bank
         </a>
+        <a href="answer-keys.html" class="btn btn-primary" style="background: #2563eb; color: #ffffff; border-color: #3b82f6;">
+          <span>🔑</span> Official Answer Keys &amp; Solutions
+        </a>
+        <a href="CUET_PG_LAQP01_Master_Answer_Keys_Booklet.pdf" target="_blank" class="btn btn-secondary">
+          <span>📄</span> Printable Keys Booklet (PDF)
+        </a>
       </div>
     </div>
   </header>
@@ -658,8 +821,9 @@
         <button class="tab-btn active" onclick="switchTab('papers')">📑 Question Papers (22 PDFs)</button>
         <button class="tab-btn" onclick="switchTab('matching')">⚡ Master Match Tables</button>
         <button class="tab-btn" onclick="switchTab('repeated')">🔁 Repeated Questions Bank</button>
+        <button class="tab-btn" onclick="window.location.href='answer-keys.html'">🔑 Answer Keys Hub ↗</button>
         <button class="tab-btn" onclick="switchTab('roadmap')">🎯 30-Day Study Plan</button>
-        <button class="tab-btn" onclick="switchTab('strategy')">💡 Exam Strategy & 2-Year Pulse</button>
+        <button class="tab-btn" onclick="switchTab('strategy')">💡 Exam Strategy &amp; 2-Year Pulse</button>
       </div>
     </div>
   </div>
@@ -699,8 +863,9 @@
               📌 Master Question Paper + Answer Key
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="CUET_PG_2026_English_LAQP01_12-Mar-Shift3.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="CUET_PG_2026_English_LAQP01_12-Mar-Shift3.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="CUET_PG_2026_Official_Final_Answer_Key.pdf" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
 
@@ -718,8 +883,9 @@
               📌 Official NTA Paper (nta.ac.in)
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="CUET_PG_2025_English_LAQP01_26-Mar-Shift3.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="CUET_PG_2025_English_LAQP01_26-Mar-Shift3.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="CUET_PG_2025_Official_Final_Answer_Key.pdf" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
 
@@ -737,8 +903,9 @@
               📌 Official NTA Master Question Paper
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="CUET_PG_2024_English_LAQP01_13-Mar-Shift1.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="CUET_PG_2024_English_LAQP01_13-Mar-Shift1.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Key &amp; Solns</a>
           </div>
         </div>
 
@@ -756,8 +923,9 @@
               📌 Official NTA Master Paper
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="CUET_PG_2023_English_LAQP01_30-Jun-Shift2.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="CUET_PG_2023_English_LAQP01_30-Jun-Shift2.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Key Hub</a>
           </div>
         </div>
 
@@ -775,8 +943,9 @@
               📌 NTA Candidate Response Sheet
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="CUET_PG_2023_English_LAQP01_24-Jun-Shift3.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="CUET_PG_2023_English_LAQP01_24-Jun-Shift3.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="CUET_PG_2023_English_24-Jun-Shift3_Official_Answer_Key.pdf" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
 
@@ -794,8 +963,9 @@
               📌 NTA Candidate Response Sheet
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="CUET_PG_2023_English_LAQP01_07-Jun-Shift3.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="CUET_PG_2023_English_LAQP01_07-Jun-Shift3.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="answer-keys.html" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Key Hub</a>
           </div>
         </div>
 
@@ -813,8 +983,9 @@
               📌 Inaugural Official CUET-PG Paper
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="CUET_PG_2022_English_PGQP05_01-Sep-Slot1.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="CUET_PG_2022_English_PGQP05_01-Sep-Slot1.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="CUET_PG_2022_English_Official_Answer_Key.pdf" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
 
@@ -832,8 +1003,9 @@
               📌 Direct predecessor to CUET-PG
             </div>
           </div>
-          <div class="paper-actions">
-            <a href="CUCET_2021_MA_English_PGQP05.pdf" target="_blank" class="btn-open">View / Download PDF</a>
+          <div class="paper-actions" style="display: flex; gap: 8px;">
+            <a href="CUCET_2021_MA_English_PGQP05.pdf" target="_blank" class="btn-open">Paper PDF</a>
+            <a href="CUCET_2021_Official_Final_Answer_Key.pdf" target="_blank" class="btn-open" style="background: rgba(74, 222, 128, 0.15); color: #86efac; border-color: rgba(74, 222, 128, 0.3);">Answer Key</a>
           </div>
         </div>
 
@@ -1672,6 +1844,118 @@
         searchInput.blur();
       }
     });
+
+    /* ==========================================================================
+       SPOTIFY WIDGET: DRAG PHYSICS (Emil Kowalski Pointer Capture) & CONTROLS
+       ========================================================================== */
+    const spotifyWidget = document.getElementById('spotifyWidget');
+    const spotifyHeader = document.getElementById('spotifyHeader');
+    const spotifyDockBtn = document.getElementById('spotifyDockBtn');
+    const spotifyIframe = document.getElementById('spotifyIframe');
+
+    let isDraggingSpotify = false;
+    let spotifyStartX = 0;
+    let spotifyStartY = 0;
+    let spotifyInitLeft = 0;
+    let spotifyInitTop = 0;
+
+    if (spotifyHeader && spotifyWidget) {
+      spotifyHeader.addEventListener('pointerdown', (e) => {
+        if (e.target.closest('.spotify-ctrl-btn') || e.target.closest('.spotify-pill-tab')) return;
+
+        isDraggingSpotify = true;
+        spotifyWidget.classList.add('dragging');
+        spotifyHeader.setPointerCapture(e.pointerId);
+
+        const rect = spotifyWidget.getBoundingClientRect();
+        spotifyStartX = e.clientX;
+        spotifyStartY = e.clientY;
+        spotifyInitLeft = rect.left;
+        spotifyInitTop = rect.top;
+
+        spotifyWidget.style.bottom = 'auto';
+        spotifyWidget.style.right = 'auto';
+        spotifyWidget.style.left = `${spotifyInitLeft}px`;
+        spotifyWidget.style.top = `${spotifyInitTop}px`;
+      });
+
+      spotifyHeader.addEventListener('pointermove', (e) => {
+        if (!isDraggingSpotify) return;
+
+        const deltaX = e.clientX - spotifyStartX;
+        const deltaY = e.clientY - spotifyStartY;
+
+        let nextLeft = spotifyInitLeft + deltaX;
+        let nextTop = spotifyInitTop + deltaY;
+
+        const pad = 12;
+        const maxLeft = window.innerWidth - spotifyWidget.offsetWidth - pad;
+        const maxTop = window.innerHeight - spotifyWidget.offsetHeight - pad;
+
+        nextLeft = Math.max(pad, Math.min(maxLeft, nextLeft));
+        nextTop = Math.max(pad, Math.min(maxTop, nextTop));
+
+        spotifyWidget.style.left = `${nextLeft}px`;
+        spotifyWidget.style.top = `${nextTop}px`;
+      });
+
+      const endSpotifyDrag = (e) => {
+        if (!isDraggingSpotify) return;
+        isDraggingSpotify = false;
+        spotifyWidget.classList.remove('dragging');
+        try {
+          spotifyHeader.releasePointerCapture(e.pointerId);
+        } catch (_) {}
+      };
+
+      spotifyHeader.addEventListener('pointerup', endSpotifyDrag);
+      spotifyHeader.addEventListener('pointercancel', endSpotifyDrag);
+    }
+
+    function toggleSpotifyWidget(open) {
+      if (open) {
+        spotifyWidget.style.display = 'flex';
+        spotifyDockBtn.style.display = 'none';
+      } else {
+        spotifyWidget.style.display = 'none';
+        spotifyDockBtn.style.display = 'inline-flex';
+      }
+    }
+
+    function switchSpotifyPlaylist(playlistId, btn) {
+      document.querySelectorAll('.spotify-pill-tab').forEach(b => b.classList.remove('active'));
+      if (btn) btn.classList.add('active');
+      if (spotifyIframe) {
+        spotifyIframe.src = `https://open.spotify.com/embed/playlist/${playlistId}?utm_source=generator&theme=0`;
+      }
+    }
   </script>
+
+  <!-- Sticky Draggable Spotify Music Player Widget -->
+  <button id="spotifyDockBtn" class="spotify-dock-btn" style="display: none;" onclick="toggleSpotifyWidget(true)">
+    <svg class="spotify-logo-dot" viewBox="0 0 24 24"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+    <span>Study Beats</span>
+  </button>
+
+  <div id="spotifyWidget" class="spotify-widget">
+    <div id="spotifyHeader" class="spotify-header">
+      <div class="spotify-header-title">
+        <span class="spotify-grip">⠿</span>
+        <svg class="spotify-logo-dot" viewBox="0 0 24 24"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+        <span>Spotify &bull; Study Beats</span>
+      </div>
+      <div class="spotify-ctrls">
+        <button class="spotify-ctrl-btn" title="Minimize" onclick="toggleSpotifyWidget(false)">−</button>
+      </div>
+    </div>
+    <div class="spotify-playlist-bar">
+      <button class="spotify-pill-tab active" onclick="switchSpotifyPlaylist('37i9dQZF1DX8Uebhn9wzrS', this)">🎧 Lofi Study</button>
+      <button class="spotify-pill-tab" onclick="switchSpotifyPlaylist('37i9dQZF1DXdLEN7aqioXM', this)">☕ Deep Focus</button>
+      <button class="spotify-pill-tab" onclick="switchSpotifyPlaylist('37i9dQZF1DWZqd5JICZI0u', this)">📖 Peaceful Piano</button>
+    </div>
+    <div class="spotify-frame-container">
+      <iframe id="spotifyIframe" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX8Uebhn9wzrS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+  </div>
 </body>
 </html>

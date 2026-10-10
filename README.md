@@ -7,9 +7,24 @@ Welcome to the comprehensive, source-verified archive for **CUET-PG English (Pap
 ## 🌟 Quick Links
 
 * 🌐 **[Live Hosted Web Portal](https://aakashvish17.github.io/cuet-pg-english-laqp01-pyq/)** — Interactive browser portal with search, filters, match tables, and 1-click downloads.
-* 📄 **[Download 5-Page Printable Revision Booklet (PDF)](./CUET_PG_LAQP01_Printable_Booklet.pdf)** — Handcrafted, ready-to-print revision booklet for self-study without screens.
+* 🔑 **[Official Answer Keys & Solutions Hub (Web)](./answer-keys.html)** — Decoded answer tables, search tool, and official NTA final answer keys.
+* 📄 **[Download 3-Page Master Answer Keys Booklet (PDF)](./CUET_PG_LAQP01_Master_Answer_Keys_Booklet.pdf)** — Compact, printable answer sheet for all years.
+* 📄 **[Download 5-Page Printable Revision Booklet (PDF)](./CUET_PG_LAQP01_Printable_Booklet.pdf)** — Ready-to-print revision booklet (top 50 facts, match tables, 30-day schedule).
+* 📖 **[Master Answer Keys & Fact-Checked Solutions Guide (Markdown)](./LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md)** — Exhaustive question-by-question explanations.
 * 📖 **[32-Section Master PYQ Analysis Report](./LAQP01_COMPLETE_PYQ_ANALYSIS.md)** — Empirical research analyzing recurring authors, works, terms, and the 2-Year Pulse.
 * 🔁 **[Repeated Questions Bank (Web Portal)](./LAQP01_REPEATED_QUESTIONS.html)** — Verbatim, near, and conceptual repetitions with verified answers. ([Raw Markdown](./LAQP01_REPEATED_QUESTIONS.md))
+
+---
+
+## 🔑 Official NTA Final Answer Key PDFs
+
+Direct official final answer key documents released by the National Testing Agency (NTA):
+
+* 📥 **[CUET-PG 2026 Official Final Answer Key PDF](./CUET_PG_2026_Official_Final_Answer_Key.pdf)** *(12-Mar-2026 Shift 3 • Released 24-Apr-2026)*
+* 📥 **[CUET-PG 2025 Official Final Answer Key PDF](./CUET_PG_2025_Official_Final_Answer_Key.pdf)** *(26-Mar-2025 Shift 3 • Released 06-May-2025)*
+* 📥 **[CUET-PG 2023 (24-Jun Shift 3) Official Final Answer Key PDF](./CUET_PG_2023_English_24-Jun-Shift3_Official_Answer_Key.pdf)** *(Released 20-Jul-2023 • Dropped Q64 marked)*
+* 📥 **[CUET-PG 2022 Official Final Answer Key PDF](./CUET_PG_2022_English_Official_Answer_Key.pdf)** *(01-Sep-2022 Slot 1 • Released 24-Sep-2022 • Dropped Q6 marked)*
+* 📥 **[CUCET 2021 Official Final Answer Key PDF](./CUCET_2021_Official_Final_Answer_Key.pdf)** *(15-Sep-2021 Shift 1 • Released 20-Oct-2021)*
 
 ---
 
@@ -31,10 +46,10 @@ Welcome to the comprehensive, source-verified archive for **CUET-PG English (Pap
 * [CUCET 2017 MA English (PGQP05)](./CUCET_2017_MA_English_PGQP05.pdf)
 
 ### Group C: Benchmark Central University Entrances (DUET, JNUEE, BHU PET)
-* [DUET 2021 MA English (NTA)](./DUET_NTA_2021_MA_English.pdf)
-* [DUET 2020 MA English (NTA)](./DUET_NTA_2020_MA_English.pdf)
-* [DUET 2019 MA English (NTA)](./DUET_NTA_2019_MA_English.pdf)
-* [DUET 2018 MA English](./DUET_2018_MA_English.pdf)
+* [DUET 2021 MA English (NTA)](./DUET_NTA_2021_MA_English.pdf) *(answers embedded)*
+* [DUET 2020 MA English (NTA)](./DUET_NTA_2020_MA_English.pdf) *(answers embedded)*
+* [DUET 2019 MA English (NTA)](./DUET_NTA_2019_MA_English.pdf) *(answers embedded)*
+* [DUET 2018 MA English](./DUET_2018_MA_English.pdf) *(answers embedded)*
 * [DUET 2017 MA English](./DUET_2017_MA_English.pdf)
 * [BHU PET 2016 MA English](./BHU_PET_2016_MA_English.pdf)
 * [BHU PET 2015 MA English](./BHU_PET_2015_MA_English.pdf)
