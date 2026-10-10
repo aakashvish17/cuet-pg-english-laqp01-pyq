@@ -1,400 +1,507 @@
-# CUET-PG English (Paper Code: LAQP01) — Master Answer Keys & Solutions Hub (All 22 Papers)
+# CUET-PG English (LAQP01 / PGQP05) — Audited Master Answer Keys Guide
 
-> **Exhaustive Official & Fact-Checked Answer Key Repository (2014–2026)**  
-> **Covers ALL 22 Question Papers in Archive: CUET-PG, CUCET, DUET, BHU PET, JNUEE**
-
----
-
-## 📌 Master Inventory: All 22 Question Papers & Answer Keys
-
-| # | Examination Paper Name | Year & Shift | Questions | Official Answer Key Type | Direct Access File | Status |
-| :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **01** | **CUET-PG 2026 English (LAQP01)** | 12-Mar Shift 3 | 75 Qs | NTA Final Key (PDF) | [CUET_PG_2026_Official_Final_Answer_Key.pdf](./CUET_PG_2026_Official_Final_Answer_Key.pdf) | `Decoded & Verified` |
-| **02** | **CUET-PG 2025 English (LAQP01)** | 26-Mar Shift 3 | 75 Qs | 1-Page English Key (PDF) | [CUET_PG_2025_Official_Final_Answer_Key.pdf](./CUET_PG_2025_Official_Final_Answer_Key.pdf) | `Decoded & Verified` |
-| **03** | **CUET-PG 2024 English (LAQP01)** | 13-Mar Shift 1 | 75 Qs | 1-Page English Key (PDF) | [CUET_PG_2024_English_Official_Answer_Key.pdf](./CUET_PG_2024_English_Official_Answer_Key.pdf) | `Decoded & Verified` |
-| **04** | **CUET-PG 2023 English (24-Jun Shift 3)** | 24-Jun Shift 3 | 100 Qs | 1-Page NTA Key (PDF) | [CUET_PG_2023_English_24-Jun-Shift3_Official_Answer_Key.pdf](./CUET_PG_2023_English_24-Jun-Shift3_Official_Answer_Key.pdf) | `Decoded & Verified (Q64 Drop)` |
-| **05** | **CUET-PG 2023 English (30-Jun Shift 2)** | 30-Jun Shift 2 | 100 Qs | 1-Page English Key (PDF) | [CUET_PG_2023_English_30-Jun-Shift2_Answer_Key.pdf](./CUET_PG_2023_English_30-Jun-Shift2_Answer_Key.pdf) | `Decoded & Verified` |
-| **06** | **CUET-PG 2023 English (07-Jun Shift 3)** | 07-Jun Shift 3 | 100 Qs | 1-Page English Key (PDF) | [CUET_PG_2023_English_07-Jun-Shift3_Answer_Key.pdf](./CUET_PG_2023_English_07-Jun-Shift3_Answer_Key.pdf) | `Decoded & Verified` |
-| **07** | **CUET-PG 2022 English (PGQP05)** | 01-Sep Slot 1 | 100 Qs | 1-Page NTA Key (PDF) | [CUET_PG_2022_English_Official_Answer_Key.pdf](./CUET_PG_2022_English_Official_Answer_Key.pdf) | `Decoded & Verified (Q6 Drop)` |
-| **08** | **CUCET 2021 MA English (PGQP05)** | 15-Sep Shift 1 | 100 Qs | 1-Page English Key (PDF) | [CUCET_2021_Official_Final_Answer_Key.pdf](./CUCET_2021_Official_Final_Answer_Key.pdf) | `Decoded & Verified` |
-| **09** | **CUCET 2019 MA English (PGQP05)** | Annual Session | 100 Qs | 1-Page English Key (PDF) | [CUCET_2019_MA_English_Answer_Key.pdf](./CUCET_2019_MA_English_Answer_Key.pdf) | `Verified Solutions` |
-| **10** | **CUCET 2018 MA English (PGQP05)** | Annual Session | 100 Qs | 1-Page English Key (PDF) | [CUCET_2018_MA_English_Answer_Key.pdf](./CUCET_2018_MA_English_Answer_Key.pdf) | `Verified Solutions` |
-| **11** | **CUCET 2017 MA English (PGQP05)** | Annual Session | 100 Qs | 1-Page English Key (PDF) | [CUCET_2017_MA_English_Answer_Key.pdf](./CUCET_2017_MA_English_Answer_Key.pdf) | `Verified Solutions` |
-| **12** | **DUET 2021 MA English (NTA)** | NTA Computer Based | 100 Qs | Embedded in Master Paper | [DUET_NTA_2021_MA_English.pdf](./DUET_NTA_2021_MA_English.pdf) | `Official NTA Key Inside` |
-| **13** | **DUET 2020 MA English (NTA)** | NTA Computer Based | 100 Qs | Embedded in Master Paper | [DUET_NTA_2020_MA_English.pdf](./DUET_NTA_2020_MA_English.pdf) | `Official NTA Key Inside` |
-| **14** | **DUET 2019 MA English (NTA)** | NTA Computer Based | 100 Qs | Embedded in Master Paper | [DUET_NTA_2019_MA_English.pdf](./DUET_NTA_2019_MA_English.pdf) | `Official NTA Key Inside` |
-| **15** | **DUET 2018 MA English** | DU Entrance Test | 100 Qs | Embedded in Master Paper | [DUET_2018_MA_English.pdf](./DUET_2018_MA_English.pdf) | `Official NTA Key Inside` |
-| **16** | **DUET 2017 MA English** | DU Entrance Test | 100 Qs | DU Official Solutions | [LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md](./LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md) | `Verified Solutions` |
-| **17** | **BHU PET 2016 MA English** | BHU Online Exam | 150 Qs | BHU Online Solutions | [LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md](./LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md) | `Verified Solutions` |
-| **18** | **BHU PET 2015 MA English** | BHU Online Exam | 150 Qs | BHU Online Solutions | [LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md](./LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md) | `Verified Solutions` |
-| **19** | **BHU PET 2014 MA English** | BHU Online Exam | 150 Qs | BHU Online Solutions | [LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md](./LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md) | `Verified Solutions` |
-| **20** | **JNUEE 2016 MA English** | JNU SLL&CS Exam | 100 Qs | JNU Entrance Model Solutions | [LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md](./LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md) | `Verified Solutions` |
-| **21** | **JNUEE 2015 MA English** | JNU SLL&CS Exam | 100 Qs | JNU Entrance Model Solutions | [LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md](./LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md) | `Verified Solutions` |
-| **22** | **JNUEE 2014 MA English** | JNU SLL&CS Exam | 100 Qs | JNU Entrance Model Solutions | [LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md](./LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md) | `Verified Solutions` |
+> **Archival Transparency Notice:**
+> This master document catalogs **strictly verified official NTA final answer keys** and transparently marks papers where official keys were not released into this archive. All synthetic / placeholder answer data has been permanently purged.
 
 ---
 
-## 📑 1. CUET-PG 2026 (LAQP01) — 12 March 2026 Shift 3 (Official NTA Final Key)
-* **Status**: Official NTA Final Answer Key Released (24-Apr-2026)
-* **Total Questions**: 75 Domain MCQs (300 Marks)
-* **Official PDF**: [CUET_PG_2026_Official_Final_Answer_Key.pdf](./CUET_PG_2026_Official_Final_Answer_Key.pdf)
+## 🏛️ Master Archive Status Summary (All 22 Papers)
 
-| Q# | Question ID | Official Option | Literary Focus | Fact-Checked Explanation & Rationale |
-| :---: | :---: | :---: | :--- | :--- |
-| **Q01** | `43244919223` | **Option 1** | Lamb & Wordsworth Romantic perspectives | Wordsworth reflects the solitude and sublime moral influence of Nature; Charles Lamb (Elia) celebrates urban London street life, theatre, and companionship. |
-| **Q02** | `43244919224` | **Option 1** | English Literary Periods Chronology | Correct historical sequence: Age of Chaucer (14th c.) -> Jacobean Age (1603-1625) -> Romantic Period (1798-1837) -> Victorian Age (1837-1901). |
-| **Q03** | `43244919225` | **Option 2** | Foundational Feminist Thinkers Matching | Mary Wollstonecraft wrote 'A Vindication of the Rights of Woman' (1792); J.S. Mill authored 'The Subjection of Women' (1869). |
-| **Q04** | `43244919226` | **Option 1** | Poet Classification: Non-Romantic Poet | Alfred Lord Tennyson is the representative poet of the Victorian Age ('In Memoriam', 'Ulysses'); Shelley, Keats, and Byron are Younger Generation Romantics. |
-| **Q05** | `43244919227` | **Option 2** | Shakespearean Sonnet Rhyme Scheme | 14 lines consisting of three quatrains and a heroic couplet: ABAB CDCD EFEF GG. |
-| **Q06** | `43244919228` | **Option 4** | 20th-Century Works & Authors Matching | G.B. Shaw (Arms and the Man), Virginia Woolf (To the Lighthouse), T.S. Eliot (The Waste Land), E.M. Forster (A Passage to India). |
-| **Q07** | `43244919229` | **Option 1** | Modern & Postmodern Drama Chronology | Samuel Beckett's Waiting for Godot (1953) -> Harold Pinter's The Birthday Party (1957) -> Caryl Churchill's Cloud Nine (1979). |
-| **Q08** | `43244919230` | **Option 4** | Domain Question 8 | Official NTA final key option 4 verified. |
-| **Q09** | `43244919231` | **Option 3** | Domain Question 9 | Official NTA final key option 3 verified. |
-| **Q10** | `43244919232` | **Option 2** | Domain Question 10 | Official NTA final key option 2 verified. |
-| **Q11** | `43244919233` | **Option 1** | Domain Question 11 | Official NTA final key option 1 verified. |
-| **Q12** | `43244919234` | **Option 1** | Domain Question 12 | Official NTA final key option 1 verified. |
-| **Q13** | `43244919235` | **Option 2** | Domain Question 13 | Official NTA final key option 2 verified. |
-| **Q14** | `43244919236` | **Option 2** | Domain Question 14 | Official NTA final key option 2 verified. |
-| **Q15** | `43244919237` | **Option 1** | Domain Question 15 | Official NTA final key option 1 verified. |
-| **Q16** | `43244919238` | **Option 1** | Domain Question 16 | Official NTA final key option 1 verified. |
-| **Q17** | `43244919239` | **Option 4** | Domain Question 17 | Official NTA final key option 4 verified. |
-| **Q18** | `43244919240` | **Option 2** | Domain Question 18 | Official NTA final key option 2 verified. |
-| **Q19** | `43244919241` | **Option 3** | Domain Question 19 | Official NTA final key option 3 verified. |
-| **Q20** | `43244919242` | **Option 4** | Domain Question 20 | Official NTA final key option 4 verified. |
-| **Q21** | `43244919243` | **Option 4** | Domain Question 21 | Official NTA final key option 4 verified. |
-| **Q22** | `43244919244` | **Option 3** | Domain Question 22 | Official NTA final key option 3 verified. |
-| **Q23** | `43244919245` | **Option 1** | Domain Question 23 | Official NTA final key option 1 verified. |
-| **Q24** | `43244919246` | **Option 2** | Domain Question 24 | Official NTA final key option 2 verified. |
-| **Q25** | `43244919247` | **Option 4** | Domain Question 25 | Official NTA final key option 4 verified. |
-| **Q26** | `43244919248` | **Option 1** | Domain Question 26 | Official NTA final key option 1 verified. |
-| **Q27** | `43244919249` | **Option 2** | Domain Question 27 | Official NTA final key option 2 verified. |
-| **Q28** | `43244919250` | **Option 3** | Domain Question 28 | Official NTA final key option 3 verified. |
-| **Q29** | `43244919251` | **Option 1** | Domain Question 29 | Official NTA final key option 1 verified. |
-| **Q30** | `43244919252` | **Option 2** | Domain Question 30 | Official NTA final key option 2 verified. |
-| **Q31** | `43244919253` | **Option 3** | Domain Question 31 | Official NTA final key option 3 verified. |
-| **Q32** | `43244919254` | **Option 3** | Domain Question 32 | Official NTA final key option 3 verified. |
-| **Q33** | `43244919255` | **Option 1** | Domain Question 33 | Official NTA final key option 1 verified. |
-| **Q34** | `43244919256` | **Option 2** | Domain Question 34 | Official NTA final key option 2 verified. |
-| **Q35** | `43244919257` | **Option 3** | Domain Question 35 | Official NTA final key option 3 verified. |
-| **Q36** | `43244919258` | **Option 3** | Domain Question 36 | Official NTA final key option 3 verified. |
-| **Q37** | `43244919259` | **Option 4** | Domain Question 37 | Official NTA final key option 4 verified. |
-| **Q38** | `43244919260` | **Option 3** | Domain Question 38 | Official NTA final key option 3 verified. |
-| **Q39** | `43244919261` | **Option 1** | Domain Question 39 | Official NTA final key option 1 verified. |
-| **Q40** | `43244919262` | **Option 2** | Domain Question 40 | Official NTA final key option 2 verified. |
-| **Q41** | `43244919263` | **Option 2** | Domain Question 41 | Official NTA final key option 2 verified. |
-| **Q42** | `43244919264` | **Option 2** | Domain Question 42 | Official NTA final key option 2 verified. |
-| **Q43** | `43244919265` | **Option 1** | Domain Question 43 | Official NTA final key option 1 verified. |
-| **Q44** | `43244919266` | **Option 3** | Domain Question 44 | Official NTA final key option 3 verified. |
-| **Q45** | `43244919267` | **Option 1** | Domain Question 45 | Official NTA final key option 1 verified. |
-| **Q46** | `43244919268` | **Option 3** | Domain Question 46 | Official NTA final key option 3 verified. |
-| **Q47** | `43244919269` | **Option 2** | Domain Question 47 | Official NTA final key option 2 verified. |
-| **Q48** | `43244919270` | **Option 3** | Domain Question 48 | Official NTA final key option 3 verified. |
-| **Q49** | `43244919271` | **Option 2** | Domain Question 49 | Official NTA final key option 2 verified. |
-| **Q50** | `43244919272` | **Option 1** | Domain Question 50 | Official NTA final key option 1 verified. |
-| **Q51** | `43244919273` | **Option 2** | Domain Question 51 | Official NTA final key option 2 verified. |
-| **Q52** | `43244919274` | **Option 2** | Domain Question 52 | Official NTA final key option 2 verified. |
-| **Q53** | `43244919275` | **Option 1** | Domain Question 53 | Official NTA final key option 1 verified. |
-| **Q54** | `43244919276` | **Option 3** | Domain Question 54 | Official NTA final key option 3 verified. |
-| **Q55** | `43244919277` | **Option 4** | Domain Question 55 | Official NTA final key option 4 verified. |
-| **Q56** | `43244919278` | **Option 3** | Domain Question 56 | Official NTA final key option 3 verified. |
-| **Q57** | `43244919279` | **Option 3** | Domain Question 57 | Official NTA final key option 3 verified. |
-| **Q58** | `43244919280` | **Option 2** | Domain Question 58 | Official NTA final key option 2 verified. |
-| **Q59** | `43244919281` | **Option 4** | Domain Question 59 | Official NTA final key option 4 verified. |
-| **Q60** | `43244919282` | **Option 3** | Domain Question 60 | Official NTA final key option 3 verified. |
-| **Q61** | `43244919283` | **Option 2** | Domain Question 61 | Official NTA final key option 2 verified. |
-| **Q62** | `43244919284` | **Option 1** | Domain Question 62 | Official NTA final key option 1 verified. |
-| **Q63** | `43244919285` | **Option 2** | Domain Question 63 | Official NTA final key option 2 verified. |
-| **Q64** | `43244919286` | **Option 2** | Domain Question 64 | Official NTA final key option 2 verified. |
-| **Q65** | `43244919287` | **Option 2** | Domain Question 65 | Official NTA final key option 2 verified. |
-| **Q66** | `43244919288` | **Option 2** | Domain Question 66 | Official NTA final key option 2 verified. |
-| **Q67** | `43244919289` | **Option 1** | Domain Question 67 | Official NTA final key option 1 verified. |
-| **Q68** | `43244919290` | **Option 3** | Domain Question 68 | Official NTA final key option 3 verified. |
-| **Q69** | `43244919291` | **Option 1** | Domain Question 69 | Official NTA final key option 1 verified. |
-| **Q70** | `43244919292` | **Option 3** | Domain Question 70 | Official NTA final key option 3 verified. |
-| **Q71** | `43244919293` | **Option 1** | Domain Question 71 | Official NTA final key option 1 verified. |
-| **Q72** | `43244919294` | **Option 2** | Domain Question 72 | Official NTA final key option 2 verified. |
-| **Q73** | `43244919295` | **Option 4** | Domain Question 73 | Official NTA final key option 4 verified. |
-| **Q74** | `43244919296` | **Option 3** | Domain Question 74 | Official NTA final key option 3 verified. |
-| **Q75** | `43244919297` | **Option 2** | Domain Question 75 | Official NTA final key option 2 verified. |
+| # | Exam Paper Name | Year / Date | Total Qs | Official Key Status | Source Document |
+|:---:|:---|:---:|:---:|:---|:---|
+| 01 | **CUET-PG 2026 English (LAQP01)** | 12-Mar Shift 3 | 75 | ✅ Verified Official NTA Key | `CUET_PG_2026_Official_Final_Answer_Key.pdf` |
+| 02 | **CUET-PG 2025 English (LAQP01)** | 26-Mar Shift 3 | 75 | ✅ Verified Official NTA Key | `CUET_PG_2025_Official_Final_Answer_Key.pdf` (Page 77) |
+| 03 | **CUET-PG 2024 English (LAQP01)** | 13-Mar Shift 1 | 75 | ⏳ Official Key Awaited | Authentic Question Paper in Archive (QIDs 6801914114–4190) |
+| 04 | **CUET-PG 2023 English (24-Jun Shift 3)** | 24-Jun Shift 3 | 100 | ✅ Verified Official NTA Key | `CUET_PG_2023_English_24-Jun-Shift3_Official_Answer_Key.pdf` (5 Drops) |
+| 05 | **CUET-PG 2023 English (30-Jun Shift 2)** | 30-Jun Shift 2 | 100 | ⏳ Official Key Awaited | Authentic Question Paper in Archive |
+| 06 | **CUET-PG 2023 English (07-Jun Shift 3)** | 07-Jun Shift 3 | 100 | ⏳ Official Key Awaited | Authentic Question Paper in Archive |
+| 07 | **CUET-PG 2022 English (PGQP05)** | 01-Sep Slot 1 | 100 | ✅ Verified Official NTA Key | `CUET_PG_2022_English_Official_Answer_Key.pdf` (Q6 Drop) |
+| 08 | **CUCET 2021 MA English (PGQP05)** | 15-Sep Shift 1 | 100 | ✅ Verified Official NTA Key | `CUCET_2021_Official_Final_Answer_Key.pdf` (Page 5) |
+| 09 | **CUCET 2019 MA English (PGQP05)** | Annual Session | 100 | ⏳ Question Paper Archive | `CUCET_2019_MA_English_PGQP05.pdf` |
+| 10 | **CUCET 2018 MA English (PGQP05)** | Annual Session | 100 | ⏳ Question Paper Archive | `CUCET_2018_MA_English_PGQP05.pdf` |
+| 11 | **CUCET 2017 MA English (PGQP05)** | Annual Session | 70 | ⏳ Question Paper Archive | `CUCET_2017_MA_English_PGQP05.pdf` (70 Qs / 70 Marks) |
+| 12–16 | **DUET MA English (2017–2021)** | 2017–2021 | 100 each | ⏳ Master Question Papers | Official NTA papers with Option IDs |
+| 17–19 | **BHU PET MA English (2014–2016)** | 2014–2016 | 150 each | ⏳ Question Paper Archive | BHU entrance examination papers |
+| 20–22 | **JNUEE MA English (2014–2016)** | 2014–2016 | 50 each | ⏳ Question Paper Archive | JNU entrance examination papers |
 
 ---
 
-## 📑 2. CUET-PG 2025 (LAQP01) — 26 March 2025 Shift 3 (Official NTA Final Key)
-* **Status**: Official NTA Final Answer Key Released (06-May-2025, Page 77)
-* **Total Questions**: 75 Domain MCQs (300 Marks)
-* **Official PDF**: [CUET_PG_2025_Official_Final_Answer_Key.pdf](./CUET_PG_2025_Official_Final_Answer_Key.pdf)
+## 📑 Section 1: CUET-PG 2026 English (LAQP01) — 12 March 2026 Shift 3
+* **Official NTA Source:** Final Answer Key released 24.04.2026 (Domestic Shift 3).
+* **Question ID Range:** `43244919223` to `43244919298` (Note: ID `43244919293` skipped by NTA exam platform).
+* **Total Sequentially Numbered Questions:** 75 Questions (Q1 to Q75).
 
-| Q# | Question ID | Official Option | Option ID | Literary Focus | Fact-Checked Explanation |
-| :---: | :---: | :---: | :---: | :--- | :--- |
-| **Q01** | `8048771805` | **Option 2** | `8048777202` | T.S. Eliot's 'Dissociation of Sensibility' | Coined in the 1921 essay 'The Metaphysical Poets', arguing that 17th c. poets (Donne, Herbert) felt their thought as immediately as the odour of a rose, which split after Milton and Dryden. |
-| **Q02** | `8048771806` | **Option 3** | `8048777207` | Mulk Raj Anand: Protagonist Bakha | Bakha is an 18-year-old sweeper boy in Bulashah enduring caste discrimination across a single tragic day in 'Untouchable' (1935). |
-| **Q03** | `8048771807` | **Option 2** | `8048777210` | Aristotle's Poetics: 'Hamartia' | Denotes an error of judgment or tragic frailty arising from ignorance, not deliberate moral wickedness. |
-| **Q04** | `8048771808` | **Option 1** | `8048777213` | Coinage of 'Negative Capability' | John Keats in his December 1817 letter praised Shakespeare's ability to exist in doubts and mysteries without irritable grasping. |
-| **Q05** | `8048771809` | **Option 1** | `8048777217` | Raja Rao's Kanthapura Narrator | Narrated by Achakka, an old village grandmother using traditional oral sthala-purana technique. |
-| **Q06** | `8048771810` | **Option 2** | `8048777222` | Domain Question 6 | Official NTA final key option 2 verified. |
-| **Q07** | `8048771811` | **Option 3** | `8048777227` | Domain Question 7 | Official NTA final key option 3 verified. |
-| **Q08** | `8048771812` | **Option 1** | `8048777229` | Domain Question 8 | Official NTA final key option 1 verified. |
-| **Q09** | `8048771813` | **Option 2** | `8048777234` | Domain Question 9 | Official NTA final key option 2 verified. |
-| **Q10** | `8048771814` | **Option 4** | `8048777240` | Domain Question 10 | Official NTA final key option 4 verified. |
-| **Q11** | `8048771815` | **Option 2** | `8048777242` | Domain Question 11 | Official NTA final key option 2 verified. |
-| **Q12** | `8048771816` | **Option 3** | `8048777247` | Domain Question 12 | Official NTA final key option 3 verified. |
-| **Q13** | `8048771817` | **Option 4** | `8048777252` | Domain Question 13 | Official NTA final key option 4 verified. |
-| **Q14** | `8048771818` | **Option 3** | `8048777255` | Domain Question 14 | Official NTA final key option 3 verified. |
-| **Q15** | `8048771819` | **Option 4** | `8048777260` | Domain Question 15 | Official NTA final key option 4 verified. |
-| **Q16** | `8048771820` | **Option 2** | `8048777262` | Domain Question 16 | Official NTA final key option 2 verified. |
-| **Q17** | `8048771821` | **Option 3** | `8048777267` | Domain Question 17 | Official NTA final key option 3 verified. |
-| **Q18** | `8048771822` | **Option 4** | `8048777272` | Domain Question 18 | Official NTA final key option 4 verified. |
-| **Q19** | `8048771823` | **Option 4** | `8048777276` | Domain Question 19 | Official NTA final key option 4 verified. |
-| **Q20** | `8048771824` | **Option 1** | `8048777277` | Domain Question 20 | Official NTA final key option 1 verified. |
-| **Q21** | `8048771825` | **Option 4** | `8048777284` | Domain Question 21 | Official NTA final key option 4 verified. |
-| **Q22** | `8048771826` | **Option 3** | `8048777287` | Domain Question 22 | Official NTA final key option 3 verified. |
-| **Q23** | `8048771827` | **Option 3** | `8048777291` | Domain Question 23 | Official NTA final key option 3 verified. |
-| **Q24** | `8048771828` | **Option 4** | `8048777296` | Domain Question 24 | Official NTA final key option 4 verified. |
-| **Q25** | `8048771829` | **Option 2** | `8048777298` | Domain Question 25 | Official NTA final key option 2 verified. |
-| **Q26** | `8048771830` | **Option 4** | `8048777304` | Domain Question 26 | Official NTA final key option 4 verified. |
-| **Q27** | `8048771831` | **Option 1** | `8048777305` | Domain Question 27 | Official NTA final key option 1 verified. |
-| **Q28** | `8048771832` | **Option 2** | `8048777310` | Domain Question 28 | Official NTA final key option 2 verified. |
-| **Q29** | `8048771833` | **Option 2** | `8048777314` | Domain Question 29 | Official NTA final key option 2 verified. |
-| **Q30** | `8048771834` | **Option 2** | `8048777318` | Domain Question 30 | Official NTA final key option 2 verified. |
-| **Q31** | `8048771835` | **Option 4** | `8048777324` | Domain Question 31 | Official NTA final key option 4 verified. |
-| **Q32** | `8048771836` | **Option 1** | `8048777325` | Domain Question 32 | Official NTA final key option 1 verified. |
-| **Q33** | `8048771837` | **Option 2** | `8048777330` | Domain Question 33 | Official NTA final key option 2 verified. |
-| **Q34** | `8048771838` | **Option 2** | `8048777334` | Domain Question 34 | Official NTA final key option 2 verified. |
-| **Q35** | `8048771839` | **Option 3** | `8048777339` | Domain Question 35 | Official NTA final key option 3 verified. |
-| **Q36** | `8048771840` | **Option 2** | `8048777342` | Domain Question 36 | Official NTA final key option 2 verified. |
-| **Q37** | `8048771841` | **Option 2** | `8048777346` | Domain Question 37 | Official NTA final key option 2 verified. |
-| **Q38** | `8048771842` | **Option 1** | `8048777349` | Domain Question 38 | Official NTA final key option 1 verified. |
-| **Q39** | `8048771843` | **Option 2** | `8048777354` | Domain Question 39 | Official NTA final key option 2 verified. |
-| **Q40** | `8048771844` | **Option 4** | `8048777360` | Domain Question 40 | Official NTA final key option 4 verified. |
-| **Q41** | `8048771845` | **Option 3** | `8048777363` | Domain Question 41 | Official NTA final key option 3 verified. |
-| **Q42** | `8048771846` | **Option 2** | `8048777366` | Domain Question 42 | Official NTA final key option 2 verified. |
-| **Q43** | `8048771847` | **Option 3** | `8048777371` | Domain Question 43 | Official NTA final key option 3 verified. |
-| **Q44** | `8048771848` | **Option 4** | `8048777376` | Domain Question 44 | Official NTA final key option 4 verified. |
-| **Q45** | `8048771849` | **Option 2** | `8048777378` | Domain Question 45 | Official NTA final key option 2 verified. |
-| **Q46** | `8048771850` | **Option 2** | `8048777382` | Domain Question 46 | Official NTA final key option 2 verified. |
-| **Q47** | `8048771851` | **Option 1** | `8048777385` | Domain Question 47 | Official NTA final key option 1 verified. |
-| **Q48** | `8048771852` | **Option 3** | `8048777391` | Domain Question 48 | Official NTA final key option 3 verified. |
-| **Q49** | `8048771853` | **Option 1** | `8048777393` | Domain Question 49 | Official NTA final key option 1 verified. |
-| **Q50** | `8048771854` | **Option 1** | `8048777397` | Domain Question 50 | Official NTA final key option 1 verified. |
-| **Q51** | `8048771855` | **Option 2** | `8048777402` | Domain Question 51 | Official NTA final key option 2 verified. |
-| **Q52** | `8048771856` | **Option 2** | `8048777406` | Domain Question 52 | Official NTA final key option 2 verified. |
-| **Q53** | `8048771857` | **Option 2** | `8048777410` | Domain Question 53 | Official NTA final key option 2 verified. |
-| **Q54** | `8048771858` | **Option 2** | `8048777414` | Domain Question 54 | Official NTA final key option 2 verified. |
-| **Q55** | `8048771859` | **Option 4** | `8048777420` | Domain Question 55 | Official NTA final key option 4 verified. |
-| **Q56** | `8048771860` | **Option 2** | `8048777422` | Domain Question 56 | Official NTA final key option 2 verified. |
-| **Q57** | `8048771861` | **Option 1** | `8048777425` | Domain Question 57 | Official NTA final key option 1 verified. |
-| **Q58** | `8048771862` | **Option 4** | `8048777432` | Domain Question 58 | Official NTA final key option 4 verified. |
-| **Q59** | `8048771863` | **Option 4** | `8048777436` | Domain Question 59 | Official NTA final key option 4 verified. |
-| **Q60** | `8048771864` | **Option 2** | `8048777438` | Domain Question 60 | Official NTA final key option 2 verified. |
-| **Q61** | `8048771865` | **Option 3** | `8048777443` | Domain Question 61 | Official NTA final key option 3 verified. |
-| **Q62** | `8048771866` | **Option 1** | `8048777445` | Domain Question 62 | Official NTA final key option 1 verified. |
-| **Q63** | `8048771867` | **Option 4** | `8048777452` | Domain Question 63 | Official NTA final key option 4 verified. |
-| **Q64** | `8048771868` | **Option 1** | `8048777453` | Domain Question 64 | Official NTA final key option 1 verified. |
-| **Q65** | `8048771869` | **Option 4** | `8048777460` | Domain Question 65 | Official NTA final key option 4 verified. |
-| **Q66** | `8048771870` | **Option 2** | `8048777462` | Domain Question 66 | Official NTA final key option 2 verified. |
-| **Q67** | `8048771871` | **Option 3** | `8048777467` | Domain Question 67 | Official NTA final key option 3 verified. |
-| **Q68** | `8048771872` | **Option UNKNOWN** | `UNKNOWN` | Domain Question 68 | Official NTA final key option UNKNOWN verified. |
-| **Q69** | `8048771873` | **Option -3** | `8048777469` | Domain Question 69 | Official NTA final key option -3 verified. |
-| **Q70** | `8048771874` | **Option -2** | `8048777474` | Domain Question 70 | Official NTA final key option -2 verified. |
-| **Q71** | `8048771875` | **Option 0** | `8048777480` | Domain Question 71 | Official NTA final key option 0 verified. |
-| **Q72** | `8048771876` | **Option -2** | `8048777482` | Domain Question 72 | Official NTA final key option -2 verified. |
-| **Q73** | `8048771877` | **Option UNKNOWN** | `UNKNOWN` | Domain Question 73 | Official NTA final key option UNKNOWN verified. |
-| **Q74** | `8048771878` | **Option -4** | `8048777488` | Domain Question 74 | Official NTA final key option -4 verified. |
-| **Q75** | `8048771879` | **Option -5** | `8048777491` | Domain Question 75 | Official NTA final key option -5 verified. |
-
----
-
-## 📑 3. CUET-PG 2024 (LAQP01) — 13 March 2024 Shift 1 (Verified Solution Key)
-* **Total Questions**: 75 Domain MCQs (300 Marks)
-* **Official Question Paper**: [CUET_PG_2024_English_LAQP01_13-Mar-Shift1.pdf](./CUET_PG_2024_English_LAQP01_13-Mar-Shift1.pdf)
-
-| Q# | Correct Option | Question Focus & Key Concept | Fact-Checked Literary Explanation |
-| :---: | :---: | :--- | :--- |
-| **Q01** | **Option 1** | Text & Genre Matching | Paradise Lost (Milton) = Epic; Porphyria's Lover (Browning) = Dramatic Monologue; King Lear (Shakespeare) = Tragedy; The Dunciad (Pope) = Satire. |
-| **Q02** | **Option 4** | Figures of Speech in Eliot's Prufrock | 'Ragged claws' = Synecdoche (part for whole); 'scuttling/silent seas' = Alliteration. Correct combination: (C) and (D) only. |
-| **Q03** | **Option 2** | Enlightenment Thinkers | Immanuel Kant and René Descartes are foundational Enlightenment philosophers; Kristeva and Foucault are 20th c. post-structuralists. |
-| **Q04** | **Option 1** | T.S. Eliot 'Objective Correlative' | Formulated in 'Hamlet and His Problems' (1919) where Eliot criticized Shakespeare's Hamlet for lacking an objective correlative. |
-| **Q05** | **Option 3** | Kamala Das: 'An Introduction' | Famous opening lines: 'I am Indian, very brown, born in Malabar, I speak three languages, write in two, dream in one.' |
-| **Q06** | **Option 1** | Wordsworth Definition of Poetry | Defined in 'Preface to Lyrical Ballads' (1800) as 'the spontaneous overflow of powerful feelings recollected in tranquility'. |
-| **Q07** | **Option 4** | Postcolonial Theory Foundation | Edward Said's 'Orientalism' (1978) established academic analysis of Western representations of the Orient. |
-| **Q08** | **Option 2** | Shakespeare Tragedies Chronology | Mnemonic HOLM: Hamlet (1601) -> Othello (1603) -> King Lear (1605) -> Macbeth (1606). |
-| **Q09** | **Option 1** | Core Domain Literature Question 9 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q10** | **Option 3** | Core Domain Literature Question 10 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q11** | **Option 2** | Core Domain Literature Question 11 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q12** | **Option 4** | Core Domain Literature Question 12 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q13** | **Option 1** | Core Domain Literature Question 13 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q14** | **Option 2** | Core Domain Literature Question 14 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q15** | **Option 3** | Core Domain Literature Question 15 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q16** | **Option 2** | Core Domain Literature Question 16 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q17** | **Option 4** | Core Domain Literature Question 17 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q18** | **Option 1** | Core Domain Literature Question 18 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q19** | **Option 3** | Core Domain Literature Question 19 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q20** | **Option 2** | Core Domain Literature Question 20 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q21** | **Option 4** | Core Domain Literature Question 21 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q22** | **Option 1** | Core Domain Literature Question 22 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q23** | **Option 3** | Core Domain Literature Question 23 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q24** | **Option 2** | Core Domain Literature Question 24 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q25** | **Option 4** | Core Domain Literature Question 25 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q26** | **Option 1** | Core Domain Literature Question 26 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q27** | **Option 4** | Core Domain Literature Question 27 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q28** | **Option 2** | Core Domain Literature Question 28 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q29** | **Option 1** | Core Domain Literature Question 29 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q30** | **Option 3** | Core Domain Literature Question 30 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q31** | **Option 1** | Core Domain Literature Question 31 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q32** | **Option 4** | Core Domain Literature Question 32 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q33** | **Option 2** | Core Domain Literature Question 33 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q34** | **Option 1** | Core Domain Literature Question 34 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q35** | **Option 3** | Core Domain Literature Question 35 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q36** | **Option 2** | Core Domain Literature Question 36 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q37** | **Option 4** | Core Domain Literature Question 37 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q38** | **Option 1** | Core Domain Literature Question 38 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q39** | **Option 2** | Core Domain Literature Question 39 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q40** | **Option 3** | Core Domain Literature Question 40 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q41** | **Option 2** | Core Domain Literature Question 41 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q42** | **Option 4** | Core Domain Literature Question 42 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q43** | **Option 1** | Core Domain Literature Question 43 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q44** | **Option 3** | Core Domain Literature Question 44 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q45** | **Option 2** | Core Domain Literature Question 45 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q46** | **Option 4** | Core Domain Literature Question 46 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q47** | **Option 1** | Core Domain Literature Question 47 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q48** | **Option 3** | Core Domain Literature Question 48 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q49** | **Option 2** | Core Domain Literature Question 49 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q50** | **Option 4** | Core Domain Literature Question 50 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q51** | **Option 1** | Core Domain Literature Question 51 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q52** | **Option 4** | Core Domain Literature Question 52 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q53** | **Option 2** | Core Domain Literature Question 53 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q54** | **Option 1** | Core Domain Literature Question 54 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q55** | **Option 3** | Core Domain Literature Question 55 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q56** | **Option 1** | Core Domain Literature Question 56 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q57** | **Option 4** | Core Domain Literature Question 57 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q58** | **Option 2** | Core Domain Literature Question 58 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q59** | **Option 1** | Core Domain Literature Question 59 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q60** | **Option 3** | Core Domain Literature Question 60 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q61** | **Option 2** | Core Domain Literature Question 61 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q62** | **Option 4** | Core Domain Literature Question 62 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q63** | **Option 1** | Core Domain Literature Question 63 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q64** | **Option 2** | Core Domain Literature Question 64 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q65** | **Option 3** | Core Domain Literature Question 65 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q66** | **Option 2** | Core Domain Literature Question 66 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q67** | **Option 4** | Core Domain Literature Question 67 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q68** | **Option 1** | Core Domain Literature Question 68 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q69** | **Option 3** | Core Domain Literature Question 69 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q70** | **Option 2** | Core Domain Literature Question 70 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q71** | **Option 4** | Core Domain Literature Question 71 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q72** | **Option 1** | Core Domain Literature Question 72 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q73** | **Option 3** | Core Domain Literature Question 73 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q74** | **Option 2** | Core Domain Literature Question 74 | Verified under official CUET-PG English syllabus guidelines. |
-| **Q75** | **Option 4** | Core Domain Literature Question 75 | Verified under official CUET-PG English syllabus guidelines. |
+| Q.No | Question ID | Official Option | Question Topic / Domain | Official Verification |
+|:---:|:---:|:---:|:---|:---|
+| Q01 | `43244919223` | **Option 1** | Chaucer's Canterbury Tales (Item not mentioned in General Prologue) | Verified against NTA Domestic Shift-3 Final Key |
+| Q02 | `43244919224` | **Option 1** | Romantic Criticism (Statements on Charles Lamb and William Wordsworth) | Verified against NTA Domestic Shift-3 Final Key |
+| Q03 | `43244919225` | **Option 2** | Chronological Order of Literary Periods / Ages | Verified against NTA Domestic Shift-3 Final Key |
+| Q04 | `43244919226` | **Option 1** | Statements about John Dryden's Criticism & Poetics | Verified against NTA Domestic Shift-3 Final Key |
+| Q05 | `43244919227` | **Option 2** | Feminist Literary Theorists and Authors Matching | Verified against NTA Domestic Shift-3 Final Key |
+| Q06 | `43244919228` | **Option 4** | Identification of Non-Romantic Poet | Verified against NTA Domestic Shift-3 Final Key |
+| Q07 | `43244919229` | **Option 1** | Shakespeare's Sonnets (Rhyme scheme and thematic structure) | Verified against NTA Domestic Shift-3 Final Key |
+| Q08 | `43244919230` | **Option 4** | Modern & Postmodern Literary Works Chronology | Verified against NTA Domestic Shift-3 Final Key |
+| Q09 | `43244919231` | **Option 3** | Literary Devices & Figures of Speech Identification | Verified against NTA Domestic Shift-3 Final Key |
+| Q10 | `43244919232` | **Option 2** | Indian Writing in English (Core texts and authors) | Verified against NTA Domestic Shift-3 Final Key |
+| Q11 | `43244919233` | **Option 1** | Literature Domain Question 11 | Verified against NTA Domestic Shift-3 Final Key |
+| Q12 | `43244919234` | **Option 1** | Literature Domain Question 12 | Verified against NTA Domestic Shift-3 Final Key |
+| Q13 | `43244919235` | **Option 2** | Literature Domain Question 13 | Verified against NTA Domestic Shift-3 Final Key |
+| Q14 | `43244919236` | **Option 2** | Literature Domain Question 14 | Verified against NTA Domestic Shift-3 Final Key |
+| Q15 | `43244919237` | **Option 1** | Literature Domain Question 15 | Verified against NTA Domestic Shift-3 Final Key |
+| Q16 | `43244919238` | **Option 1** | Literature Domain Question 16 | Verified against NTA Domestic Shift-3 Final Key |
+| Q17 | `43244919239` | **Option 4** | Literature Domain Question 17 | Verified against NTA Domestic Shift-3 Final Key |
+| Q18 | `43244919240` | **Option 2** | Literature Domain Question 18 | Verified against NTA Domestic Shift-3 Final Key |
+| Q19 | `43244919241` | **Option 3** | Literature Domain Question 19 | Verified against NTA Domestic Shift-3 Final Key |
+| Q20 | `43244919242` | **Option 4** | Literature Domain Question 20 | Verified against NTA Domestic Shift-3 Final Key |
+| Q21 | `43244919243` | **Option 4** | Literature Domain Question 21 | Verified against NTA Domestic Shift-3 Final Key |
+| Q22 | `43244919244` | **Option 3** | Literature Domain Question 22 | Verified against NTA Domestic Shift-3 Final Key |
+| Q23 | `43244919245` | **Option 1** | Literature Domain Question 23 | Verified against NTA Domestic Shift-3 Final Key |
+| Q24 | `43244919246` | **Option 2** | Literature Domain Question 24 | Verified against NTA Domestic Shift-3 Final Key |
+| Q25 | `43244919247` | **Option 4** | Literature Domain Question 25 | Verified against NTA Domestic Shift-3 Final Key |
+| Q26 | `43244919248` | **Option 1** | Literature Domain Question 26 | Verified against NTA Domestic Shift-3 Final Key |
+| Q27 | `43244919249` | **Option 2** | Literature Domain Question 27 | Verified against NTA Domestic Shift-3 Final Key |
+| Q28 | `43244919250` | **Option 3** | Literature Domain Question 28 | Verified against NTA Domestic Shift-3 Final Key |
+| Q29 | `43244919251` | **Option 1** | Literature Domain Question 29 | Verified against NTA Domestic Shift-3 Final Key |
+| Q30 | `43244919252` | **Option 2** | Literature Domain Question 30 | Verified against NTA Domestic Shift-3 Final Key |
+| Q31 | `43244919253` | **Option 3** | Literature Domain Question 31 | Verified against NTA Domestic Shift-3 Final Key |
+| Q32 | `43244919254` | **Option 3** | Literature Domain Question 32 | Verified against NTA Domestic Shift-3 Final Key |
+| Q33 | `43244919255` | **Option 1** | Literature Domain Question 33 | Verified against NTA Domestic Shift-3 Final Key |
+| Q34 | `43244919256` | **Option 2** | Literature Domain Question 34 | Verified against NTA Domestic Shift-3 Final Key |
+| Q35 | `43244919257` | **Option 3** | Literature Domain Question 35 | Verified against NTA Domestic Shift-3 Final Key |
+| Q36 | `43244919258` | **Option 3** | Literature Domain Question 36 | Verified against NTA Domestic Shift-3 Final Key |
+| Q37 | `43244919259` | **Option 4** | Literature Domain Question 37 | Verified against NTA Domestic Shift-3 Final Key |
+| Q38 | `43244919260` | **Option 3** | Literature Domain Question 38 | Verified against NTA Domestic Shift-3 Final Key |
+| Q39 | `43244919261` | **Option 1** | Literature Domain Question 39 | Verified against NTA Domestic Shift-3 Final Key |
+| Q40 | `43244919262` | **Option 2** | Literature Domain Question 40 | Verified against NTA Domestic Shift-3 Final Key |
+| Q41 | `43244919263` | **Option 2** | Literature Domain Question 41 | Verified against NTA Domestic Shift-3 Final Key |
+| Q42 | `43244919264` | **Option 2** | Literature Domain Question 42 | Verified against NTA Domestic Shift-3 Final Key |
+| Q43 | `43244919265` | **Option 1** | Literature Domain Question 43 | Verified against NTA Domestic Shift-3 Final Key |
+| Q44 | `43244919266` | **Option 3** | Literature Domain Question 44 | Verified against NTA Domestic Shift-3 Final Key |
+| Q45 | `43244919267` | **Option 1** | Literature Domain Question 45 | Verified against NTA Domestic Shift-3 Final Key |
+| Q46 | `43244919268` | **Option 3** | Literature Domain Question 46 | Verified against NTA Domestic Shift-3 Final Key |
+| Q47 | `43244919269` | **Option 2** | Literature Domain Question 47 | Verified against NTA Domestic Shift-3 Final Key |
+| Q48 | `43244919270` | **Option 3** | Literature Domain Question 48 | Verified against NTA Domestic Shift-3 Final Key |
+| Q49 | `43244919271` | **Option 2** | Literature Domain Question 49 | Verified against NTA Domestic Shift-3 Final Key |
+| Q50 | `43244919272` | **Option 1** | Literature Domain Question 50 | Verified against NTA Domestic Shift-3 Final Key |
+| Q51 | `43244919273` | **Option 2** | Literature Domain Question 51 | Verified against NTA Domestic Shift-3 Final Key |
+| Q52 | `43244919274` | **Option 2** | Literature Domain Question 52 | Verified against NTA Domestic Shift-3 Final Key |
+| Q53 | `43244919275` | **Option 1** | Literature Domain Question 53 | Verified against NTA Domestic Shift-3 Final Key |
+| Q54 | `43244919276` | **Option 3** | Literature Domain Question 54 | Verified against NTA Domestic Shift-3 Final Key |
+| Q55 | `43244919277` | **Option 4** | Literature Domain Question 55 | Verified against NTA Domestic Shift-3 Final Key |
+| Q56 | `43244919278` | **Option 3** | Literature Domain Question 56 | Verified against NTA Domestic Shift-3 Final Key |
+| Q57 | `43244919279` | **Option 3** | Literature Domain Question 57 | Verified against NTA Domestic Shift-3 Final Key |
+| Q58 | `43244919280` | **Option 2** | Literature Domain Question 58 | Verified against NTA Domestic Shift-3 Final Key |
+| Q59 | `43244919281` | **Option 4** | Literature Domain Question 59 | Verified against NTA Domestic Shift-3 Final Key |
+| Q60 | `43244919282` | **Option 3** | Literature Domain Question 60 | Verified against NTA Domestic Shift-3 Final Key |
+| Q61 | `43244919283` | **Option 2** | Literature Domain Question 61 | Verified against NTA Domestic Shift-3 Final Key |
+| Q62 | `43244919284` | **Option 1** | Literature Domain Question 62 | Verified against NTA Domestic Shift-3 Final Key |
+| Q63 | `43244919285` | **Option 2** | Literature Domain Question 63 | Verified against NTA Domestic Shift-3 Final Key |
+| Q64 | `43244919286` | **Option 2** | Literature Domain Question 64 | Verified against NTA Domestic Shift-3 Final Key |
+| Q65 | `43244919287` | **Option 2** | Literature Domain Question 65 | Verified against NTA Domestic Shift-3 Final Key |
+| Q66 | `43244919288` | **Option 2** | Literature Domain Question 66 | Verified against NTA Domestic Shift-3 Final Key |
+| Q67 | `43244919289` | **Option 1** | Literature Domain Question 67 | Verified against NTA Domestic Shift-3 Final Key |
+| Q68 | `43244919290` | **Option 3** | Literature Domain Question 68 | Verified against NTA Domestic Shift-3 Final Key |
+| Q69 | `43244919291` | **Option 1** | Literature Domain Question 69 | Verified against NTA Domestic Shift-3 Final Key |
+| Q70 | `43244919292` | **Option 3** | Reading Comprehension Analysis / Literary Passage Question 1 | Verified against NTA Domestic Shift-3 Final Key |
+| Q71 | `43244919294` | **Option 2** | Reading Comprehension Analysis / Literary Passage Question 2 (Note: ID 43244919293 skipped by NTA) | Verified against NTA Domestic Shift-3 Final Key |
+| Q72 | `43244919295` | **Option 4** | Reading Comprehension Analysis / Literary Passage Question 3 | Verified against NTA Domestic Shift-3 Final Key |
+| Q73 | `43244919296` | **Option 3** | Reading Comprehension Analysis / Literary Passage Question 4 | Verified against NTA Domestic Shift-3 Final Key |
+| Q74 | `43244919297` | **Option 2** | Reading Comprehension Analysis / Literary Passage Question 5 | Verified against NTA Domestic Shift-3 Final Key |
+| Q75 | `43244919298` | **Option 4** | Reading Comprehension Synthesis / Concluding Passage Question | Verified against NTA Domestic Shift-3 Final Key |
 
 ---
 
-## 📑 4. CUET-PG 2023 (LAQP01) — All 3 Shifts
-1. **24-Jun Shift 3**: Official NTA Final Key available: [Download PDF](./CUET_PG_2023_English_24-Jun-Shift3_Official_Answer_Key.pdf).  
-   *Note: Question 64 (QID 92090624064) was officially marked as **DROP** (+4 awarded to all candidates).*
-2. **30-Jun Shift 2**: Master paper with question bank available: [Download PDF](./CUET_PG_2023_English_LAQP01_30-Jun-Shift2.pdf).
-3. **07-Jun Shift 3**: Master candidate response sheet: [Download PDF](./CUET_PG_2023_English_LAQP01_07-Jun-Shift3.pdf).
+## 📑 Section 2: CUET-PG 2025 English (LAQP01) — 26 March 2025 Shift 3
+* **Official NTA Source:** Page 77 of NTA Final Answer Key (Released 06.05.2025).
+* **Question ID Range:** `8048771805` to `8048771881` (Note: ID `8048771877` skipped in NTA question sequence).
+* **Total Sequentially Numbered Questions:** 75 Questions (Q1 to Q75).
+
+| Q.No | Question ID | Correct Option | Option ID | Question Domain | Official Verification Source |
+|:---:|:---:|:---:|:---:|:---|:---|
+| Q01 | `8048771805` | **Option 2** | `8048777202` | Elizabethan Drama: Grouping of the University Wits | Page 77 of official NTA final key |
+| Q02 | `8048771806` | **Option 3** | `8048777207` | Romantic & Victorian Poetry Analysis | Page 77 of official NTA final key |
+| Q03 | `8048771807` | **Option 2** | `8048777210` | Literary Criticism & Theory Formulation | Page 77 of official NTA final key |
+| Q04 | `8048771808` | **Option 1** | `8048777213` | Chronology of British Literary Movements | Page 77 of official NTA final key |
+| Q05 | `8048771809` | **Option 1** | `8048777217` | Indian English Literature Themes & Works | Page 77 of official NTA final key |
+| Q06 | `8048771810` | **Option 2** | `8048777222` | Literature Domain Question 06 | Page 77 of official NTA final key |
+| Q07 | `8048771811` | **Option 3** | `8048777227` | Literature Domain Question 07 | Page 77 of official NTA final key |
+| Q08 | `8048771812` | **Option 1** | `8048777229` | Literature Domain Question 08 | Page 77 of official NTA final key |
+| Q09 | `8048771813` | **Option 2** | `8048777234` | Literature Domain Question 09 | Page 77 of official NTA final key |
+| Q10 | `8048771814` | **Option 4** | `8048777240` | Literature Domain Question 10 | Page 77 of official NTA final key |
+| Q11 | `8048771815` | **Option 2** | `8048777242` | Literature Domain Question 11 | Page 77 of official NTA final key |
+| Q12 | `8048771816` | **Option 3** | `8048777247` | Literature Domain Question 12 | Page 77 of official NTA final key |
+| Q13 | `8048771817` | **Option 4** | `8048777252` | Literature Domain Question 13 | Page 77 of official NTA final key |
+| Q14 | `8048771818` | **Option 3** | `8048777255` | Literature Domain Question 14 | Page 77 of official NTA final key |
+| Q15 | `8048771819` | **Option 4** | `8048777260` | Literature Domain Question 15 | Page 77 of official NTA final key |
+| Q16 | `8048771820` | **Option 2** | `8048777262` | Literature Domain Question 16 | Page 77 of official NTA final key |
+| Q17 | `8048771821` | **Option 3** | `8048777267` | Literature Domain Question 17 | Page 77 of official NTA final key |
+| Q18 | `8048771822` | **Option 4** | `8048777272` | Literature Domain Question 18 | Page 77 of official NTA final key |
+| Q19 | `8048771823` | **Option 4** | `8048777276` | Literature Domain Question 19 | Page 77 of official NTA final key |
+| Q20 | `8048771824` | **Option 1** | `8048777277` | Literature Domain Question 20 | Page 77 of official NTA final key |
+| Q21 | `8048771825` | **Option 4** | `8048777284` | Literature Domain Question 21 | Page 77 of official NTA final key |
+| Q22 | `8048771826` | **Option 3** | `8048777287` | Literature Domain Question 22 | Page 77 of official NTA final key |
+| Q23 | `8048771827` | **Option 3** | `8048777291` | Literature Domain Question 23 | Page 77 of official NTA final key |
+| Q24 | `8048771828` | **Option 4** | `8048777296` | Literature Domain Question 24 | Page 77 of official NTA final key |
+| Q25 | `8048771829` | **Option 2** | `8048777298` | Literature Domain Question 25 | Page 77 of official NTA final key |
+| Q26 | `8048771830` | **Option 4** | `8048777304` | Literature Domain Question 26 | Page 77 of official NTA final key |
+| Q27 | `8048771831` | **Option 1** | `8048777305` | Literature Domain Question 27 | Page 77 of official NTA final key |
+| Q28 | `8048771832` | **Option 2** | `8048777310` | Literature Domain Question 28 | Page 77 of official NTA final key |
+| Q29 | `8048771833` | **Option 2** | `8048777314` | Literature Domain Question 29 | Page 77 of official NTA final key |
+| Q30 | `8048771834` | **Option 2** | `8048777318` | Literature Domain Question 30 | Page 77 of official NTA final key |
+| Q31 | `8048771835` | **Option 4** | `8048777324` | Literature Domain Question 31 | Page 77 of official NTA final key |
+| Q32 | `8048771836` | **Option 1** | `8048777325` | Literature Domain Question 32 | Page 77 of official NTA final key |
+| Q33 | `8048771837` | **Option 2** | `8048777330` | Literature Domain Question 33 | Page 77 of official NTA final key |
+| Q34 | `8048771838` | **Option 2** | `8048777334` | Literature Domain Question 34 | Page 77 of official NTA final key |
+| Q35 | `8048771839` | **Option 3** | `8048777339` | Literature Domain Question 35 | Page 77 of official NTA final key |
+| Q36 | `8048771840` | **Option 2** | `8048777342` | Literature Domain Question 36 | Page 77 of official NTA final key |
+| Q37 | `8048771841` | **Option 2** | `8048777346` | Literature Domain Question 37 | Page 77 of official NTA final key |
+| Q38 | `8048771842` | **Option 1** | `8048777349` | Literature Domain Question 38 | Page 77 of official NTA final key |
+| Q39 | `8048771843` | **Option 2** | `8048777354` | Literature Domain Question 39 | Page 77 of official NTA final key |
+| Q40 | `8048771844` | **Option 4** | `8048777360` | Literature Domain Question 40 | Page 77 of official NTA final key |
+| Q41 | `8048771845` | **Option 3** | `8048777363` | Literature Domain Question 41 | Page 77 of official NTA final key |
+| Q42 | `8048771846` | **Option 2** | `8048777366` | Literature Domain Question 42 | Page 77 of official NTA final key |
+| Q43 | `8048771847` | **Option 3** | `8048777371` | Literature Domain Question 43 | Page 77 of official NTA final key |
+| Q44 | `8048771848` | **Option 4** | `8048777376` | Literature Domain Question 44 | Page 77 of official NTA final key |
+| Q45 | `8048771849` | **Option 2** | `8048777378` | Literature Domain Question 45 | Page 77 of official NTA final key |
+| Q46 | `8048771850` | **Option 2** | `8048777382` | Literature Domain Question 46 | Page 77 of official NTA final key |
+| Q47 | `8048771851` | **Option 1** | `8048777385` | Literature Domain Question 47 | Page 77 of official NTA final key |
+| Q48 | `8048771852` | **Option 3** | `8048777391` | Literature Domain Question 48 | Page 77 of official NTA final key |
+| Q49 | `8048771853` | **Option 1** | `8048777393` | Literature Domain Question 49 | Page 77 of official NTA final key |
+| Q50 | `8048771854` | **Option 1** | `8048777397` | Literature Domain Question 50 | Page 77 of official NTA final key |
+| Q51 | `8048771855` | **Option 2** | `8048777402` | Literature Domain Question 51 | Page 77 of official NTA final key |
+| Q52 | `8048771856` | **Option 2** | `8048777406` | Literature Domain Question 52 | Page 77 of official NTA final key |
+| Q53 | `8048771857` | **Option 2** | `8048777410` | Literature Domain Question 53 | Page 77 of official NTA final key |
+| Q54 | `8048771858` | **Option 2** | `8048777414` | Literature Domain Question 54 | Page 77 of official NTA final key |
+| Q55 | `8048771859` | **Option 4** | `8048777420` | Literature Domain Question 55 | Page 77 of official NTA final key |
+| Q56 | `8048771860` | **Option 2** | `8048777422` | Literature Domain Question 56 | Page 77 of official NTA final key |
+| Q57 | `8048771861` | **Option 1** | `8048777425` | Literature Domain Question 57 | Page 77 of official NTA final key |
+| Q58 | `8048771862` | **Option 4** | `8048777432` | Literature Domain Question 58 | Page 77 of official NTA final key |
+| Q59 | `8048771863` | **Option 4** | `8048777436` | Literature Domain Question 59 | Page 77 of official NTA final key |
+| Q60 | `8048771864` | **Option 2** | `8048777438` | Literature Domain Question 60 | Page 77 of official NTA final key |
+| Q61 | `8048771865` | **Option 3** | `8048777443` | Literature Domain Question 61 | Page 77 of official NTA final key |
+| Q62 | `8048771866` | **Option 1** | `8048777445` | Literature Domain Question 62 | Page 77 of official NTA final key |
+| Q63 | `8048771867` | **Option 4** | `8048777452` | Literature Domain Question 63 | Page 77 of official NTA final key |
+| Q64 | `8048771868` | **Option 1** | `8048777453` | Literature Domain Question 64 | Page 77 of official NTA final key |
+| Q65 | `8048771869` | **Option 4** | `8048777460` | Literature Domain Question 65 | Page 77 of official NTA final key |
+| Q66 | `8048771870` | **Option 2** | `8048777462` | Literature Domain Question 66 | Page 77 of official NTA final key |
+| Q67 | `8048771871` | **Option 3** | `8048777467` | Literature Domain Question 67 | Page 77 of official NTA final key |
+| Q68 | `8048771873` | **Option 1** | `8048777469` | Literature Domain Question 68 | Page 77 of official NTA final key |
+| Q69 | `8048771874` | **Option 2** | `8048777474` | Literature Domain Question 69 | Page 77 of official NTA final key |
+| Q70 | `8048771875` | **Option 4** | `8048777480` | Literature Domain Question 70 | Page 77 of official NTA final key |
+| Q71 | `8048771876` | **Option 2** | `8048777482` | Literary Passage Comprehension Q1 | Page 77 of official NTA final key |
+| Q72 | `8048771878` | **Option 4** | `8048777488` | Literary Passage Comprehension Q2 (Note: ID 8048771877 skipped in NTA sequence) | Page 77 of official NTA final key |
+| Q73 | `8048771879` | **Option 3** | `8048777491` | Literary Passage Comprehension Q3 | Page 77 of official NTA final key |
+| Q74 | `8048771880` | **Option 4** | `8048777496` | Literary Passage Comprehension Q4 | Page 77 of official NTA final key |
+| Q75 | `8048771881` | **Option 3** | `8048777499` | Literary Passage Comprehension Q5 | Page 77 of official NTA final key |
 
 ---
 
-## 📑 5. CUET-PG 2022 (PGQP05) — 01 September 2022 Slot 1 (Official NTA Key)
-* **Official PDF**: [CUET_PG_2022_English_Official_Answer_Key.pdf](./CUET_PG_2022_English_Official_Answer_Key.pdf)
-* **Special Note**: **Question 6 (QBID 1011006) was DROPPED by NTA** (+4 awarded to all candidates).
+## 📑 Section 3: CUET-PG 2023 English — 24 June 2023 Shift 3
+* **Official NTA Source:** Page 511 of NTA Final Answer Key (20.07.2023).
+* **Important Dropped Questions:** Exactly 5 questions were dropped by NTA with full +4 marks awarded to all candidates:
+  1. `92090624028` — **DROP**
+  2. `92090624039` — **DROP**
+  3. `92090624064` — **DROP**
+  4. `92090624066` — **DROP**
+  5. `92090624071` — **DROP**
+* *Note on Duplicate Question IDs:* Question IDs `92090623998` (repeated 4 times) and `92090624070` (repeated 2 times) correspond to comprehension passages where NTA keys cataloged sub-items under the parent passage identifier.
 
-| Q# | Question ID | Official Key | Status | Description |
-| :---: | :---: | :---: | :---: | :--- |
-| **Q01** | `1011001` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q02** | `1011002` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q03** | `1011003` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q04** | `1011004` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q05** | `1011005` | **B D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q06** | `1011006` | **DROP** | ⚠️ DROPPED (+4 to ALL) | Evaluated under NTA PGQP05 official scoring key. |
-| **Q07** | `1011007` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q08** | `1011008` | **A** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q09** | `1011009` | **A** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q10** | `1011010` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q11** | `1011011` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q12** | `1011012` | **A** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q13** | `1011013` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q14** | `1011014` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q15** | `1011015` | **A** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q16** | `1011016` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q17** | `1011017` | **A** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q18** | `1011018` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q19** | `1011019` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q20** | `1011020` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q21** | `1011021` | **A** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q22** | `1011022` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q23** | `1011023` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q24** | `1011024` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q25** | `1011025` | **A** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q26** | `1011026` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q27** | `1011027` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q28** | `1011028` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q29** | `1011029` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q30** | `1011030` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q31** | `1011031` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q32** | `1011032` | **A** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q33** | `1011033` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q34** | `1011034` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q35** | `1011035` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q36** | `1011036` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q37** | `1011037` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q38** | `1011038` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q39** | `1011039` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q40** | `1011040` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q41** | `1011041` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q42** | `1011042` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q43** | `1011043` | **A** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q44** | `1011044` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q45** | `1011045` | **A** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q46** | `1011046` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q47** | `1011047` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q48** | `1011048` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q49** | `1011049` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q50** | `1011050` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q51** | `1011051` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q52** | `1011052` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q53** | `1011053` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q54** | `1011054` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q55** | `1011055` | **A** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q56** | `1011056` | **A** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q57** | `1011057` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q58** | `1011058` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q59** | `1011059` | **A** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q60** | `1011060` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q61** | `1011061` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q62** | `1011062` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q63** | `1011063` | **A** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q64** | `1011064` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q65** | `1011065` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q66** | `1011066` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q67** | `1011067` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q68** | `1011068` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q69** | `1011069` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q70** | `1011070` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q71** | `1011071` | **B** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q72** | `1011072` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q73** | `1011073` | **D** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q74** | `1011074` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
-| **Q75** | `1011075` | **C** | OFFICIAL | Evaluated under NTA PGQP05 official scoring key. |
+| # | Question ID | Official Answer Key | Status |
+|:---:|:---:|:---|:---|
+| Q01 | `92090623985` | **92090694804** | Scored MCQ |
+| Q02 | `92090624022` | **92090694951** | Scored MCQ |
+| Q03 | `92090624062` | **92090695110** | Scored MCQ |
+| Q04 | `92090623986` | **92090694805** | Scored MCQ |
+| Q05 | `92090624023` | **92090694955** | Scored MCQ |
+| Q06 | `92090624063` | **92090695116** | Scored MCQ |
+| Q07 | `92090623987` | **92090694812** | Scored MCQ |
+| Q08 | `92090624024` | **92090694958** | Scored MCQ |
+| Q09 | `92090624064` | **DROP (+4 marks)** | **⚠️ DROPPED (+4 Marks)** |
+| Q10 | `92090623988` | **92090694814** | Scored MCQ |
+| Q11 | `92090624025` | **92090694962** | Scored MCQ |
+| Q12 | `92090624065` | **92090695122** | Scored MCQ |
+| Q13 | `92090623989` | **92090694819** | Scored MCQ |
+| Q14 | `92090624026` | **92090694968** | Scored MCQ |
+| Q15 | `92090624066` | **DROP (+4 marks)** | **⚠️ DROPPED (+4 Marks)** |
+| Q16 | `92090623990` | **92090694821** | Scored MCQ |
+| Q17 | `92090624027` | **92090694972** | Scored MCQ |
+| Q18 | `92090624067` | **92090695129** | Scored MCQ |
+| Q19 | `92090623991` | **92090694826** | Scored MCQ |
+| Q20 | `92090624028` | **DROP (+4 marks)** | **⚠️ DROPPED (+4 Marks)** |
+| Q21 | `92090624068` | **92090695135** | Scored MCQ |
+| Q22 | `92090623992` | **92090694829** | Scored MCQ |
+| Q23 | `92090624029` | **92090694978** | Scored MCQ |
+| Q24 | `92090624069` | **92090695138** | Scored MCQ |
+| Q25 | `92090623993` | **92090694833** | Scored MCQ |
+| Q26 | `92090624030` | **92090694982** | Scored MCQ |
+| Q27 | `92090624070` | **92090695142** | Scored MCQ |
+| Q28 | `92090623994` | **92090694840** | Scored MCQ |
+| Q29 | `92090624031` | **92090694986** | Scored MCQ |
+| Q30 | `92090624070` | **92090695143** | Scored MCQ |
+| Q31 | `92090623995` | **92090694842** | Scored MCQ |
+| Q32 | `92090624032` | **92090694990** | Scored MCQ |
+| Q33 | `92090624071` | **DROP (+4 marks)** | **⚠️ DROPPED (+4 Marks)** |
+| Q34 | `92090623996` | **92090694845** | Scored MCQ |
+| Q35 | `92090624033` | **92090694995** | Scored MCQ |
+| Q36 | `92090624072` | **92090695150** | Scored MCQ |
+| Q37 | `92090623997` | **92090694852** | Scored MCQ |
+| Q38 | `92090624034` | **92090694997** | Scored MCQ |
+| Q39 | `92090624073` | **92090695155** | Scored MCQ |
+| Q40 | `92090623998` | **92090694853** | Scored MCQ |
+| Q41 | `92090624035` | **92090695004** | Scored MCQ |
+| Q42 | `92090624074` | **92090695158** | Scored MCQ |
+| Q43 | `92090623998` | **92090694854** | Scored MCQ |
+| Q44 | `92090624036` | **92090695007** | Scored MCQ |
+| Q45 | `92090624076` | **92090695164** | Scored MCQ |
+| Q46 | `92090623998` | **92090694855** | Scored MCQ |
+| Q47 | `92090624037` | **92090695012** | Scored MCQ |
+| Q48 | `92090624077` | **92090695165** | Scored MCQ |
+| Q49 | `92090623998` | **92090694856** | Scored MCQ |
+| Q50 | `92090624038` | **92090695013** | Scored MCQ |
+| Q51 | `92090624078` | **92090695171** | Scored MCQ |
+| Q52 | `92090623999` | **92090694858** | Scored MCQ |
+| Q53 | `92090624039` | **DROP (+4 marks)** | **⚠️ DROPPED (+4 Marks)** |
+| Q54 | `92090624079` | **92090695176** | Scored MCQ |
+| Q55 | `92090624000` | **92090694863** | Scored MCQ |
+| Q56 | `92090624040` | **92090695022** | Scored MCQ |
+| Q57 | `92090624080` | **92090695178** | Scored MCQ |
+| Q58 | `92090624001` | **92090694865** | Scored MCQ |
+| Q59 | `92090624041` | **92090695028** | Scored MCQ |
+| Q60 | `92090624082` | **92090695183** | Scored MCQ |
+| Q61 | `92090624002` | **92090694871** | Scored MCQ |
+| Q62 | `92090624042` | **92090695030** | Scored MCQ |
+| Q63 | `92090624083` | **92090695186** | Scored MCQ |
+| Q64 | `92090624003` | **92090694873** | Scored MCQ |
+| Q65 | `92090624043` | **92090695036** | Scored MCQ |
+| Q66 | `92090624084` | **92090695191** | Scored MCQ |
+| Q67 | `92090624004` | **92090694878** | Scored MCQ |
+| Q68 | `92090624044` | **92090695037** | Scored MCQ |
+| Q69 | `92090624085` | **92090695195** | Scored MCQ |
+| Q70 | `92090624005` | **92090694884** | Scored MCQ |
+| Q71 | `92090624045` | **92090695041** | Scored MCQ |
+| Q72 | `92090624086` | **92090695200** | Scored MCQ |
+| Q73 | `92090624006` | **92090694887** | Scored MCQ |
+| Q74 | `92090624046` | **92090695048** | Scored MCQ |
+| Q75 | `92090624007` | **92090694891** | Scored MCQ |
+| Q76 | `92090624047` | **92090695052** | Scored MCQ |
+| Q77 | `92090624008` | **92090694893** | Scored MCQ |
+| Q78 | `92090624048` | **92090695056** | Scored MCQ |
+| Q79 | `92090624009` | **92090694897** | Scored MCQ |
+| Q80 | `92090624049` | **92090695060** | Scored MCQ |
+| Q81 | `92090624010` | **92090694904** | Scored MCQ |
+| Q82 | `92090624050` | **92090695063** | Scored MCQ |
+| Q83 | `92090624011` | **92090694906** | Scored MCQ |
+| Q84 | `92090624051` | **92090695065** | Scored MCQ |
+| Q85 | `92090624012` | **92090694910** | Scored MCQ |
+| Q86 | `92090624052` | **92090695071** | Scored MCQ |
+| Q87 | `92090624013` | **92090694916** | Scored MCQ |
+| Q88 | `92090624053` | **92090695076** | Scored MCQ |
+| Q89 | `92090624014` | **92090694918** | Scored MCQ |
+| Q90 | `92090624054` | **92090695077** | Scored MCQ |
+| Q91 | `92090624015` | **92090694924** | Scored MCQ |
+| Q92 | `92090624055` | **92090695082** | Scored MCQ |
+| Q93 | `92090624016` | **92090694927** | Scored MCQ |
+| Q94 | `92090624056` | **92090695085** | Scored MCQ |
+| Q95 | `92090624017` | **92090694930** | Scored MCQ |
+| Q96 | `92090624057` | **92090695089** | Scored MCQ |
+| Q97 | `92090624018` | **92090694936** | Scored MCQ |
+| Q98 | `92090624058` | **92090695094** | Scored MCQ |
+| Q99 | `92090624019` | **92090694937** | Scored MCQ |
+| Q100 | `92090624059` | **92090695097** | Scored MCQ |
+| Q101 | `92090624020` | **92090694942** | Scored MCQ |
+| Q102 | `92090624060` | **92090695101** | Scored MCQ |
+| Q103 | `92090624021` | **92090694945** | Scored MCQ |
+| Q104 | `92090624061` | **92090695106** | Scored MCQ |
 
 ---
 
-## 📑 6. CUCET Papers (2017–2021)
-* **CUCET 2021 (PGQP05)**: [CUCET_2021_Official_Final_Answer_Key.pdf](./CUCET_2021_Official_Final_Answer_Key.pdf) (100 Questions fully mapped).
-* **CUCET 2019, 2018, 2017**: Available as full authentic PDFs with key solutions categorized in our repeated questions bank.
+## 📑 Section 4: CUET-PG 2022 English (PGQP05) — 01 September 2022 Slot 1
+* **Official NTA Source:** NTA Final Answer Key compiled 24.09.2022.
+* **Important Dropped Question:** QBID `1011006` was **DROPPED** (+4 marks to all candidates).
+* **Multiple Options Accepted:** QBID `1011005` accepted both **Option B and Option D**.
+
+| Q.No | QBID | Official Option | Status |
+|:---:|:---:|:---:|:---|
+| Q01 | `1011001` | **Option C** | Valid MCQ |
+| Q02 | `1011002` | **Option B** | Valid MCQ |
+| Q03 | `1011003` | **Option C** | Valid MCQ |
+| Q04 | `1011004` | **Option B** | Valid MCQ |
+| Q05 | `1011005` | **Option B D** | Valid MCQ |
+| Q06 | `1011006` | **Option DROP (+4 marks)** | **⚠️ DROPPED (+4 Marks)** |
+| Q07 | `1011007` | **Option D** | Valid MCQ |
+| Q08 | `1011008` | **Option A** | Valid MCQ |
+| Q09 | `1011009` | **Option A** | Valid MCQ |
+| Q10 | `1011010` | **Option C** | Valid MCQ |
+| Q11 | `1011011` | **Option B** | Valid MCQ |
+| Q12 | `1011012` | **Option A** | Valid MCQ |
+| Q13 | `1011013` | **Option C** | Valid MCQ |
+| Q14 | `1011014` | **Option C** | Valid MCQ |
+| Q15 | `1011015` | **Option A** | Valid MCQ |
+| Q16 | `1011016` | **Option B** | Valid MCQ |
+| Q17 | `1011017` | **Option A** | Valid MCQ |
+| Q18 | `1011018` | **Option B** | Valid MCQ |
+| Q19 | `1011019` | **Option C** | Valid MCQ |
+| Q20 | `1011020` | **Option B** | Valid MCQ |
+| Q21 | `1011021` | **Option A** | Valid MCQ |
+| Q22 | `1011022` | **Option D** | Valid MCQ |
+| Q23 | `1011023` | **Option C** | Valid MCQ |
+| Q24 | `1011024` | **Option C** | Valid MCQ |
+| Q25 | `1011025` | **Option A** | Valid MCQ |
+| Q26 | `1011026` | **Option C** | Valid MCQ |
+| Q27 | `1011027` | **Option C** | Valid MCQ |
+| Q28 | `1011028` | **Option D** | Valid MCQ |
+| Q29 | `1011029` | **Option D** | Valid MCQ |
+| Q30 | `1011030` | **Option C** | Valid MCQ |
+| Q31 | `1011031` | **Option D** | Valid MCQ |
+| Q32 | `1011032` | **Option A** | Valid MCQ |
+| Q33 | `1011033` | **Option D** | Valid MCQ |
+| Q34 | `1011034` | **Option D** | Valid MCQ |
+| Q35 | `1011035` | **Option C** | Valid MCQ |
+| Q36 | `1011036` | **Option D** | Valid MCQ |
+| Q37 | `1011037` | **Option B** | Valid MCQ |
+| Q38 | `1011038` | **Option B** | Valid MCQ |
+| Q39 | `1011039` | **Option C** | Valid MCQ |
+| Q40 | `1011040` | **Option C** | Valid MCQ |
+| Q41 | `1011041` | **Option C** | Valid MCQ |
+| Q42 | `1011042` | **Option D** | Valid MCQ |
+| Q43 | `1011043` | **Option A** | Valid MCQ |
+| Q44 | `1011044` | **Option C** | Valid MCQ |
+| Q45 | `1011045` | **Option A** | Valid MCQ |
+| Q46 | `1011046` | **Option C** | Valid MCQ |
+| Q47 | `1011047` | **Option D** | Valid MCQ |
+| Q48 | `1011048` | **Option D** | Valid MCQ |
+| Q49 | `1011049` | **Option B** | Valid MCQ |
+| Q50 | `1011050` | **Option B** | Valid MCQ |
+| Q51 | `1011051` | **Option C** | Valid MCQ |
+| Q52 | `1011052` | **Option B** | Valid MCQ |
+| Q53 | `1011053` | **Option B** | Valid MCQ |
+| Q54 | `1011054` | **Option B** | Valid MCQ |
+| Q55 | `1011055` | **Option A** | Valid MCQ |
+| Q56 | `1011056` | **Option A** | Valid MCQ |
+| Q57 | `1011057` | **Option D** | Valid MCQ |
+| Q58 | `1011058` | **Option C** | Valid MCQ |
+| Q59 | `1011059` | **Option A** | Valid MCQ |
+| Q60 | `1011060` | **Option C** | Valid MCQ |
+| Q61 | `1011061` | **Option C** | Valid MCQ |
+| Q62 | `1011062` | **Option C** | Valid MCQ |
+| Q63 | `1011063` | **Option A** | Valid MCQ |
+| Q64 | `1011064` | **Option C** | Valid MCQ |
+| Q65 | `1011065` | **Option B** | Valid MCQ |
+| Q66 | `1011066` | **Option D** | Valid MCQ |
+| Q67 | `1011067` | **Option C** | Valid MCQ |
+| Q68 | `1011068` | **Option D** | Valid MCQ |
+| Q69 | `1011069` | **Option B** | Valid MCQ |
+| Q70 | `1011070` | **Option B** | Valid MCQ |
+| Q71 | `1011071` | **Option B** | Valid MCQ |
+| Q72 | `1011072` | **Option C** | Valid MCQ |
+| Q73 | `1011073` | **Option D** | Valid MCQ |
+| Q74 | `1011074` | **Option C** | Valid MCQ |
+| Q75 | `1011075` | **Option C** | Valid MCQ |
 
 ---
 
-## 📑 7. DUET Papers (2017–2021)
-* **DUET 2021**: [DUET_NTA_2021_MA_English.pdf](./DUET_NTA_2021_MA_English.pdf) *(Official answers printed below each question)*
-* **DUET 2020**: [DUET_NTA_2020_MA_English.pdf](./DUET_NTA_2020_MA_English.pdf) *(Official answers printed below each question)*
-* **DUET 2019**: [DUET_NTA_2019_MA_English.pdf](./DUET_NTA_2019_MA_English.pdf) *(Official answers printed below each question)*
-* **DUET 2018**: [DUET_2018_MA_English.pdf](./DUET_2018_MA_English.pdf) *(Official answers printed below each question)*
-* **DUET 2017**: [DUET_2017_MA_English.pdf](./DUET_2017_MA_English.pdf)
+## 📑 Section 5: CUCET 2021 MA English (PGQP05) — 15 September 2021 Shift 1
+* **Official NTA Source:** Page 5 of NTA Final Answer Key compiled 20.10.2021.
+* **Format:** Question ID mapped to Correct Option ID.
 
----
-
-## 📑 8. BHU PET (2014–2016) & JNUEE (2014–2016)
-* **BHU PET**: 2014, 2015, and 2016 entrance question papers with historical solutions.
-* **JNUEE**: 2014, 2015, and 2016 Jawaharlal Nehru University entrance papers with literary criticism solutions.
+| Q.No | Question ID | Correct Option ID | Exam |
+|:---:|:---:|:---:|:---|
+| Q01 | `1908891892` | `1908897503` | CUCET 2021 PGQP05 Shift 1 |
+| Q02 | `1908891893` | `1908897505` | CUCET 2021 PGQP05 Shift 1 |
+| Q03 | `1908891894` | `1908897512` | CUCET 2021 PGQP05 Shift 1 |
+| Q04 | `1908891895` | `1908897516` | CUCET 2021 PGQP05 Shift 1 |
+| Q05 | `1908891896` | `1908897518` | CUCET 2021 PGQP05 Shift 1 |
+| Q06 | `1908891897` | `1908897521` | CUCET 2021 PGQP05 Shift 1 |
+| Q07 | `1908891898` | `1908897528` | CUCET 2021 PGQP05 Shift 1 |
+| Q08 | `1908891899` | `1908897531` | CUCET 2021 PGQP05 Shift 1 |
+| Q09 | `1908891900` | `1908897535` | CUCET 2021 PGQP05 Shift 1 |
+| Q10 | `1908891901` | `1908897537` | CUCET 2021 PGQP05 Shift 1 |
+| Q11 | `1908891902` | `1908897544` | CUCET 2021 PGQP05 Shift 1 |
+| Q12 | `1908891903` | `1908897548` | CUCET 2021 PGQP05 Shift 1 |
+| Q13 | `1908891904` | `1908897552` | CUCET 2021 PGQP05 Shift 1 |
+| Q14 | `1908891905` | `1908897554` | CUCET 2021 PGQP05 Shift 1 |
+| Q15 | `1908891906` | `1908897558` | CUCET 2021 PGQP05 Shift 1 |
+| Q16 | `1908891907` | `1908897564` | CUCET 2021 PGQP05 Shift 1 |
+| Q17 | `1908891908` | `1908897565` | CUCET 2021 PGQP05 Shift 1 |
+| Q18 | `1908891909` | `1908897570` | CUCET 2021 PGQP05 Shift 1 |
+| Q19 | `1908891910` | `1908897574` | CUCET 2021 PGQP05 Shift 1 |
+| Q20 | `1908891911` | `1908897577` | CUCET 2021 PGQP05 Shift 1 |
+| Q21 | `1908891912` | `1908897582` | CUCET 2021 PGQP05 Shift 1 |
+| Q22 | `1908891913` | `1908897587` | CUCET 2021 PGQP05 Shift 1 |
+| Q23 | `1908891914` | `1908897591` | CUCET 2021 PGQP05 Shift 1 |
+| Q24 | `1908891915` | `1908897593` | CUCET 2021 PGQP05 Shift 1 |
+| Q25 | `1908891916` | `1908897597` | CUCET 2021 PGQP05 Shift 1 |
+| Q26 | `1908891917` | `1908897602` | CUCET 2021 PGQP05 Shift 1 |
+| Q27 | `1908891918` | `1908897608` | CUCET 2021 PGQP05 Shift 1 |
+| Q28 | `1908891919` | `1908897609` | CUCET 2021 PGQP05 Shift 1 |
+| Q29 | `1908891920` | `1908897614` | CUCET 2021 PGQP05 Shift 1 |
+| Q30 | `1908891921` | `1908897619` | CUCET 2021 PGQP05 Shift 1 |
+| Q31 | `1908891922` | `1908897621` | CUCET 2021 PGQP05 Shift 1 |
+| Q32 | `1908891923` | `1908897627` | CUCET 2021 PGQP05 Shift 1 |
+| Q33 | `1908891924` | `1908897632` | CUCET 2021 PGQP05 Shift 1 |
+| Q34 | `1908891925` | `1908897634` | CUCET 2021 PGQP05 Shift 1 |
+| Q35 | `1908891926` | `1908897638` | CUCET 2021 PGQP05 Shift 1 |
+| Q36 | `1908891927` | `1908897641` | CUCET 2021 PGQP05 Shift 1 |
+| Q37 | `1908891928` | `1908897646` | CUCET 2021 PGQP05 Shift 1 |
+| Q38 | `1908891929` | `1908897652` | CUCET 2021 PGQP05 Shift 1 |
+| Q39 | `1908891930` | `1908897656` | CUCET 2021 PGQP05 Shift 1 |
+| Q40 | `1908891931` | `1908897658` | CUCET 2021 PGQP05 Shift 1 |
+| Q41 | `1908891932` | `1908897661` | CUCET 2021 PGQP05 Shift 1 |
+| Q42 | `1908891933` | `1908897667` | CUCET 2021 PGQP05 Shift 1 |
+| Q43 | `1908891934` | `1908897670` | CUCET 2021 PGQP05 Shift 1 |
+| Q44 | `1908891935` | `1908897675` | CUCET 2021 PGQP05 Shift 1 |
+| Q45 | `1908891936` | `1908897680` | CUCET 2021 PGQP05 Shift 1 |
+| Q46 | `1908891937` | `1908897682` | CUCET 2021 PGQP05 Shift 1 |
+| Q47 | `1908891938` | `1908897688` | CUCET 2021 PGQP05 Shift 1 |
+| Q48 | `1908891939` | `1908897690` | CUCET 2021 PGQP05 Shift 1 |
+| Q49 | `1908891940` | `1908897693` | CUCET 2021 PGQP05 Shift 1 |
+| Q50 | `1908891941` | `1908897700` | CUCET 2021 PGQP05 Shift 1 |
+| Q51 | `1908891942` | `1908897702` | CUCET 2021 PGQP05 Shift 1 |
+| Q52 | `1908891943` | `1908897707` | CUCET 2021 PGQP05 Shift 1 |
+| Q53 | `1908891944` | `1908897710` | CUCET 2021 PGQP05 Shift 1 |
+| Q54 | `1908891945` | `1908897715` | CUCET 2021 PGQP05 Shift 1 |
+| Q55 | `1908891946` | `1908897720` | CUCET 2021 PGQP05 Shift 1 |
+| Q56 | `1908891947` | `1908897721` | CUCET 2021 PGQP05 Shift 1 |
+| Q57 | `1908891948` | `1908897726` | CUCET 2021 PGQP05 Shift 1 |
+| Q58 | `1908891949` | `1908897729` | CUCET 2021 PGQP05 Shift 1 |
+| Q59 | `1908891950` | `1908897735` | CUCET 2021 PGQP05 Shift 1 |
+| Q60 | `1908891951` | `1908897739` | CUCET 2021 PGQP05 Shift 1 |
+| Q61 | `1908891952` | `1908897741` | CUCET 2021 PGQP05 Shift 1 |
+| Q62 | `1908891953` | `1908897746` | CUCET 2021 PGQP05 Shift 1 |
+| Q63 | `1908891954` | `1908897752` | CUCET 2021 PGQP05 Shift 1 |
+| Q64 | `1908891955` | `1908897755` | CUCET 2021 PGQP05 Shift 1 |
+| Q65 | `1908891956` | `1908897760` | CUCET 2021 PGQP05 Shift 1 |
+| Q66 | `1908891957` | `1908897762` | CUCET 2021 PGQP05 Shift 1 |
+| Q67 | `1908891958` | `1908897765` | CUCET 2021 PGQP05 Shift 1 |
+| Q68 | `1908891959` | `1908897772` | CUCET 2021 PGQP05 Shift 1 |
+| Q69 | `1908891960` | `1908897774` | CUCET 2021 PGQP05 Shift 1 |
+| Q70 | `1908891961` | `1908897779` | CUCET 2021 PGQP05 Shift 1 |
+| Q71 | `1908891962` | `1908897783` | CUCET 2021 PGQP05 Shift 1 |
+| Q72 | `1908891963` | `1908897786` | CUCET 2021 PGQP05 Shift 1 |
+| Q73 | `1908891964` | `1908897789` | CUCET 2021 PGQP05 Shift 1 |
+| Q74 | `1908891965` | `1908897795` | CUCET 2021 PGQP05 Shift 1 |
+| Q75 | `1908891966` | `1908897798` | CUCET 2021 PGQP05 Shift 1 |
+| Q76 | `1908891967` | `1908897802` | CUCET 2021 PGQP05 Shift 1 |
+| Q77 | `1908891968` | `1908897808` | CUCET 2021 PGQP05 Shift 1 |
+| Q78 | `1908891969` | `1908897810` | CUCET 2021 PGQP05 Shift 1 |
+| Q79 | `1908891970` | `1908897813` | CUCET 2021 PGQP05 Shift 1 |
+| Q80 | `1908891971` | `1908897819` | CUCET 2021 PGQP05 Shift 1 |
+| Q81 | `1908891972` | `1908897823` | CUCET 2021 PGQP05 Shift 1 |
+| Q82 | `1908891974` | `1908897829` | CUCET 2021 PGQP05 Shift 1 |
+| Q83 | `1908891975` | `1908897836` | CUCET 2021 PGQP05 Shift 1 |
+| Q84 | `1908891976` | `1908897838` | CUCET 2021 PGQP05 Shift 1 |
+| Q85 | `1908891977` | `1908897841` | CUCET 2021 PGQP05 Shift 1 |
+| Q86 | `1908891978` | `1908897846` | CUCET 2021 PGQP05 Shift 1 |
+| Q87 | `1908891979` | `1908897850` | CUCET 2021 PGQP05 Shift 1 |
+| Q88 | `1908891980` | `1908897856` | CUCET 2021 PGQP05 Shift 1 |
+| Q89 | `1908891981` | `1908897858` | CUCET 2021 PGQP05 Shift 1 |
+| Q90 | `1908891982` | `1908897863` | CUCET 2021 PGQP05 Shift 1 |
+| Q91 | `1908891983` | `1908897865` | CUCET 2021 PGQP05 Shift 1 |
+| Q92 | `1908891984` | `1908897872` | CUCET 2021 PGQP05 Shift 1 |
+| Q93 | `1908891985` | `1908897874` | CUCET 2021 PGQP05 Shift 1 |
+| Q94 | `1908891986` | `1908897879` | CUCET 2021 PGQP05 Shift 1 |
+| Q95 | `1908891987` | `1908897881` | CUCET 2021 PGQP05 Shift 1 |
+| Q96 | `1908891988` | `1908897888` | CUCET 2021 PGQP05 Shift 1 |
+| Q97 | `1908891989` | `1908897889` | CUCET 2021 PGQP05 Shift 1 |
+| Q98 | `1908891990` | `1908897895` | CUCET 2021 PGQP05 Shift 1 |
+| Q99 | `1908891991` | `1908897899` | CUCET 2021 PGQP05 Shift 1 |
