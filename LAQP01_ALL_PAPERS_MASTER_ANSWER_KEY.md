@@ -9,17 +9,17 @@
 
 | # | Examination Paper Name | Year & Shift | Questions | Official Answer Key Type | Direct Access File | Status |
 | :---: | :--- | :--- | :---: | :--- | :--- | :--- |
-| **01** | **CUET-PG 2026 English (LAQP01)** | 12-Mar Shift 3 | 75 Qs | Official NTA Final Key (PDF) | [CUET_PG_2026_Official_Final_Answer_Key.pdf](./CUET_PG_2026_Official_Final_Answer_Key.pdf) | `Decoded & Verified` |
-| **02** | **CUET-PG 2025 English (LAQP01)** | 26-Mar Shift 3 | 75 Qs | Official NTA Final Key (PDF) | [CUET_PG_2025_Official_Final_Answer_Key.pdf](./CUET_PG_2025_Official_Final_Answer_Key.pdf) | `Decoded & Verified` |
-| **03** | **CUET-PG 2024 English (LAQP01)** | 13-Mar Shift 1 | 75 Qs | Official Final Solutions | [LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md](./LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md) | `Decoded & Verified` |
-| **04** | **CUET-PG 2023 English (24-Jun Shift 3)** | 24-Jun Shift 3 | 100 Qs | Official NTA Final Key (PDF) | [CUET_PG_2023_English_24-Jun-Shift3_Official_Answer_Key.pdf](./CUET_PG_2023_English_24-Jun-Shift3_Official_Answer_Key.pdf) | `Decoded & Verified (Q64 Drop)` |
-| **05** | **CUET-PG 2023 English (30-Jun Shift 2)** | 30-Jun Shift 2 | 100 Qs | Official Verified Solutions | [LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md](./LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md) | `Decoded & Verified` |
-| **06** | **CUET-PG 2023 English (07-Jun Shift 3)** | 07-Jun Shift 3 | 100 Qs | Official Verified Solutions | [LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md](./LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md) | `Decoded & Verified` |
-| **07** | **CUET-PG 2022 English (PGQP05)** | 01-Sep Slot 1 | 100 Qs | Official NTA Final Key (PDF) | [CUET_PG_2022_English_Official_Answer_Key.pdf](./CUET_PG_2022_English_Official_Answer_Key.pdf) | `Decoded & Verified (Q6 Drop)` |
-| **08** | **CUCET 2021 MA English (PGQP05)** | 15-Sep Shift 1 | 100 Qs | Official NTA Final Key (PDF) | [CUCET_2021_Official_Final_Answer_Key.pdf](./CUCET_2021_Official_Final_Answer_Key.pdf) | `Decoded & Verified` |
-| **09** | **CUCET 2019 MA English (PGQP05)** | Annual Session | 100 Qs | CURAJ Solved Key Reference | [LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md](./LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md) | `Verified Solutions` |
-| **10** | **CUCET 2018 MA English (PGQP05)** | Annual Session | 100 Qs | CURAJ Solved Key Reference | [LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md](./LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md) | `Verified Solutions` |
-| **11** | **CUCET 2017 MA English (PGQP05)** | Annual Session | 100 Qs | CURAJ Solved Key Reference | [LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md](./LAQP01_ALL_PAPERS_MASTER_ANSWER_KEY.md) | `Verified Solutions` |
+| **01** | **CUET-PG 2026 English (LAQP01)** | 12-Mar Shift 3 | 75 Qs | NTA Final Key (PDF) | [CUET_PG_2026_Official_Final_Answer_Key.pdf](./CUET_PG_2026_Official_Final_Answer_Key.pdf) | `Decoded & Verified` |
+| **02** | **CUET-PG 2025 English (LAQP01)** | 26-Mar Shift 3 | 75 Qs | 1-Page English Key (PDF) | [CUET_PG_2025_Official_Final_Answer_Key.pdf](./CUET_PG_2025_Official_Final_Answer_Key.pdf) | `Decoded & Verified` |
+| **03** | **CUET-PG 2024 English (LAQP01)** | 13-Mar Shift 1 | 75 Qs | 1-Page English Key (PDF) | [CUET_PG_2024_English_Official_Answer_Key.pdf](./CUET_PG_2024_English_Official_Answer_Key.pdf) | `Decoded & Verified` |
+| **04** | **CUET-PG 2023 English (24-Jun Shift 3)** | 24-Jun Shift 3 | 100 Qs | 1-Page NTA Key (PDF) | [CUET_PG_2023_English_24-Jun-Shift3_Official_Answer_Key.pdf](./CUET_PG_2023_English_24-Jun-Shift3_Official_Answer_Key.pdf) | `Decoded & Verified (Q64 Drop)` |
+| **05** | **CUET-PG 2023 English (30-Jun Shift 2)** | 30-Jun Shift 2 | 100 Qs | 1-Page English Key (PDF) | [CUET_PG_2023_English_30-Jun-Shift2_Answer_Key.pdf](./CUET_PG_2023_English_30-Jun-Shift2_Answer_Key.pdf) | `Decoded & Verified` |
+| **06** | **CUET-PG 2023 English (07-Jun Shift 3)** | 07-Jun Shift 3 | 100 Qs | 1-Page English Key (PDF) | [CUET_PG_2023_English_07-Jun-Shift3_Answer_Key.pdf](./CUET_PG_2023_English_07-Jun-Shift3_Answer_Key.pdf) | `Decoded & Verified` |
+| **07** | **CUET-PG 2022 English (PGQP05)** | 01-Sep Slot 1 | 100 Qs | 1-Page NTA Key (PDF) | [CUET_PG_2022_English_Official_Answer_Key.pdf](./CUET_PG_2022_English_Official_Answer_Key.pdf) | `Decoded & Verified (Q6 Drop)` |
+| **08** | **CUCET 2021 MA English (PGQP05)** | 15-Sep Shift 1 | 100 Qs | 1-Page English Key (PDF) | [CUCET_2021_Official_Final_Answer_Key.pdf](./CUCET_2021_Official_Final_Answer_Key.pdf) | `Decoded & Verified` |
+| **09** | **CUCET 2019 MA English (PGQP05)** | Annual Session | 100 Qs | 1-Page English Key (PDF) | [CUCET_2019_MA_English_Answer_Key.pdf](./CUCET_2019_MA_English_Answer_Key.pdf) | `Verified Solutions` |
+| **10** | **CUCET 2018 MA English (PGQP05)** | Annual Session | 100 Qs | 1-Page English Key (PDF) | [CUCET_2018_MA_English_Answer_Key.pdf](./CUCET_2018_MA_English_Answer_Key.pdf) | `Verified Solutions` |
+| **11** | **CUCET 2017 MA English (PGQP05)** | Annual Session | 100 Qs | 1-Page English Key (PDF) | [CUCET_2017_MA_English_Answer_Key.pdf](./CUCET_2017_MA_English_Answer_Key.pdf) | `Verified Solutions` |
 | **12** | **DUET 2021 MA English (NTA)** | NTA Computer Based | 100 Qs | Embedded in Master Paper | [DUET_NTA_2021_MA_English.pdf](./DUET_NTA_2021_MA_English.pdf) | `Official NTA Key Inside` |
 | **13** | **DUET 2020 MA English (NTA)** | NTA Computer Based | 100 Qs | Embedded in Master Paper | [DUET_NTA_2020_MA_English.pdf](./DUET_NTA_2020_MA_English.pdf) | `Official NTA Key Inside` |
 | **14** | **DUET 2019 MA English (NTA)** | NTA Computer Based | 100 Qs | Embedded in Master Paper | [DUET_NTA_2019_MA_English.pdf](./DUET_NTA_2019_MA_English.pdf) | `Official NTA Key Inside` |

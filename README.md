@@ -16,15 +16,21 @@ Welcome to the comprehensive, source-verified archive for **CUET-PG English (Pap
 
 ---
 
-## 🔑 Official NTA Final Answer Key PDFs
+## 🔑 Official NTA Final Answer Key PDFs (English Only)
 
-Direct official final answer key documents released by the National Testing Agency (NTA):
+Single-page, pure English (LAQP01 / PGQP05) final answer key documents (no huge 100+ page multi-subject files):
 
-* 📥 **[CUET-PG 2026 Official Final Answer Key PDF](./CUET_PG_2026_Official_Final_Answer_Key.pdf)** *(12-Mar-2026 Shift 3 • Released 24-Apr-2026)*
-* 📥 **[CUET-PG 2025 Official Final Answer Key PDF](./CUET_PG_2025_Official_Final_Answer_Key.pdf)** *(26-Mar-2025 Shift 3 • Released 06-May-2025)*
-* 📥 **[CUET-PG 2023 (24-Jun Shift 3) Official Final Answer Key PDF](./CUET_PG_2023_English_24-Jun-Shift3_Official_Answer_Key.pdf)** *(Released 20-Jul-2023 • Dropped Q64 marked)*
-* 📥 **[CUET-PG 2022 Official Final Answer Key PDF](./CUET_PG_2022_English_Official_Answer_Key.pdf)** *(01-Sep-2022 Slot 1 • Released 24-Sep-2022 • Dropped Q6 marked)*
-* 📥 **[CUCET 2021 Official Final Answer Key PDF](./CUCET_2021_Official_Final_Answer_Key.pdf)** *(15-Sep-2021 Shift 1 • Released 20-Oct-2021)*
+* 📥 **[CUET-PG 2026 English Final Answer Key (PDF)](./CUET_PG_2026_Official_Final_Answer_Key.pdf)** *(12-Mar-2026 Shift 3 • All 75 Questions)*
+* 📥 **[CUET-PG 2025 English Official Final Answer Key (1-Page PDF)](./CUET_PG_2025_Official_Final_Answer_Key.pdf)** *(26-Mar-2025 Shift 3 • Exact English LAQP01 Key Only)*
+* 📥 **[CUET-PG 2024 English Official Final Answer Key (1-Page PDF)](./CUET_PG_2024_English_Official_Answer_Key.pdf)** *(13-Mar-2024 Shift 1 • All 75 Literary Domain Questions)*
+* 📥 **[CUET-PG 2023 (24-Jun Shift 3) Official Final Answer Key (1-Page PDF)](./CUET_PG_2023_English_24-Jun-Shift3_Official_Answer_Key.pdf)** *(Released 20-Jul-2023 • Dropped Q64 marked)*
+* 📥 **[CUET-PG 2023 (30-Jun Shift 2) Answer Key (1-Page PDF)](./CUET_PG_2023_English_30-Jun-Shift2_Answer_Key.pdf)** *(Shift 2 Paper Key)*
+* 📥 **[CUET-PG 2023 (07-Jun Shift 3) Answer Key (1-Page PDF)](./CUET_PG_2023_English_07-Jun-Shift3_Answer_Key.pdf)** *(Shift 3 Initial Date Key)*
+* 📥 **[CUET-PG 2022 Official Final Answer Key (1-Page PDF)](./CUET_PG_2022_English_Official_Answer_Key.pdf)** *(01-Sep-2022 Slot 1 • Dropped Q6 marked)*
+* 📥 **[CUCET 2021 Official Final Answer Key (1-Page PDF)](./CUCET_2021_Official_Final_Answer_Key.pdf)** *(15-Sep-2021 Shift 1 • Exact English PGQP05 Key Only)*
+* 📥 **[CUCET 2019 MA English Answer Key (1-Page PDF)](./CUCET_2019_MA_English_Answer_Key.pdf)** *(100 Qs Key)*
+* 📥 **[CUCET 2018 MA English Answer Key (1-Page PDF)](./CUCET_2018_MA_English_Answer_Key.pdf)** *(100 Qs Key)*
+* 📥 **[CUCET 2017 MA English Answer Key (1-Page PDF)](./CUCET_2017_MA_English_Answer_Key.pdf)** *(100 Qs Key)*
 
 ---
 
