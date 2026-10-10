@@ -617,19 +617,28 @@
       position: fixed;
       bottom: 20px;
       right: 20px;
+    /* ==========================================================================
+       SPOTIFY WIDGET: ULTRA-COMPACT SPACE-SAVING STUDY PLAYER
+       ========================================================================== */
+    .spotify-dock-btn {
+      position: fixed;
+      bottom: 18px;
+      right: 18px;
       z-index: 1000;
-      background: #121418;
+      background: rgba(18, 20, 24, 0.94);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
       color: #1db954;
       border: 1px solid rgba(29, 185, 84, 0.35);
-      padding: 10px 18px;
+      padding: 6px 14px;
       border-radius: 9999px;
-      font-size: 0.85rem;
+      font-size: 0.78rem;
       font-weight: 700;
       cursor: pointer;
       display: inline-flex;
       align-items: center;
-      gap: 8px;
-      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.55);
+      gap: 7px;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
       transition: transform 160ms var(--ease-out), background-color 160ms var(--ease-out), border-color 160ms var(--ease-out);
       will-change: transform;
     }
@@ -637,7 +646,7 @@
       background: #181b22;
       border-color: #1db954;
       transform: translateY(-2px);
-      box-shadow: 0 14px 32px rgba(29, 185, 84, 0.2);
+      box-shadow: 0 8px 24px rgba(29, 185, 84, 0.25);
     }
     .spotify-dock-btn:active {
       transform: scale(0.97);
@@ -645,30 +654,30 @@
 
     .spotify-widget {
       position: fixed;
-      bottom: 20px;
-      right: 20px;
-      width: 340px;
+      bottom: 18px;
+      right: 18px;
+      width: 270px;
       z-index: 1001;
-      background: rgba(14, 16, 20, 0.95);
+      background: rgba(14, 16, 20, 0.96);
       backdrop-filter: blur(16px);
       -webkit-backdrop-filter: blur(16px);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      border-radius: 14px;
-      box-shadow: 0 20px 48px -10px rgba(0, 0, 0, 0.75);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-radius: 12px;
+      box-shadow: 0 16px 36px -6px rgba(0, 0, 0, 0.8);
       overflow: hidden;
-      display: flex;
+      display: none; /* Collapsed by default so it never covers the screen! */
       flex-direction: column;
       user-select: none;
       transition: box-shadow 200ms var(--ease-out);
     }
     .spotify-widget.dragging {
-      box-shadow: 0 28px 60px -8px rgba(0, 0, 0, 0.9);
+      box-shadow: 0 24px 50px -6px rgba(0, 0, 0, 0.95);
       cursor: grabbing !important;
     }
 
     .spotify-header {
-      padding: 8px 14px;
-      background: rgba(255, 255, 255, 0.03);
+      padding: 6px 10px;
+      background: rgba(255, 255, 255, 0.04);
       border-bottom: 1px solid var(--border-hairline);
       display: flex;
       align-items: center;
@@ -677,38 +686,38 @@
       touch-action: none;
     }
     .spotify-header-title {
-      font-size: 0.76rem;
+      font-size: 0.7rem;
       font-weight: 700;
       color: #f5f2eb;
       display: flex;
       align-items: center;
-      gap: 7px;
+      gap: 6px;
       letter-spacing: 0.03em;
       text-transform: uppercase;
     }
     .spotify-logo-dot {
-      width: 14px;
-      height: 14px;
+      width: 12px;
+      height: 12px;
       fill: #1db954;
       display: inline-block;
     }
     .spotify-grip {
       color: var(--text-tertiary);
-      font-size: 0.85rem;
+      font-size: 0.75rem;
     }
     .spotify-ctrls {
       display: flex;
-      gap: 4px;
+      gap: 2px;
       align-items: center;
     }
     .spotify-ctrl-btn {
-      width: 24px;
-      height: 24px;
+      width: 20px;
+      height: 20px;
       border-radius: 4px;
       border: none;
       background: transparent;
       color: var(--text-secondary);
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       cursor: pointer;
       display: flex;
       align-items: center;
@@ -716,7 +725,7 @@
       transition: background-color 140ms var(--ease-out), color 140ms var(--ease-out);
     }
     .spotify-ctrl-btn:hover {
-      background: rgba(255, 255, 255, 0.1);
+      background: rgba(255, 255, 255, 0.12);
       color: var(--text-primary);
     }
     .spotify-ctrl-btn:active {
@@ -725,18 +734,18 @@
 
     .spotify-playlist-bar {
       display: flex;
-      gap: 4px;
-      padding: 6px 10px;
-      background: rgba(0, 0, 0, 0.25);
+      gap: 3px;
+      padding: 4px 6px;
+      background: rgba(0, 0, 0, 0.35);
       border-bottom: 1px solid var(--border-hairline);
     }
     .spotify-pill-tab {
       flex: 1;
-      padding: 4px 6px;
+      padding: 3px 4px;
       background: transparent;
       border: 1px solid transparent;
       border-radius: 4px;
-      font-size: 0.7rem;
+      font-size: 0.65rem;
       font-weight: 600;
       color: var(--text-secondary);
       cursor: pointer;
@@ -746,26 +755,27 @@
     }
     .spotify-pill-tab:hover {
       color: var(--text-primary);
-      background: rgba(255, 255, 255, 0.05);
+      background: rgba(255, 255, 255, 0.06);
     }
     .spotify-pill-tab.active {
-      background: rgba(29, 185, 84, 0.15);
+      background: rgba(29, 185, 84, 0.18);
       color: #1db954;
-      border-color: rgba(29, 185, 84, 0.3);
+      border-color: rgba(29, 185, 84, 0.35);
     }
 
     .spotify-frame-container {
       width: 100%;
-      height: 152px;
+      height: 80px; /* Official Spotify Compact Height */
       background: #000;
       overflow: hidden;
     }
     .spotify-frame-container iframe {
       width: 100%;
-      height: 100%;
+      height: 80px;
       border: none;
       display: block;
     }
+
 
     /* Accessibility: Respect Reduced Motion Preferences */
     @media (prefers-reduced-motion: reduce) {
@@ -1931,30 +1941,30 @@
     }
   </script>
 
-  <!-- Sticky Draggable Spotify Music Player Widget -->
-  <button id="spotifyDockBtn" class="spotify-dock-btn" style="display: none;" onclick="toggleSpotifyWidget(true)">
+  <!-- Ultra-Compact Space-Saving Spotify Player -->
+  <button id="spotifyDockBtn" class="spotify-dock-btn" style="display: inline-flex;" onclick="toggleSpotifyWidget(true)" title="Open Study Music Player">
     <svg class="spotify-logo-dot" viewBox="0 0 24 24"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
-    <span>Study Beats</span>
+    <span>🎵 Study Beats</span>
   </button>
 
-  <div id="spotifyWidget" class="spotify-widget">
+  <div id="spotifyWidget" class="spotify-widget" style="display: none;">
     <div id="spotifyHeader" class="spotify-header">
       <div class="spotify-header-title">
         <span class="spotify-grip">⠿</span>
         <svg class="spotify-logo-dot" viewBox="0 0 24 24"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
-        <span>Spotify &bull; Study Beats</span>
+        <span>Spotify Study Beats</span>
       </div>
       <div class="spotify-ctrls">
-        <button class="spotify-ctrl-btn" title="Minimize" onclick="toggleSpotifyWidget(false)">−</button>
+        <button class="spotify-ctrl-btn" title="Close / Minimize" onclick="toggleSpotifyWidget(false)">✕</button>
       </div>
     </div>
     <div class="spotify-playlist-bar">
-      <button class="spotify-pill-tab active" onclick="switchSpotifyPlaylist('37i9dQZF1DX8Uebhn9wzrS', this)">🎧 Lofi Study</button>
-      <button class="spotify-pill-tab" onclick="switchSpotifyPlaylist('37i9dQZF1DXdLEN7aqioXM', this)">☕ Deep Focus</button>
-      <button class="spotify-pill-tab" onclick="switchSpotifyPlaylist('37i9dQZF1DWZqd5JICZI0u', this)">📖 Peaceful Piano</button>
+      <button class="spotify-pill-tab active" onclick="switchSpotifyPlaylist('37i9dQZF1DX8Uebhn9wzrS', this)">Lofi</button>
+      <button class="spotify-pill-tab" onclick="switchSpotifyPlaylist('37i9dQZF1DXdLEN7aqioXM', this)">Focus</button>
+      <button class="spotify-pill-tab" onclick="switchSpotifyPlaylist('37i9dQZF1DWZqd5JICZI0u', this)">Piano</button>
     </div>
     <div class="spotify-frame-container">
-      <iframe id="spotifyIframe" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX8Uebhn9wzrS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      <iframe id="spotifyIframe" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX8Uebhn9wzrS?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
   </div>
 </body>
